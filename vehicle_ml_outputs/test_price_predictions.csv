@@ -1,0 +1,1286 @@
+Brand,Model,Edition,Transmission,FuelType,BodyType,Negotiable,ManufactureYear,EngineCC,MileageKM,ActualLKR,PredictedLKR,AbsoluteErrorLKR,ResidualLKR,PriceBand
+Nissan,March,K10,Manual,Petrol,Hatchback,Yes,1986,996.0,115000.0,1050000.0,816388.7,233611.3125,233611.3125,Below 10M
+Toyota,Carina,Carina At-150,Manual,Petrol,Saloon,Yes,1985,1450.0,197256.0,1140000.0,1.185389e+06,45389.0,-45389.0,Below 10M
+Bajaj,Qute,Bajaj,Manual,Petrol,Unknown,No,2019,216.0,54000.0,1225000.0,1.6626582e+06,437658.25,-437658.25,Below 10M
+Toyota,Corolla,Ke72 Dx Wagon,Manual,Petrol,Station Wagon,No,1986,1300.0,287000.0,1295000.0,1.2002086e+06,94791.375,94791.375,Below 10M
+Isuzu,Gemini,Racing,Manual,Diesel,Saloon,No,1993,1600.0,80000.0,1300000.0,1.8769942e+06,576994.25,-576994.25,Below 10M
+Toyota,Corolla,Dx Ke 72,Manual,Petrol,Hatchback,Yes,1985,1300.0,196000.0,1300000.0,1.3142325e+06,14232.5,-14232.5,Below 10M
+Micro,Other Model,Privilege 2006,Manual,Petrol,Hatchback,No,2006,800.0,60000.0,1350000.0,1.9684281e+06,618428.125,-618428.125,Below 10M
+Morris,Minor,Unknown,Manual,Petrol,Unknown,Yes,1953,1000.0,100000.0,1350000.0,1.2129836e+06,137016.375,137016.375,Below 10M
+Tata,Genx Nano,Lx,Manual,Petrol,Hatchback,Yes,2013,650.0,150300.0,1420000.0,1.7474699e+06,327469.875,-327469.875,Below 10M
+Mitsubishi,Lancer,Unknown,Manual,Petrol,Saloon,Yes,1981,1300.0,76833.0,1425000.0,1.1876521e+06,237347.875,237347.875,Below 10M
+Bajaj,Qute,Bajaj,Manual,Petrol,Unknown,Yes,2019,217.0,14000.0,1500000.0,1.5735248e+06,73524.75,-73524.75,Below 10M
+Nissan,Sunny,Hb12,Manual,Petrol,Saloon,Yes,1988,1500.0,147339.0,1550000.0,1.5892999e+06,39299.875,-39299.875,Below 10M
+Suzuki,Zen,Maruti Zen,Manual,Petrol,Hatchback,No,1996,993.0,179000.0,1550000.0,2.0798658e+06,529865.75,-529865.75,Below 10M
+Bajaj,Qute,Bajaj,Manual,Petrol,Hatchback,Yes,2018,216.0,6500.0,1650000.0,1.8184282e+06,168428.25,-168428.25,Below 10M
+Nissan,Other Model,Hb 12 Sunny,Manual,Petrol,Saloon,No,1987,1480.0,308981.0,1650000.0,1.1795408e+06,470459.25,470459.25,Below 10M
+Toyota,Corolla,Ce90,Manual,Diesel,Saloon,No,1993,1830.0,346560.0,1650000.0,2.2287565e+06,578756.5,-578756.5,Below 10M
+Suzuki,Maruti,796,Manual,Petrol,Saloon,No,1999,796.0,33959.0,1675000.0,1.8639084e+06,188908.375,-188908.375,Below 10M
+Chery,Qq,Chery,Manual,Petrol,Unknown,Yes,2007,800.0,38000.0,1775000.0,1.7154874e+06,59512.625,59512.625,Below 10M
+Daihatsu,Charade,G100S,Manual,Petrol,Hatchback,Yes,1987,990.0,58000.0,1775000.0,1.1282758e+06,646724.25,646724.25,Below 10M
+Suzuki,Maruti,800,Manual,Petrol,Hatchback,No,2003,800.0,102000.0,1800000.0,2.0295168e+06,229516.75,-229516.75,Below 10M
+Tata,Indica,Unknown,Manual,Petrol,Unknown,Yes,2004,1405.0,96000.0,1825000.0,1.8998118e+06,74811.75,-74811.75,Below 10M
+Tata,Indica,2005,Manual,Petrol,Hatchback,No,2005,1400.0,90000.0,1840000.0,2.0691822e+06,229182.25,-229182.25,Below 10M
+Nissan,Bluebird,Unknown,Manual,Diesel,Unknown,Yes,1994,1970.0,190000.0,1850000.0,2.3469638e+06,496963.75,-496963.75,Below 10M
+Toyota,Corsa,Unknown,Manual,Petrol,Hatchback,Yes,1986,1500.0,255000.0,1850000.0,1.3690498e+06,480950.25,480950.25,Below 10M
+Toyota,Camry,Diesel Auto,Automatic,Diesel,Saloon,No,1992,2000.0,200000.0,1875000.0,2.6575822e+06,782582.25,-782582.25,Below 10M
+Suzuki,Maruti,Suzuki Maruti,Manual,Petrol,Hatchback,Yes,2006,800.0,17000.0,1890000.0,1.9398409e+06,49840.875,-49840.875,Below 10M
+Nissan,Sunny,Full Option,Manual,Petrol,Saloon,No,1986,1500.0,240546.0,1900000.0,1.1073819e+06,792618.125,792618.125,Below 10M
+Tata,Nano,Twist 2014,Manual,Petrol,Hatchback,No,2014,624.0,125340.0,1950000.0,1.8727156e+06,77284.375,77284.375,Below 10M
+Tata,Nano,Nano Twist,Manual,Petrol,Hatchback,Yes,2016,624.0,119000.0,1970000.0,2.131421e+06,161421.0,-161421.0,Below 10M
+Nissan,Sunny,Fb 13,Manual,Diesel,Saloon,No,1993,1790.0,100000.0,1975000.0,2.2834538e+06,308453.75,-308453.75,Below 10M
+Chery,Qq,Chery Qq,Automatic,Petrol,Hatchback,Yes,2006,812.0,80000.0,1985000.0,2.644804e+06,659804.0,-659804.0,Below 10M
+Honda,Vezel,Unknown,Automatic,Petrol,Hatchback,No,2015,1500.0,122000.0,10000000.0,8.995882e+06,1004118.0,1004118.0,10M–30M
+Nissan,X-Trail,Unknown,Automatic,Petrol,Station Wagon,Yes,2015,2000.0,110000.0,10000000.0,1.0553523e+07,553523.0,-553523.0,10M–30M
+Toyota,Yaris,Unknown,Automatic,Petrol,Hatchback,Yes,2023,1000.0,23400.0,10000000.0,9.632066e+06,367934.0,367934.0,10M–30M
+Toyota,Yaris,Yaris 2023 S Grade,Automatic,Petrol,Hatchback,No,2023,1000.0,5000.0,10000000.0,9.849112e+06,150888.0,150888.0,10M–30M
+Toyota,Roomy,Custom G 2023,Automatic,Petrol,Unknown,Yes,2023,1000.0,4300.0,10150000.0,1.0229488e+07,79488.0,-79488.0,10M–30M
+Toyota,Yaris,Yaris G Grade,Automatic,Petrol,Saloon,Yes,2022,990.0,35600.0,10200000.0,9.656126e+06,543874.0,543874.0,10M–30M
+Toyota,Roomy,Custom Gt,Automatic,Petrol,Mpv,Yes,2023,1000.0,8900.0,10250000.0,1.0187489e+07,62511.0,62511.0,10M–30M
+Daihatsu,Thor,Gs Custom Un/Re,Automatic,Petrol,Hatchback,Yes,2023,1000.0,11700.0,10300000.0,1.0134464e+07,165536.0,165536.0,10M–30M
+Daihatsu,Thor,Custom G Turbo,Automatic,Petrol,Mpv,No,2025,1000.0,25.0,10300000.0,1.1462123e+07,1162123.0,-1162123.0,10M–30M
+Mercedes Benz,C180,C200 Amg,Automatic,Petrol,Saloon,Yes,2008,1800.0,116000.0,10300000.0,1.0830098e+07,530098.0,-530098.0,10M–30M
+Toyota,Yaris,X Smart,Automatic,Petrol,Hatchback,No,2024,1000.0,14000.0,10350000.0,9.758123e+06,591877.0,591877.0,10M–30M
+Toyota,Raize,G,Automatic,Petrol,Suv / 4X4,Yes,2025,1000.0,21000.0,10400000.0,1.1535156e+07,1135156.0,-1135156.0,10M–30M
+Toyota,Yaris,Ativ,Automatic,Petrol,Saloon,No,2019,1200.0,58000.0,10400000.0,1.3421094e+07,3021094.0,-3021094.0,10M–30M
+Toyota,Axio,G,Automatic,Petrol,Unknown,No,2016,1500.0,127266.0,10450000.0,1.1797088e+07,1347088.0,-1347088.0,10M–30M
+Mazda,Axela,Axela Skyactive,Automatic,Hybrid,Saloon,Yes,2013,2000.0,170000.0,10480000.0,1.1043976e+07,563976.0,-563976.0,10M–30M
+Kia,Other Model,Sonet Htx 1.0L,Automatic,Hybrid,Hatchback,No,2025,1000.0,0.0,10490000.0,1.1474285e+07,984285.0,-984285.0,10M–30M
+Honda,Vezel,Unknown,Automatic,Hybrid,Unknown,Yes,2015,1490.0,126000.0,10500000.0,9.488632e+06,1011368.0,1011368.0,10M–30M
+Mercedes Benz,C180,Avant-Garde,Automatic,Petrol,Saloon,Yes,2010,1600.0,188000.0,10500000.0,1.0890168e+07,390168.0,-390168.0,10M–30M
+Suzuki,Fronx,Alpha Dualtone,Automatic,Petrol,Unknown,No,2025,1000.0,0.0,10500000.0,1.1369931e+07,869931.0,-869931.0,10M–30M
+Toyota,Roomy,Toyota Roomy Gt Turb,Automatic,Petrol,Hatchback,Yes,2022,1000.0,9000.0,10500000.0,1.0011046e+07,488954.0,488954.0,10M–30M
+Toyota,Harrier,E-Four,Automatic,Hybrid,Suv / 4X4,Yes,2007,3310.0,153000.0,10500000.0,1.4203051e+07,3703051.0,-3703051.0,10M–30M
+Toyota,Yaris,X Grade Push Start,Automatic,Petrol,Hatchback,No,2025,1000.0,6000.0,10500000.0,1.0003373e+07,496627.0,496627.0,10M–30M
+Toyota,Harrier,Toyota,Automatic,Hybrid,Suv / 4X4,Yes,2007,3310.0,114010.0,10500000.0,1.3977227e+07,3477227.0,-3477227.0,10M–30M
+Nissan,Dayz,X Pro Pilot Edition,Automatic,Hybrid,Station Wagon,Yes,2025,650.0,280.0,10600000.0,9.475755e+06,1124245.0,1124245.0,10M–30M
+Toyota,Raize,A210A - X - Kwww-A1,Automatic,Petrol,Suv / 4X4,Yes,2025,1000.0,0.0,10600000.0,1.2730707e+07,2130707.0,-2130707.0,10M–30M
+Toyota,Premio,Electric Seat,Automatic,Petrol,Hatchback,Yes,2013,1500.0,122000.0,10600000.0,9.797661e+06,802339.0,802339.0,10M–30M
+Dfsk,Glory,I Auto,Automatic,Petrol,Suv / 4X4,No,2022,1500.0,52000.0,10650000.0,1.0323375e+07,326625.0,326625.0,10M–30M
+Toyota,Yaris,Yaris G Grade,Automatic,Petrol,Hatchback,Yes,2024,1000.0,5000.0,10650000.0,9.988254e+06,661746.0,661746.0,10M–30M
+Toyota,Urban Cruiser,Taisor V Grade 1.0 L,Automatic,Petrol,Hatchback,No,2025,1000.0,0.0,10690000.0,1.1145423e+07,455423.0,-455423.0,10M–30M
+Toyota,Roomy,Toyota Roomy Gt,Automatic,Petrol,Hatchback,Yes,2023,1000.0,7000.0,10700000.0,1.0090911e+07,609089.0,609089.0,10M–30M
+Honda,Vezel,Rs,Automatic,Hybrid,Suv / 4X4,Yes,2016,1500.0,135000.0,10750000.0,1.0950718e+07,200718.0,-200718.0,10M–30M
+Honda,Grace,Honda Grace Ex,Automatic,Hybrid,Saloon,Yes,2016,1500.0,57000.0,10750000.0,1.0949549e+07,199549.0,-199549.0,10M–30M
+Toyota,Roomy,Custom G 2 Tone,Automatic,Petrol,Unknown,Yes,2023,1000.0,17500.0,10750000.0,1.0180205e+07,569795.0,569795.0,10M–30M
+Honda,Civic,2018,Automatic,Petrol,Saloon,Yes,2018,1000.0,90000.0,10800000.0,1.2799391e+07,1999391.0,-1999391.0,10M–30M
+Honda,Grace,Unknown,Automatic,Hybrid,Saloon,Yes,2017,1490.0,127353.0,10800000.0,1.062646e+07,173540.0,173540.0,10M–30M
+Nissan,X-Trail,Nissan,Automatic,Petrol,Suv / 4X4,Yes,2015,2000.0,115000.0,10800000.0,1.0841217e+07,41217.0,-41217.0,10M–30M
+Toyota,Allion,2013,Automatic,Petrol,Hatchback,Yes,2013,1490.0,185000.0,10800000.0,9.107671e+06,1692329.0,1692329.0,10M–30M
+Toyota,Roomy,Gt Turbo Custom,Automatic,Petrol,Saloon,No,2025,1000.0,300.0,10850000.0,1.1553564e+07,703564.0,-703564.0,10M–30M
+Toyota,Roomy,Gt Custom Turbo,Automatic,Petrol,Mpv,No,2025,1000.0,0.0,10850000.0,1.1749907e+07,899907.0,-899907.0,10M–30M
+Toyota,Hilux,Manual 2.5,Manual,Diesel,Suv / 4X4,Yes,2012,2500.0,275000.0,10850000.0,1.0772064e+07,77936.0,77936.0,10M–30M
+Toyota,Roomy,Custom G,Automatic,Petrol,Mpv,No,2023,1000.0,19000.0,10900000.0,9.989759e+06,910241.0,910241.0,10M–30M
+Toyota,Roomy,Gt Custom Turbo B/Ne,Automatic,Petrol,Mpv,Yes,2025,990.0,0.0,10975000.0,1.1561544e+07,586544.0,-586544.0,10M–30M
+Toyota,Roomy,Gt Turbo Line,Automatic,Petrol,Hatchback,Yes,2023,1000.0,17000.0,10975000.0,1.0034426e+07,940574.0,940574.0,10M–30M
+Toyota,Urban Cruiser,Taisor V Grade 1.0 L,Automatic,Petrol,Hatchback,No,2025,1000.0,0.0,10990000.0,1.1145423e+07,155423.0,-155423.0,10M–30M
+Porsche,Cayenne,Base 3.0T V6,Automatic,Petrol,Suv / 4X4,No,2025,3000.0,6000.0,103000000.0,1.2895628e+08,25956280.0,-25956280.0,100M+
+Audi,A4,Unknown,Automatic,Petrol,Saloon,Yes,2012,1800.0,159000.0,11000000.0,1.1735327e+07,735327.0,-735327.0,10M–30M
+Bmw,320I,E90,Automatic,Petrol,Saloon,Yes,2010,2000.0,199000.0,11000000.0,1.1917903e+07,917903.0,-917903.0,10M–30M
+Honda,Grace,Rs Sensing,Automatic,Petrol,Saloon,Yes,2017,1500.0,190000.0,11000000.0,1.111655e+07,116550.0,-116550.0,10M–30M
+Suzuki,Fronx,Alpha Brand New,Automatic,Petrol,Suv / 4X4,Yes,2025,1000.0,0.0,11000000.0,1.2398073e+07,1398073.0,-1398073.0,10M–30M
+Suzuki,Xbee,Mz Hybrid Turbo,Automatic,Hybrid,Hatchback,Yes,2025,1000.0,20.0,11000000.0,1.127577e+07,275770.0,-275770.0,10M–30M
+Toyota,Taisor,Urban Cruiser Br/Nw,Automatic,Petrol,Hatchback,Yes,2024,1000.0,0.0,11000000.0,1.1266633e+07,266633.0,-266633.0,10M–30M
+Toyota,Roomy,Custom Gt Black Top,Automatic,Petrol,Mpv,No,2025,660.0,0.0,11000000.0,9.139795e+06,1860205.0,1860205.0,10M–30M
+Toyota,Taisor,Urbun Cruiser G,Automatic,Petrol,Hatchback,Yes,2025,1000.0,0.0,11000000.0,1.1412167e+07,412167.0,-412167.0,10M–30M
+Toyota,Roomy,Custom Gt,Automatic,Petrol,Unknown,Yes,2025,1000.0,0.0,11000000.0,1.1727585e+07,727585.0,-727585.0,10M–30M
+Toyota,Yaris,Highst Grade G,Automatic,Petrol,Hatchback,Yes,2025,1000.0,0.0,11000000.0,1.0737008e+07,262992.0,262992.0,10M–30M
+Toyota,Premio,G Superior,Automatic,Petrol,Unknown,No,2011,1500.0,127000.0,11000000.0,9.78192e+06,1218080.0,1218080.0,10M–30M
+Toyota,Premio,F Grade,Automatic,Petrol,Saloon,Yes,2012,1500.0,90000.0,11000000.0,1.0679615e+07,320385.0,320385.0,10M–30M
+Toyota,Roomy,Custom Gt,Automatic,Petrol,Hatchback,Yes,2025,1000.0,0.0,11000000.0,1.1371557e+07,371557.0,-371557.0,10M–30M
+Toyota,Roomy,Custom Gt,Automatic,Petrol,Hatchback,Yes,2024,990.0,7200.0,11050000.0,1.0009022e+07,1040978.0,1040978.0,10M–30M
+Suzuki,Xbee,Mz Hybrid Brand New,Automatic,Hybrid,Hatchback,Yes,2024,1000.0,0.0,11100000.0,1.1177207e+07,77207.0,-77207.0,10M–30M
+Toyota,Roomy,Custom Gt Turbo,Automatic,Petrol,Hatchback,Yes,2023,990.0,20000.0,11100000.0,9.827494e+06,1272506.0,1272506.0,10M–30M
+Honda,Vezel,Orange Package,Automatic,Hybrid,Suv / 4X4,No,2016,1500.0,148000.0,11200000.0,1.0709846e+07,490154.0,490154.0,10M–30M
+Toyota,Roomy,Custom Gt,Automatic,Petrol,Hatchback,Yes,2025,1000.0,0.0,11200000.0,1.1371557e+07,171557.0,-171557.0,10M–30M
+Toyota,Axio,G Grade,Automatic,Hybrid,Saloon,Yes,2015,1490.0,95000.0,11200000.0,9.641477e+06,1558523.0,1558523.0,10M–30M
+Toyota,Allion,Auto,Automatic,Petrol,Saloon,Yes,2012,1500.0,193500.0,11300000.0,1.0002286e+07,1297714.0,1297714.0,10M–30M
+Toyota,Raize,X Grade,Automatic,Petrol,Hatchback,No,2023,1000.0,12000.0,11300000.0,1.1212695e+07,87305.0,87305.0,10M–30M
+Toyota,Roomy,Custom G,Automatic,Petrol,Hatchback,Yes,2024,1000.0,4950.0,11300000.0,1.017023e+07,1129770.0,1129770.0,10M–30M
+Toyota,Taisor,G,Automatic,Hybrid,Suv / 4X4,No,2025,1000.0,0.0,11375000.0,1.1853837e+07,478837.0,-478837.0,10M–30M
+Toyota,Prius,S Grade,Automatic,Petrol,Hatchback,No,2014,1800.0,185000.0,11375000.0,1.0914082e+07,460918.0,460918.0,10M–30M
+Toyota,Taisor,Taisor G Grade,Automatic,Petrol,Hatchback,Yes,2025,1000.0,300.0,11390000.0,1.1202947e+07,187053.0,187053.0,10M–30M
+Toyota,Raize,G Grade,Automatic,Petrol,Hatchback,Yes,2023,1000.0,19365.0,11390000.0,1.1299819e+07,90181.0,90181.0,10M–30M
+Honda,Grace,Rs Sensing Led Pack,Automatic,Hybrid,Saloon,No,2018,1500.0,86000.0,11400000.0,1.3885236e+07,2485236.0,-2485236.0,10M–30M
+Toyota,Taisor,V Neo Drive 1000Cc,Automatic,Hybrid,Suv / 4X4,No,2025,1000.0,0.0,11450000.0,1.2070653e+07,620653.0,-620653.0,10M–30M
+Toyota,Raize,G Grade,Automatic,Petrol,Suv / 4X4,Yes,2023,1000.0,29000.0,11490000.0,1.0941031e+07,548969.0,548969.0,10M–30M
+Toyota,Roomy,Custom G,Automatic,Petrol,Hatchback,Yes,2024,1000.0,4950.0,11490000.0,1.017023e+07,1319770.0,1319770.0,10M–30M
+Nissan,X-Trail,Nissan,Automatic,Hybrid,Suv / 4X4,Yes,2016,2000.0,143000.0,11500000.0,1.1206623e+07,293377.0,293377.0,10M–30M
+Toyota,Yaris,G Grade,Automatic,Petrol,Hatchback,Yes,2025,1000.0,1900.0,11500000.0,1.0214963e+07,1285037.0,1285037.0,10M–30M
+Toyota,Roomy,Unknown,Automatic,Petrol,Hatchback,No,2025,1000.0,400.0,11500000.0,1.0662315e+07,837685.0,837685.0,10M–30M
+Toyota,Roomy,Custom Gt,Automatic,Hybrid,Hatchback,Yes,2024,1000.0,3725.0,11500000.0,1.0484785e+07,1015215.0,1015215.0,10M–30M
+Toyota,Taisor,Urban Cruiser,Automatic,Petrol,Suv / 4X4,Yes,2024,1000.0,0.0,11550000.0,1.2170778e+07,620778.0,-620778.0,10M–30M
+Honda,Vezel,Rs Sensing,Automatic,Hybrid,Unknown,Yes,2017,1500.0,85100.0,11575000.0,1.1491938e+07,83062.0,83062.0,10M–30M
+Honda,Vezel,Unknown,Automatic,Petrol,Station Wagon,Yes,2017,1490.0,85000.0,11600000.0,1.2286278e+07,686278.0,-686278.0,10M–30M
+Toyota,Roomy,Custom Gt Turbo,Automatic,Petrol,Station Wagon,Yes,2025,1000.0,0.0,11600000.0,1.1906339e+07,306339.0,-306339.0,10M–30M
+Toyota,Raize,Unknown,Automatic,Petrol,Hatchback,Yes,2023,1000.0,12000.0,11600000.0,1.1184629e+07,415371.0,415371.0,10M–30M
+Toyota,Premio,Premio G Grade,Automatic,Petrol,Saloon,No,2013,1500.0,111113.0,11600000.0,1.1501323e+07,98677.0,98677.0,10M–30M
+Honda,Vezel,Rs Sensing 2017,Tiptronic,Hybrid,Suv / 4X4,Yes,2017,1500.0,138500.0,11650000.0,1.1597942e+07,52058.0,52058.0,10M–30M
+Toyota,Roomy,Custom Gt (Turbo),Automatic,Petrol,Hatchback,Yes,2025,1000.0,350.0,11650000.0,1.1202947e+07,447053.0,447053.0,10M–30M
+Toyota,Roomy,Custom Gt Turbo,Automatic,Petrol,Station Wagon,Yes,2025,1000.0,0.0,11650000.0,1.1906339e+07,256339.0,-256339.0,10M–30M
+Kia,Other Model,Sonet Gtx Plus,Automatic,Petrol,Hatchback,No,2025,1000.0,0.0,11700000.0,1.1474285e+07,225715.0,225715.0,10M–30M
+Toyota,Taisor,Brand New,Automatic,Petrol,Hatchback,Yes,2024,1000.0,0.0,11700000.0,1.1266633e+07,433367.0,433367.0,10M–30M
+Toyota,Roomy,Brand New,Automatic,Petrol,Hatchback,Yes,2025,1000.0,0.0,11700000.0,1.1412167e+07,287833.0,287833.0,10M–30M
+Mercedes Benz,C220,Diesel,Automatic,Diesel,Saloon,Yes,2013,2143.0,125000.0,11750000.0,1.8187926e+07,6437926.0,-6437926.0,10M–30M
+Toyota,Axio,Wxb Anniversary,Automatic,Hybrid,Saloon,Yes,2016,1500.0,89000.0,11750000.0,1.1067573e+07,682427.0,682427.0,10M–30M
+Kia,Other Model,Sonet Gtx Plus,Automatic,Petrol,Hatchback,Yes,2025,1000.0,0.0,11775000.0,1.1681373e+07,93627.0,93627.0,10M–30M
+Toyota,Vanguard,Push Start,Automatic,Petrol,Suv / 4X4,Yes,2013,2360.0,196000.0,11790000.0,1.2912381e+07,1122381.0,-1122381.0,10M–30M
+Volkswagen,Other Model,Taigun Gt Line,Automatic,Petrol,Station Wagon,No,2025,999.0,0.0,11790000.0,1.3032408e+07,1242408.0,-1242408.0,10M–30M
+Kia,Sorento,Kia,Tiptronic,Diesel,Suv / 4X4,Yes,2011,2200.0,130000.0,11800000.0,1.1052532e+07,747468.0,747468.0,10M–30M
+Mercedes Benz,C220,2.2L Diesel,Automatic,Diesel,Saloon,No,2012,2200.0,121000.0,11850000.0,1.6161749e+07,4311749.0,-4311749.0,10M–30M
+Suzuki,Jimny,Xc Grey,Automatic,Petrol,Coupé/Sports,Yes,2025,660.0,0.0,11850000.0,9.03178e+06,2818220.0,2818220.0,10M–30M
+Bmw,523I,E60,Automatic,Petrol,Saloon,Yes,2007,2500.0,220000.0,11900000.0,1.168222e+07,217780.0,217780.0,10M–30M
+Nissan,Almera,Unknown,Automatic,Petrol,Saloon,No,2025,1000.0,0.0,11900000.0,1.2226036e+07,326036.0,-326036.0,10M–30M
+Honda,Civic,Sr Package,Automatic,Petrol,Hatchback,No,2019,1000.0,42000.0,11950000.0,1.2083599e+07,133599.0,-133599.0,10M–30M
+Toyota,Yaris,Hybrid G 1500Cc,Automatic,Hybrid,Hatchback,Yes,2022,1500.0,16000.0,11990000.0,1.4795932e+07,2805932.0,-2805932.0,10M–30M
+Toyota,Land Cruiser Sahara,Sahara,Automatic,Diesel,Suv / 4X4,No,2024,3300.0,100.0,119000000.0,9.438729e+07,24612712.0,24612712.0,100M+
+Audi,A3,Tfsi,Automatic,Petrol,Saloon,No,2016,1800.0,180000.0,12000000.0,1.4777938e+07,2777938.0,-2777938.0,10M–30M
+Honda,Civic,2018 Sr,Automatic,Petrol,Hatchback,Yes,2018,1000.0,88600.0,12000000.0,1.2314619e+07,314619.0,-314619.0,10M–30M
+Kia,Other Model,Sonet Gtx Plus,Automatic,Petrol,Unknown,No,2026,1000.0,0.0,12000000.0,1.1762016e+07,237984.0,237984.0,10M–30M
+Mitsubishi,Montero,Unknown,Manual,Diesel,Suv / 4X4,Yes,2002,2800.0,210000.0,12000000.0,1.0417309e+07,1582691.0,1582691.0,10M–30M
+Toyota,Hilux,Hilux Vigo /Hl2,Manual,Diesel,Suv / 4X4,Yes,2007,2494.0,137785.0,12000000.0,9.856027e+06,2143973.0,2143973.0,10M–30M
+Hyundai,Venue,Unknown,Tiptronic,Petrol,Suv / 4X4,No,2025,1000.0,0.0,12100000.0,1.2667295e+07,567295.0,-567295.0,10M–30M
+Honda,Vezel,Rs,Automatic,Hybrid,Suv / 4X4,Yes,2017,1500.0,87900.0,12150000.0,1.1653622e+07,496378.0,496378.0,10M–30M
+Toyota,Raize,Z Grade,Automatic,Petrol,Suv / 4X4,Yes,2023,1000.0,13000.0,12150000.0,1.153333e+07,616670.0,616670.0,10M–30M
+Toyota,Raize,Z,Automatic,Petrol,Suv / 4X4,Yes,2023,1000.0,9000.0,12175000.0,1.1347226e+07,827774.0,827774.0,10M–30M
+Audi,A1,Sline Sportsback,Tiptronic,Petrol,Hatchback,Yes,2020,1000.0,63999.0,12200000.0,1.1895216e+07,304784.0,304784.0,10M–30M
+Honda,Grace,2017,Automatic,Hybrid,Saloon,Yes,2017,1490.0,170000.0,12200000.0,1.0412065e+07,1787935.0,1787935.0,10M–30M
+Hyundai,Venue,Hx10,Automatic,Petrol,Suv / 4X4,No,2025,1000.0,10.0,12200000.0,1.192593e+07,274070.0,274070.0,10M–30M
+Land Rover,Freelander,2 Td4,Tiptronic,Diesel,Suv / 4X4,Yes,2013,2200.0,110000.0,12200000.0,1.6695273e+07,4495273.0,-4495273.0,10M–30M
+Mercedes Benz,C180,Black,Automatic,Petrol,Saloon,Yes,2010,1600.0,142000.0,12200000.0,1.0840907e+07,1359093.0,1359093.0,10M–30M
+Toyota,Aqua,X Limited,Automatic,Hybrid,Hatchback,No,2022,1500.0,25000.0,12200000.0,1.2674908e+07,474908.0,-474908.0,10M–30M
+Toyota,Taisor,V Grade,Automatic,Hybrid,Hatchback,No,2024,1000.0,30.0,12200000.0,1.104465e+07,1155350.0,1155350.0,10M–30M
+Toyota,Raize,G Grade,Automatic,Petrol,Suv / 4X4,Yes,2024,1000.0,18200.0,12250000.0,1.1594138e+07,655862.0,655862.0,10M–30M
+Toyota,Premio,G Superior 1St Owner,Automatic,Petrol,Saloon,Yes,2015,1500.0,175000.0,12290000.0,1.1986682e+07,303318.0,303318.0,10M–30M
+Hyundai,Venue,Hx10,Automatic,Petrol,Suv / 4X4,No,2025,1000.0,8.0,12300000.0,1.192593e+07,374070.0,374070.0,10M–30M
+Mitsubishi,Outlander,Phev,Automatic,Petrol,Suv / 4X4,Yes,2013,2000.0,141000.0,12300000.0,1.3320892e+07,1020892.0,-1020892.0,10M–30M
+Suzuki,Jimny,Ultimate,Automatic,Petrol,Hatchback,Yes,2025,650.0,0.0,12300000.0,8.550636e+06,3749364.0,3749364.0,10M–30M
+Toyota,Raize,Raize 2024,Automatic,Petrol,Hatchback,Yes,2024,1000.0,13000.0,12300000.0,1.1668947e+07,631053.0,631053.0,10M–30M
+Toyota,Raize,A201A - X - Cvvv-A1,Automatic,Petrol,Suv / 4X4,Yes,2024,1200.0,5000.0,12300000.0,1.3379509e+07,1079509.0,-1079509.0,10M–30M
+Toyota,Taisor,V Grade Full Spec,Automatic,Petrol,Suv / 4X4,No,2025,1000.0,0.0,12300000.0,1.214381e+07,156190.0,156190.0,10M–30M
+Mitsubishi,Xpander,1.5L 7 Seater Luxury,Automatic,Petrol,Mpv,Yes,2018,1500.0,81000.0,12350000.0,1.4426607e+07,2076607.0,-2076607.0,10M–30M
+Toyota,Aqua,G Garde,Automatic,Hybrid,Hatchback,Yes,2022,1490.0,23000.0,12350000.0,1.3069249e+07,719249.0,-719249.0,10M–30M
+Toyota,Raize,Z Grade Petrol 1.0L,Automatic,Petrol,Hatchback,No,2024,1000.0,5000.0,12390000.0,1.1460374e+07,929626.0,929626.0,10M–30M
+Toyota,Raize,A201A - G - Cvvv-A1,Automatic,Petrol,Suv / 4X4,Yes,2024,1200.0,5000.0,12400000.0,1.3379509e+07,979509.0,-979509.0,10M–30M
+Suzuki,Swift,Mz Highest Spec,Automatic,Hybrid,Hatchback,No,2024,1200.0,8000.0,12450000.0,1.2827986e+07,377986.0,-377986.0,10M–30M
+Toyota,Taisor,Taisor,Automatic,Petrol,Suv / 4X4,Yes,2024,1000.0,0.0,12450000.0,1.2170778e+07,279222.0,279222.0,10M–30M
+Kia,Other Model,Sonet Gtx Plus,Automatic,Petrol,Hatchback,No,2025,1000.0,0.0,12500000.0,1.1474285e+07,1025715.0,1025715.0,10M–30M
+Mitsubishi,Xpander,Unknown,Automatic,Petrol,Station Wagon,Yes,2019,1500.0,188000.0,12500000.0,1.3046311e+07,546311.0,-546311.0,10M–30M
+Skoda,Karoq,Unknown,Automatic,Petrol,Unknown,Yes,2018,1500.0,46000.0,12500000.0,1.2257114e+07,242886.0,242886.0,10M–30M
+Toyota,Raize,Z,Automatic,Petrol,Suv / 4X4,Yes,2025,1000.0,8000.0,12500000.0,1.1766818e+07,733182.0,733182.0,10M–30M
+Toyota,Raize,Z Grade,Automatic,Petrol,Suv / 4X4,Yes,2023,1000.0,12700.0,12500000.0,1.153333e+07,966670.0,966670.0,10M–30M
+Mitsubishi,Xpander,Unknown,Automatic,Petrol,Suv / 4X4,Yes,2018,1500.0,128000.0,12550000.0,1.4399885e+07,1849885.0,-1849885.0,10M–30M
+Toyota,Raize,A202A – Z - Cvvv -A1,Automatic,Electric,Suv / 4X4,No,2025,,2000.0,12550000.0,1.8000732e+07,5450732.0,-5450732.0,10M–30M
+Daihatsu,Rocky,Premium G Hev,Automatic,Hybrid,Hatchback,Yes,2025,1200.0,10.0,12600000.0,1.3481566e+07,881566.0,-881566.0,10M–30M
+Honda,Civic,Sr,Automatic,Petrol,Hatchback,Yes,2018,1000.0,43000.0,12600000.0,1.2276674e+07,323326.0,323326.0,10M–30M
+Kia,Other Model,Sonet Gtx Plus,Automatic,Petrol,Hatchback,Yes,2025,1000.0,0.0,12600000.0,1.1681373e+07,918627.0,918627.0,10M–30M
+Suzuki,Swift,Mz,Automatic,Hybrid,Hatchback,No,2024,1200.0,1500.0,12600000.0,1.3103919e+07,503919.0,-503919.0,10M–30M
+Toyota,Raize,Z Grade,Automatic,Petrol,Unknown,Yes,2023,1000.0,7500.0,12600000.0,1.105093e+07,1549070.0,1549070.0,10M–30M
+Toyota,Raize,Z Apple Car 360,Automatic,Petrol,Suv / 4X4,Yes,2025,1000.0,30.0,12650000.0,1.2687655e+07,37655.0,-37655.0,10M–30M
+Toyota,Aqua,G,Automatic,Hybrid,Unknown,Yes,2023,1500.0,29000.0,12700000.0,1.3219447e+07,519447.0,-519447.0,10M–30M
+Toyota,Raize,Unknown,Automatic,Petrol,Suv / 4X4,Yes,2025,1000.0,0.0,12700000.0,1.2704946e+07,4946.0,-4946.0,10M–30M
+Toyota,Axio,Wxb,Automatic,Petrol,Saloon,No,2017,1500.0,55000.0,12700000.0,1.3748252e+07,1048252.0,-1048252.0,10M–30M
+Daihatsu,Rocky,Hybrid Hv Premium G,Tiptronic,Hybrid,Suv / 4X4,Yes,2025,1200.0,0.0,12750000.0,1.4313655e+07,1563655.0,-1563655.0,10M–30M
+Toyota,Raize,Z Grade Hybrid,Automatic,Hybrid,Suv / 4X4,No,2023,1200.0,27000.0,12750000.0,1.3248172e+07,498172.0,-498172.0,10M–30M
+Kia,Other Model,Sonet Gtx Plus,Automatic,Petrol,Hatchback,No,2025,1000.0,0.0,12790000.0,1.1474285e+07,1315715.0,1315715.0,10M–30M
+Hyundai,Venue,Hx 10,Automatic,Petrol,Suv / 4X4,No,2025,1000.0,0.0,12795000.0,1.2825344e+07,30344.0,-30344.0,10M–30M
+Kia,Other Model,Sonet Gtx Plus,Automatic,Petrol,Suv / 4X4,No,2025,1000.0,0.0,12800000.0,1.2476974e+07,323026.0,323026.0,10M–30M
+Toyota,Raize,Hybrid Z,Automatic,Electric,Suv / 4X4,Yes,2022,,24000.0,12800000.0,1.3728809e+07,928809.0,-928809.0,10M–30M
+Kia,Other Model,Sonet Gtx Plus,Automatic,Petrol,Hatchback,No,2025,1000.0,0.0,12850000.0,1.1474285e+07,1375715.0,1375715.0,10M–30M
+Toyota,Raize,Z Grade,Automatic,Petrol,Suv / 4X4,No,2024,1000.0,15000.0,12850000.0,1.0836483e+07,2013517.0,2013517.0,10M–30M
+Toyota,Raize,Toyota Raize Hybrid,Automatic,Hybrid,Suv / 4X4,No,2025,1200.0,0.0,12850000.0,1.4118915e+07,1268915.0,-1268915.0,10M–30M
+Toyota,Raize,Z/Apple Car/Bodykit,Automatic,Petrol,Suv / 4X4,Yes,2025,1000.0,0.0,12875000.0,1.2730707e+07,144293.0,144293.0,10M–30M
+Hyundai,Venue,Brand New,Automatic,Petrol,Hatchback,No,2025,1000.0,0.0,12890000.0,1.1729262e+07,1160738.0,1160738.0,10M–30M
+Toyota,Raize,G 1200Cc Petrol,Automatic,Petrol,Suv / 4X4,Yes,2024,1200.0,19000.0,12895000.0,1.3569045e+07,674045.0,-674045.0,10M–30M
+Kia,Other Model,Sonet Gtx Plus,Automatic,Petrol,Hatchback,No,2025,1000.0,0.0,12900000.0,1.1474285e+07,1425715.0,1425715.0,10M–30M
+Toyota,Chr,Ngx10,Automatic,Petrol,Suv / 4X4,Yes,2018,1200.0,149000.0,12900000.0,1.3752947e+07,852947.0,-852947.0,10M–30M
+Toyota,Yaris,G Led Gr,Automatic,Petrol,Hatchback,Yes,2025,1000.0,200.0,12900000.0,1.0765655e+07,2134345.0,2134345.0,10M–30M
+Toyota,Raize,G,Automatic,Hybrid,Suv / 4X4,Yes,2023,1200.0,40000.0,12900000.0,1.3122653e+07,222653.0,-222653.0,10M–30M
+Toyota,Raize,2025,Automatic,Petrol,Suv / 4X4,No,2025,1000.0,0.0,12900000.0,1.253042e+07,369580.0,369580.0,10M–30M
+Audi,Q2,Tfsi,Automatic,Petrol,Unknown,Yes,2017,1000.0,65000.0,12950000.0,1.2195666e+07,754334.0,754334.0,10M–30M
+Kia,Other Model,Syros Htx Plus,Automatic,Petrol,Hatchback,No,2025,1000.0,0.0,12950000.0,1.1474285e+07,1475715.0,1475715.0,10M–30M
+Toyota,Premio,G Superior,Automatic,Petrol,Saloon,Yes,2015,1500.0,153000.0,12950000.0,1.2176699e+07,773301.0,773301.0,10M–30M
+Toyota,Raize,Z Grade Hybrid,Tiptronic,Hybrid,Suv / 4X4,Yes,2022,1200.0,13500.0,12950000.0,1.3444204e+07,494204.0,-494204.0,10M–30M
+Toyota,Raize,Z Grade,Automatic,Hybrid,Hatchback,Yes,2022,1200.0,24000.0,12950000.0,1.2928128e+07,21872.0,21872.0,10M–30M
+Kia,Other Model,Syros Htx + O Br/New,Automatic,Petrol,Hatchback,Yes,2025,1000.0,0.0,12990000.0,1.1681373e+07,1308627.0,1308627.0,10M–30M
+Toyota,Raize,Z Grade Full Option,Automatic,Petrol,Suv / 4X4,Yes,2025,1000.0,1.0,12990000.0,1.2696007e+07,293993.0,293993.0,10M–30M
+Toyota,Land Cruiser Sahara,2025 Facelift Diesel,Tiptronic,Diesel,Suv / 4X4,Yes,2025,3300.0,0.0,125000000.0,9.7280984e+07,27719016.0,27719016.0,100M+
+Bmw,740I,Excellence Package,Automatic,Petrol,Saloon,No,2023,3000.0,23000.0,127500000.0,7.6591704e+07,50908296.0,50908296.0,100M+
+Toyota,Chr,Ngx10,Automatic,Petrol,Hatchback,Yes,2018,1190.0,111000.0,13000000.0,1.2856179e+07,143821.0,143821.0,10M–30M
+Toyota,Raize,Z - A202A Cvvv-A1,Automatic,Electric,Suv / 4X4,Yes,2024,,5000.0,13000000.0,1.7691294e+07,4691294.0,-4691294.0,10M–30M
+Volkswagen,T-Cross,Tsi-Active,Automatic,Petrol,Hatchback,Yes,2023,1000.0,16000.0,13000000.0,1.2723206e+07,276794.0,276794.0,10M–30M
+Nissan,Almera,Vl Fullyloaded B/New,Automatic,Petrol,Saloon,No,2025,1000.0,0.0,13090000.0,1.2466175e+07,623825.0,623825.0,10M–30M
+Daihatsu,Rocky,Premium G Hev,Automatic,Hybrid,Suv / 4X4,Yes,2025,1200.0,9980.0,13095000.0,1.3777128e+07,682128.0,-682128.0,10M–30M
+Dfsk,Glory,I Auto,Automatic,Petrol,Suv / 4X4,Yes,2024,1500.0,14000.0,13100000.0,1.2718766e+07,381234.0,381234.0,10M–30M
+Toyota,Raize,Z Grade Hybrid,Automatic,Hybrid,Suv / 4X4,No,2025,1200.0,10000.0,13100000.0,1.3221868e+07,121868.0,-121868.0,10M–30M
+Toyota,Raize,2024,Automatic,Hybrid,Suv / 4X4,Yes,2024,1200.0,7350.0,13100000.0,1.3606312e+07,506312.0,-506312.0,10M–30M
+Toyota,Raize,Z Grade,Automatic,Petrol,Hatchback,Yes,2025,1200.0,3000.0,13190000.0,1.2678197e+07,511803.0,511803.0,10M–30M
+Audi,Q2,Unknown,Automatic,Petrol,Suv / 4X4,Yes,2018,100.0,100000.0,13200000.0,8.540857e+06,4659143.0,4659143.0,10M–30M
+Audi,Q2,Unknown,Automatic,Petrol,Suv / 4X4,Yes,2017,1000.0,99000.0,13200000.0,1.330987e+07,109870.0,-109870.0,10M–30M
+Toyota,Raize,Unknown,Automatic,Hybrid,Suv / 4X4,Yes,2023,1200.0,18500.0,13200000.0,1.3159071e+07,40929.0,40929.0,10M–30M
+Toyota,Raize,Z Grade,Automatic,Petrol,Saloon,Yes,2023,1200.0,8520.0,13200000.0,1.2873478e+07,326522.0,326522.0,10M–30M
+Audi,Q2,Audi Q2 S-Line 2018,Automatic,Petrol,Suv / 4X4,Yes,2018,1000.0,92000.0,13250000.0,1.448669e+07,1236690.0,-1236690.0,10M–30M
+Volkswagen,Other Model,Taigun Topline At,Tiptronic,Petrol,Suv / 4X4,No,2025,1000.0,0.0,13250000.0,1.3462243e+07,212243.0,-212243.0,10M–30M
+Toyota,Rush,Unknown,Automatic,Petrol,Hatchback,No,2018,1490.0,123610.0,13295000.0,1.264926e+07,645740.0,645740.0,10M–30M
+Honda,Civic,Unknown,Automatic,Petrol,Hatchback,Yes,2017,1000.0,100700.0,13300000.0,1.1771374e+07,1528626.0,1528626.0,10M–30M
+Toyota,Raize,G Grade,Automatic,Petrol,Suv / 4X4,No,2025,1000.0,5000.0,13300000.0,1.1590755e+07,1709245.0,1709245.0,10M–30M
+Toyota,Raize,1.2 Hybrid Brandnew,Automatic,Hybrid,Suv / 4X4,Yes,2025,1200.0,50.0,13300000.0,1.4299166e+07,999166.0,-999166.0,10M–30M
+Toyota,Raize,Z,Automatic,Petrol,Unknown,No,2025,1000.0,212.0,13400000.0,1.2090699e+07,1309301.0,1309301.0,10M–30M
+Audi,Q5,Sline Premium,Automatic,Petrol,Suv / 4X4,Yes,2011,2000.0,87500.0,13450000.0,1.3068726e+07,381274.0,381274.0,10M–30M
+Suzuki,Swift,Hybrid,Automatic,Hybrid,Hatchback,Yes,2023,1190.0,0.0,13450000.0,1.3430031e+07,19969.0,19969.0,10M–30M
+Toyota,Raize,1200Cc Hybrid,Automatic,Hybrid,Station Wagon,Yes,2023,1200.0,40000.0,13450000.0,1.3394523e+07,55477.0,55477.0,10M–30M
+Toyota,Allion,G + Fully Loaded,Automatic,Petrol,Saloon,Yes,2016,1500.0,142900.0,13490000.0,1.3452386e+07,37614.0,37614.0,10M–30M
+Audi,A3,30 Tfsi Sportback,Automatic,Petrol,Hatchback,No,2024,1000.0,6000.0,13500000.0,1.471036e+07,1210360.0,-1210360.0,10M–30M
+Audi,A3,Sportback,Automatic,Petrol,Hatchback,No,2024,1000.0,8000.0,13500000.0,1.4709182e+07,1209182.0,-1209182.0,10M–30M
+Honda,City,Honda Rs Turbo,Automatic,Petrol,Saloon,No,2025,1000.0,135.0,13500000.0,1.3609167e+07,109167.0,-109167.0,10M–30M
+Honda,Civic,Tech Pack,Automatic,Petrol,Hatchback,No,2017,1000.0,98000.0,13500000.0,1.1964298e+07,1535702.0,1535702.0,10M–30M
+Kia,Other Model,Syros Htx+O,Automatic,Petrol,Suv / 4X4,Yes,2025,1000.0,0.0,13500000.0,1.27352e+07,764800.0,764800.0,10M–30M
+Nissan,Almera,Vl,Automatic,Petrol,Saloon,No,2025,1000.0,0.0,13500000.0,1.2466175e+07,1033825.0,1033825.0,10M–30M
+Toyota,Raize,Z Grade Hybrid Red C,Automatic,Petrol,Suv / 4X4,Yes,2024,1200.0,3000.0,13500000.0,1.3890666e+07,390666.0,-390666.0,10M–30M
+Toyota,Land Cruiser Prado,1998,Automatic,Diesel,Suv / 4X4,Yes,1998,3000.0,200000.0,13500000.0,1.2821357e+07,678643.0,678643.0,10M–30M
+Toyota,Chr,Unknown,Automatic,Petrol,Unknown,Yes,2018,1190.0,146121.0,13500000.0,1.2501033e+07,998967.0,998967.0,10M–30M
+Toyota,Raize,Unknown,Automatic,Petrol,Suv / 4X4,Yes,2025,1000.0,0.0,13500000.0,1.2704946e+07,795054.0,795054.0,10M–30M
+Toyota,Aqua,G,Automatic,Hybrid,Hatchback,No,2023,1500.0,7000.0,13500000.0,1.4599948e+07,1099948.0,-1099948.0,10M–30M
+Toyota,Prius,2016,Automatic,Hybrid,Saloon,No,2016,1790.0,275000.0,13500000.0,1.1340043e+07,2159957.0,2159957.0,10M–30M
+Toyota,Roomy,1000 L Brand New,Automatic,Petrol,Suv / 4X4,Yes,2025,1000.0,0.0,13500000.0,1.229718e+07,1202820.0,1202820.0,10M–30M
+Toyota,Raize,1000 L Brand New,Automatic,Petrol,Suv / 4X4,Yes,2025,1000.0,0.0,13500000.0,1.2730707e+07,769293.0,769293.0,10M–30M
+Toyota,Yaris Ativ,Ativ Sport,Automatic,Petrol,Saloon,Yes,2025,1200.0,0.0,13575000.0,1.5324827e+07,1749827.0,-1749827.0,10M–30M
+Honda,Vezel,Rs,Automatic,Hybrid,Coupé/Sports,No,2017,1490.0,65800.0,13590000.0,1.2054502e+07,1535498.0,1535498.0,10M–30M
+Toyota,Raize,Z Hybrid 1200,Automatic,Hybrid,Suv / 4X4,Yes,2025,1200.0,10.0,13600000.0,1.4293903e+07,693903.0,-693903.0,10M–30M
+Toyota,Chr,Unknown,Automatic,Petrol,Suv / 4X4,Yes,2018,1200.0,74000.0,13600000.0,1.3609012e+07,9012.0,-9012.0,10M–30M
+Toyota,Axio,Ex Hybrid - Cggg-A1,Automatic,Petrol,Saloon,Yes,2024,1500.0,30000.0,13600000.0,1.5100365e+07,1500365.0,-1500365.0,10M–30M
+Volkswagen,T-Cross,Unknown,Automatic,Petrol,Suv / 4X4,Yes,2024,1000.0,4000.0,13600000.0,1.3905485e+07,305485.0,-305485.0,10M–30M
+Kia,Other Model,Syros Htx Plus O,Automatic,Petrol,Hatchback,Yes,2025,1000.0,0.0,13650000.0,1.1681373e+07,1968627.0,1968627.0,10M–30M
+Toyota,Raize,1200 Hybrid,Automatic,Hybrid,Hatchback,Yes,2025,1200.0,0.0,13650000.0,1.4124437e+07,474437.0,-474437.0,10M–30M
+Honda,City,Turbo Rs,Automatic,Petrol,Saloon,Yes,2025,1000.0,0.0,13700000.0,1.3861738e+07,161738.0,-161738.0,10M–30M
+Audi,A3,Sline 30 Tfsi,Automatic,Petrol,Saloon,No,2018,1000.0,66000.0,13750000.0,1.5722934e+07,1972934.0,-1972934.0,10M–30M
+Peugeot,3008,Allure + Gtline Spec,Automatic,Petrol,Suv / 4X4,Yes,2019,1200.0,116000.0,13750000.0,1.4520079e+07,770079.0,-770079.0,10M–30M
+Micro,Almaz,7 Seat Full Option,Automatic,Petrol,Suv / 4X4,Yes,2022,1490.0,48000.0,13790000.0,1.294587e+07,844130.0,844130.0,10M–30M
+Bmw,530D,Msport,Manual,Diesel,Saloon,Yes,2006,3000.0,105000.0,13800000.0,7.263547e+06,6536453.0,6536453.0,10M–30M
+Honda,City,Rs Turbo,Automatic,Petrol,Saloon,Yes,2025,1000.0,0.0,13800000.0,1.3820554e+07,20554.0,-20554.0,10M–30M
+Honda,City,Rs White,Automatic,Petrol,Saloon,No,2025,1000.0,0.0,13800000.0,1.3688856e+07,111144.0,111144.0,10M–30M
+Toyota,Aqua,G,Automatic,Hybrid,Hatchback,No,2025,1500.0,5000.0,13800000.0,1.4906916e+07,1106916.0,-1106916.0,10M–30M
+Volkswagen,Other Model,Taigun Topline Tsi,Automatic,Petrol,Suv / 4X4,Yes,2025,1000.0,50.0,13800000.0,1.4390934e+07,590934.0,-590934.0,10M–30M
+Toyota,Raize,Z Hybrid,Automatic,Hybrid,Hatchback,Yes,2025,1200.0,0.0,13850000.0,1.3998971e+07,148971.0,-148971.0,10M–30M
+Toyota,Raize,Z Grade Hybrid 1.2Lt,Automatic,Hybrid,Hatchback,Yes,2025,1200.0,0.0,13850000.0,1.4124437e+07,274437.0,-274437.0,10M–30M
+Toyota,Raize,Z Hybrid 4Way Apple,Automatic,Hybrid,Hatchback,Yes,2025,1200.0,0.0,13850000.0,1.4124437e+07,274437.0,-274437.0,10M–30M
+Toyota,Raize,Z Hybrid,Automatic,Hybrid,Suv / 4X4,Yes,2025,1200.0,0.0,13850000.0,1.4238339e+07,388339.0,-388339.0,10M–30M
+Honda,City,Rs Turbo,Automatic,Petrol,Saloon,Yes,2025,1000.0,0.0,13900000.0,1.3820554e+07,79446.0,79446.0,10M–30M
+Honda,City,Rs,Automatic,Petrol,Saloon,Yes,2025,1000.0,50.0,13900000.0,1.3841078e+07,58922.0,58922.0,10M–30M
+Honda,City,Rs Turbo,Automatic,Petrol,Saloon,Yes,2025,1000.0,50.0,13900000.0,1.3820317e+07,79683.0,79683.0,10M–30M
+Toyota,Raize,Z Grade,Automatic,Hybrid,Suv / 4X4,No,2024,1200.0,9000.0,13900000.0,1.055145e+07,3348550.0,3348550.0,10M–30M
+Toyota,Raize,Z Hybrid,Automatic,Hybrid,Suv / 4X4,Yes,2025,1200.0,0.0,13900000.0,1.4238339e+07,338339.0,-338339.0,10M–30M
+Toyota,Raize,Z Hybrid,Automatic,Hybrid,Suv / 4X4,Yes,2025,1200.0,0.0,13950000.0,1.4238339e+07,288339.0,-288339.0,10M–30M
+Daihatsu,Rocky,Premium G,Automatic,Hybrid,Suv / 4X4,Yes,2022,1198.0,28000.0,13975000.0,1.3454182e+07,520818.0,520818.0,10M–30M
+Kia,Sorento,1-14 Fully Loaded,Automatic,Diesel,Suv / 4X4,No,2013,2200.0,102000.0,13975000.0,1.4124329e+07,149329.0,-149329.0,10M–30M
+Nissan,Almera,Vl Turbo,Automatic,Petrol,Saloon,Yes,2025,1000.0,1.0,13975000.0,1.2577399e+07,1397601.0,1397601.0,10M–30M
+Toyota,Raize,Z Hybrid 1.2,Automatic,Hybrid,Hatchback,Yes,2025,1200.0,25.0,13975000.0,1.4064407e+07,89407.0,-89407.0,10M–30M
+Nissan,Aura,Nismo Sport Limited,Automatic,Hybrid,Hatchback,Yes,2024,1200.0,30000.0,13995000.0,1.2613699e+07,1381301.0,1381301.0,10M–30M
+Lexus,Ls500H,Executive,Tiptronic,Hybrid,Saloon,Yes,2025,3500.0,300.0,130000000.0,1.22664296e+08,7335704.0,7335704.0,100M+
+Audi,A3,Sportback Advanced,Automatic,Petrol,Hatchback,No,2024,1000.0,7000.0,14000000.0,1.4838607e+07,838607.0,-838607.0,10M–30M
+Kia,Sorento,Unknown,Automatic,Diesel,Hatchback,Yes,2013,2200.0,152000.0,14000000.0,1.2981525e+07,1018475.0,1018475.0,10M–30M
+Mitsubishi,Montero,Unknown,Tiptronic,Diesel,Suv / 4X4,Yes,2001,3200.0,287000.0,14000000.0,1.2810675e+07,1189325.0,1189325.0,10M–30M
+Toyota,Aqua,Z,Automatic,Hybrid,Hatchback,No,2024,1500.0,6000.0,14000000.0,1.4926661e+07,926661.0,-926661.0,10M–30M
+Toyota,Raize,Z Hybrid,Automatic,Hybrid,Suv / 4X4,Yes,2025,1200.0,0.0,14190000.0,1.4238339e+07,48339.0,-48339.0,10M–30M
+Honda,City,Rs Grade Turbo,Automatic,Petrol,Saloon,Yes,2025,1000.0,21.0,14200000.0,1.3803325e+07,396675.0,396675.0,10M–30M
+Honda,Vezel,2018,Automatic,Hybrid,Suv / 4X4,Yes,2018,1500.0,58000.0,14200000.0,1.4745643e+07,545643.0,-545643.0,10M–30M
+Toyota,Raize,Z Grade Hybrid,Automatic,Hybrid,Saloon,No,2025,1200.0,0.0,14200000.0,1.4480115e+07,280115.0,-280115.0,10M–30M
+Toyota,Raize,Z Hybrid,Automatic,Hybrid,Suv / 4X4,Yes,2025,1200.0,0.0,14200000.0,1.4238339e+07,38339.0,-38339.0,10M–30M
+Honda,Civic,Honda,Automatic,Petrol,Hatchback,No,2019,1000.0,64000.0,14250000.0,1.2111334e+07,2138666.0,2138666.0,10M–30M
+Toyota,Chr,Unknown,Automatic,Petrol,Suv / 4X4,Yes,2018,1500.0,38000.0,14250000.0,1.5030195e+07,780195.0,-780195.0,10M–30M
+Mitsubishi,Montero,Sport Auto 7 Seater,Automatic,Diesel,Suv / 4X4,Yes,2012,2500.0,159000.0,14290000.0,1.4192057e+07,97943.0,97943.0,10M–30M
+Toyota,Raize,Z Hybrid,Automatic,Hybrid,Suv / 4X4,Yes,2025,1200.0,0.0,14290000.0,1.4238339e+07,51661.0,51661.0,10M–30M
+Honda,City,Rs Turbo,Automatic,Petrol,Saloon,Yes,2025,1000.0,0.0,14300000.0,1.3820554e+07,479446.0,479446.0,10M–30M
+Toyota,Premio,G Superior,Automatic,Petrol,Saloon,Yes,2017,1500.0,106000.0,14350000.0,1.4296166e+07,53834.0,53834.0,10M–30M
+Toyota,Raize,Z 1200Cc,Automatic,Petrol,Station Wagon,Yes,2025,1200.0,0.0,14350000.0,1.4353379e+07,3379.0,-3379.0,10M–30M
+Toyota,Chr,Fully Lorded,Automatic,Petrol,Suv / 4X4,No,2020,1200.0,66000.0,14400000.0,1.3985334e+07,414666.0,414666.0,10M–30M
+Toyota,Raize,Unknown,Automatic,Petrol,Suv / 4X4,Yes,2025,1200.0,304.0,14400000.0,1.4077048e+07,322952.0,322952.0,10M–30M
+Nissan,Aura,Face-Lift 2025,Automatic,Hybrid,Hatchback,Yes,2025,1200.0,6000.0,14495000.0,1.2837507e+07,1657493.0,1657493.0,10M–30M
+Audi,Q2,Sline Sports,Tiptronic,Petrol,Suv / 4X4,No,2018,1000.0,131000.0,14500000.0,1.4190839e+07,309161.0,309161.0,10M–30M
+Kia,Other Model,Sonet Gt Line,Automatic,Petrol,Suv / 4X4,Yes,2025,1000.0,0.0,14500000.0,1.27352e+07,1764800.0,1764800.0,10M–30M
+Mercedes Benz,Slk 200,Unknown,Automatic,Petrol,Convertible,Yes,2007,1790.0,35000.0,14500000.0,1.0593858e+07,3906142.0,3906142.0,10M–30M
+Toyota,Raize,1.2 Hybrid Bodykit,Tiptronic,Hybrid,Hatchback,Yes,2025,1200.0,0.0,14500000.0,1.4354803e+07,145197.0,145197.0,10M–30M
+Toyota,Raize,Z Grade,Automatic,Hybrid,Suv / 4X4,Yes,2025,1200.0,376.0,14500000.0,1.3705471e+07,794529.0,794529.0,10M–30M
+Toyota,Raize,Z Hybrid 360 Cam,Automatic,Hybrid,Hatchback,Yes,2025,1200.0,20.0,14500000.0,1.4064407e+07,435593.0,435593.0,10M–30M
+Toyota,Raize,Z,Automatic,Hybrid,Suv / 4X4,No,2025,1190.0,304.0,14590000.0,1.3772477e+07,817523.0,817523.0,10M–30M
+Mitsubishi,Eclipse Cross,Unknown,Automatic,Petrol,Suv / 4X4,Yes,2018,1500.0,71494.0,14750000.0,1.5269566e+07,519566.0,-519566.0,10M–30M
+Toyota,Raize,Z Full Petrol,Automatic,Petrol,Suv / 4X4,Yes,2025,1200.0,50.0,14750000.0,1.4279161e+07,470839.0,470839.0,10M–30M
+Toyota,Raize,Z Petrol 1200Cc,Automatic,Petrol,Suv / 4X4,Yes,2025,1200.0,60.0,14755000.0,1.4279161e+07,475839.0,475839.0,10M–30M
+Toyota,Raize,Petrol 1200 Cc 2025,Automatic,Petrol,Suv / 4X4,Yes,2025,1200.0,60.0,14790000.0,1.4279161e+07,510839.0,510839.0,10M–30M
+Mitsubishi,Eclipse Cross,Fully Loaded,Automatic,Petrol,Hatchback,Yes,2018,1500.0,102000.0,14800000.0,1.355412e+07,1245880.0,1245880.0,10M–30M
+Kia,Seltos,Gt Line,Automatic,Petrol,Suv / 4X4,No,2020,1353.0,39762.0,14850000.0,1.5219351e+07,369351.0,-369351.0,10M–30M
+Toyota,Raize,Z Hybrid 1200Cc,Automatic,Hybrid,Suv / 4X4,Yes,2025,1200.0,10.0,14875000.0,1.4293903e+07,581097.0,581097.0,10M–30M
+Toyota,Raize,Z Hybrid 1200,Automatic,Hybrid,Suv / 4X4,Yes,2025,1200.0,10.0,14890000.0,1.4293903e+07,596097.0,596097.0,10M–30M
+Mitsubishi,Eclipse Cross,Unknown,Automatic,Petrol,Suv / 4X4,No,2019,1500.0,79000.0,14900000.0,1.4962492e+07,62492.0,-62492.0,10M–30M
+Mitsubishi,Outlander,2015,Automatic,Petrol,Suv / 4X4,No,2015,2000.0,164000.0,14900000.0,1.3230546e+07,1669454.0,1669454.0,10M–30M
+Toyota,Yaris Ativ,Smart Package,Automatic,Petrol,Saloon,No,2025,1200.0,0.0,14900000.0,1.5109902e+07,209902.0,-209902.0,10M–30M
+Audi,A3,2019,Automatic,Petrol,Saloon,No,2019,1000.0,42000.0,14950000.0,1.6912574e+07,1962574.0,-1962574.0,10M–30M
+Lexus,Land Cruiser,Lx 500/600,Tiptronic,Petrol,Suv / 4X4,No,2025,3500.0,0.0,140000000.0,1.2262382e+08,17376176.0,17376176.0,100M+
+Mercedes Benz,Other Model,G Wagon 450D,Automatic,Hybrid,Suv / 4X4,No,2025,3000.0,0.0,140000000.0,1.5037774e+08,10377744.0,-10377744.0,100M+
+Mitsubishi,Outlander,Unknown,Automatic,Hybrid,Suv / 4X4,Yes,2015,2000.0,160000.0,15300000.0,1.3366195e+07,1933805.0,1933805.0,10M–30M
+Toyota,Yaris Cross,Z - Black Pccc-A1,Automatic,Hybrid,Suv / 4X4,Yes,2024,1500.0,10000.0,15300000.0,1.7545922e+07,2245922.0,-2245922.0,10M–30M
+Honda,Vezel,Z Grade,Automatic,Hybrid,Hatchback,Yes,2023,1500.0,48000.0,15500000.0,1.610046e+07,600460.0,-600460.0,10M–30M
+Toyota,Chr,Unknown,Automatic,Petrol,Hatchback,No,2018,1100.0,55000.0,15500000.0,8.790376e+06,6709624.0,6709624.0,10M–30M
+Honda,Vezel,Z Grade,Automatic,Hybrid,Hatchback,Yes,2023,1500.0,48000.0,15600000.0,1.610046e+07,500460.0,-500460.0,10M–30M
+Mitsubishi,Outlander,Phev,Automatic,Hybrid,Suv / 4X4,No,2015,2000.0,104000.0,15650000.0,1.4711062e+07,938938.0,938938.0,10M–30M
+Toyota,Yaris Cross,Z Grade Safety Pack,Automatic,Hybrid,Suv / 4X4,Yes,2023,1500.0,29000.0,15690000.0,1.5178012e+07,511988.0,511988.0,10M–30M
+Audi,A3,Audi,Tiptronic,Petrol,Hatchback,Yes,2019,1000.0,108000.0,15800000.0,1.3177834e+07,2622166.0,2622166.0,10M–30M
+Mitsubishi,Eclipse Cross,Mitsubshi,Automatic,Petrol,Suv / 4X4,Yes,2018,1500.0,68000.0,15800000.0,1.5450501e+07,349499.0,349499.0,10M–30M
+Nissan,Aura,Nismo,Automatic,Hybrid,Hatchback,No,2024,1200.0,6800.0,15800000.0,1.2630046e+07,3169954.0,3169954.0,10M–30M
+Toyota,Corolla,X Grade,Automatic,Petrol,Saloon,Yes,2024,1500.0,14000.0,15800000.0,1.5192668e+07,607332.0,607332.0,10M–30M
+Toyota,Chr,Gr Sport,Automatic,Petrol,Suv / 4X4,No,2023,1200.0,31000.0,15875000.0,1.4659691e+07,1215309.0,1215309.0,10M–30M
+Volkswagen,Golf,Etsi Active Platinum,Automatic,Petrol,Hatchback,No,2023,1000.0,15000.0,15875000.0,1.2635371e+07,3239629.0,3239629.0,10M–30M
+Audi,Q3,Cross Over,Tiptronic,Petrol,Suv / 4X4,Yes,2016,1400.0,103000.0,15900000.0,1.4824039e+07,1075961.0,1075961.0,10M–30M
+Toyota,Hilux,Unknown,Manual,Diesel,Suv / 4X4,Yes,2015,2500.0,200000.0,15900000.0,1.2339001e+07,3560999.0,3560999.0,10M–30M
+Toyota,Crown,Royal Saloon,Automatic,Petrol,Saloon,Yes,2010,3000.0,90000.0,15950000.0,1.6919996e+07,969996.0,-969996.0,10M–30M
+Toyota,Yaris Ativ,Nightshade (Grey),Automatic,Petrol,Saloon,No,2025,1200.0,0.0,15990000.0,1.5109902e+07,880098.0,880098.0,10M–30M
+Mg,Other Model,I-Smart Mg4 Electric,Automatic,Electric,Hatchback,Yes,2024,,0.0,155000000.0,1.2576943e+07,142423057.0,142423057.0,100M+
+Land Rover,Range Rover,P460E Autobiography,Automatic,Hybrid,Suv / 4X4,No,2025,3000.0,0.0,157500000.0,1.6217155e+08,4671552.0,-4671552.0,100M+
+Mercedes Benz,Other Model,G450D Amg + G-Wagon,Tiptronic,Diesel,Suv / 4X4,Yes,2024,3000.0,4000.0,159000000.0,1.5750437e+08,1495632.0,1495632.0,100M+
+Land Rover,Range Rover,Autobiography P460E,Automatic,Hybrid,Suv / 4X4,No,2025,3000.0,20.0,159500000.0,1.5562456e+08,3875440.0,3875440.0,100M+
+Honda,Vezel,X Grade,Automatic,Hybrid,Station Wagon,No,2023,1500.0,11000.0,16000000.0,1.6888076e+07,888076.0,-888076.0,10M–30M
+Jeep,Compass,Unknown,Tiptronic,Petrol,Station Wagon,Yes,2019,1370.0,96000.0,16000000.0,1.4839824e+07,1160176.0,1160176.0,10M–30M
+Mercedes Benz,E200,Avant Garde,Automatic,Petrol,Saloon,Yes,2012,1800.0,42000.0,16000000.0,2.3664404e+07,7664404.0,-7664404.0,10M–30M
+Audi,A3,Sportback S-Line,Automatic,Hybrid,Hatchback,No,2024,1000.0,5000.0,16200000.0,1.5290754e+07,909246.0,909246.0,10M–30M
+Toyota,Premio,Unknown,Automatic,Petrol,Saloon,Yes,2018,1496.0,90000.0,16249999.0,1.5560429e+07,689570.0,689570.0,10M–30M
+Toyota,Premio,Premio G Superior,Automatic,Petrol,Saloon,Yes,2019,1500.0,86701.0,16450000.0,1.5629199e+07,820801.0,820801.0,10M–30M
+Bmw,218I,M Sport Coupe,Automatic,Petrol,Coupé/Sports,No,2017,1500.0,50000.0,16500000.0,1.9293594e+07,2793594.0,-2793594.0,10M–30M
+Honda,Vezel,Unknown,Automatic,Hybrid,Hatchback,Yes,2023,1500.0,22000.0,16500000.0,1.6721277e+07,221277.0,-221277.0,10M–30M
+Toyota,Yaris Ativ,Luxary Premium,Automatic,Petrol,Saloon,Yes,2025,1200.0,0.0,16500000.0,1.5324827e+07,1175173.0,1175173.0,10M–30M
+Toyota,Premio,Premio G Superior,Automatic,Petrol,Saloon,Yes,2019,1500.0,65000.0,16500000.0,1.5983333e+07,516667.0,516667.0,10M–30M
+Toyota,Premio,Unknown,Automatic,Petrol,Saloon,Yes,2018,1500.0,43500.0,16500000.0,1.5640232e+07,859768.0,859768.0,10M–30M
+Toyota,Other Model,Hyryder V (Import),Automatic,Petrol,Suv / 4X4,No,2024,1500.0,1000.0,16600000.0,1.7405094e+07,805094.0,-805094.0,10M–30M
+Peugeot,E-2008,Electric,Automatic,Electric,Suv / 4X4,No,2023,,9000.0,16750000.0,2.8435822e+07,11685822.0,-11685822.0,10M–30M
+Toyota,Premio,G Superior New Face,Automatic,Petrol,Saloon,Yes,2019,1500.0,89000.0,16750000.0,1.5629199e+07,1120801.0,1120801.0,10M–30M
+Toyota,Yaris,Cross Z Adventure,Automatic,Hybrid,Suv / 4X4,Yes,2023,1500.0,20000.0,16795000.0,1.5582377e+07,1212623.0,1212623.0,10M–30M
+Audi,A4,S-Line,Tiptronic,Petrol,Saloon,No,2018,1400.0,67000.0,16800000.0,2.1642738e+07,4842738.0,-4842738.0,10M–30M
+Honda,Vezel,Z Grade,Automatic,Hybrid,Suv / 4X4,No,2024,1500.0,8000.0,16800000.0,1.4706433e+07,2093567.0,2093567.0,10M–30M
+Honda,Vezel,Z Grade,Automatic,Hybrid,Suv / 4X4,No,2023,1496.0,38000.0,16875000.0,1.493643e+07,1938570.0,1938570.0,10M–30M
+Toyota,Yaris,Yaris Cross Hybrid Z,Automatic,Hybrid,Suv / 4X4,No,2025,1500.0,25.0,16890000.0,1.8815484e+07,1925484.0,-1925484.0,10M–30M
+Toyota,Premio,G Superior,Automatic,Petrol,Unknown,Yes,2019,1500.0,74000.0,16900000.0,1.5491962e+07,1408038.0,1408038.0,10M–30M
+Toyota,Fortuner,Unknown,Automatic,Diesel,Unknown,No,2013,3000.0,168000.0,16950000.0,1.8112354e+07,1162354.0,-1162354.0,10M–30M
+Land Rover,Range Rover,P460 Shadow Pack 3.0,Automatic,Petrol,Suv / 4X4,Yes,2025,3000.0,0.0,160000000.0,1.5810363e+08,1896368.0,1896368.0,100M+
+Land Rover,Range Rover,Autobiography Lwb,Automatic,Petrol,Suv / 4X4,No,2025,3000.0,0.0,165000000.0,1.5506662e+08,9933376.0,9933376.0,100M+
+Honda,Vezel,X Premium,Automatic,Petrol,Suv / 4X4,No,2025,1500.0,0.0,17000000.0,1.8962584e+07,1962584.0,-1962584.0,10M–30M
+Honda,Vezel,Z Grade,Automatic,Hybrid,Hatchback,Yes,2022,1500.0,12385.0,17000000.0,1.7098004e+07,98004.0,-98004.0,10M–30M
+Mercedes Benz,E300,Bluetec Hybrid,Automatic,Diesel,Saloon,Yes,2013,2143.0,78000.0,17000000.0,2.0726266e+07,3726266.0,-3726266.0,10M–30M
+Mercedes Benz,E300,Bluetec Hybrid,Automatic,Hybrid,Saloon,Yes,2015,2200.0,56000.0,17000000.0,2.6142252e+07,9142252.0,-9142252.0,10M–30M
+Toyota,Yaris Cross,Z,Automatic,Hybrid,Suv / 4X4,No,2025,1500.0,0.0,17000000.0,1.8934718e+07,1934718.0,-1934718.0,10M–30M
+Toyota,Yaris Ativ,Night Shade Edition,Automatic,Petrol,Saloon,Yes,2025,1200.0,0.0,17000000.0,1.5324827e+07,1675173.0,1675173.0,10M–30M
+Toyota,Chr,Gt Safety Plus,Automatic,Petrol,Suv / 4X4,Yes,2023,,15999.0,17000000.0,1.6689637e+07,310363.0,310363.0,10M–30M
+Toyota,Yaris Cross,Hybrid Z,Automatic,Petrol,Suv / 4X4,No,2025,1500.0,0.0,17000000.0,1.9273732e+07,2273732.0,-2273732.0,10M–30M
+Honda,Vezel,Hybrid Z,Automatic,Hybrid,Station Wagon,No,2025,1500.0,0.0,17100000.0,1.8891144e+07,1791144.0,-1791144.0,10M–30M
+Toyota,Axio,Unknown,Automatic,Petrol,Saloon,Yes,2025,1500.0,247.0,17100000.0,1.7806498e+07,706498.0,-706498.0,10M–30M
+Toyota,Hilux,Toyota Hilux,Tiptronic,Diesel,Suv / 4X4,Yes,2016,3000.0,178000.0,17150000.0,1.8259356e+07,1109356.0,-1109356.0,10M–30M
+Byd,Atto 3,Superior,Automatic,Electric,Hatchback,Yes,2025,,1000.0,17200000.0,1.3870545e+07,3329455.0,3329455.0,10M–30M
+Kia,Sorento,Kia,Automatic,Diesel,Suv / 4X4,Yes,2015,2200.0,127500.0,17200000.0,1.7579386e+07,379386.0,-379386.0,10M–30M
+Toyota,Yaris Cross,Z Grade,Automatic,Hybrid,Suv / 4X4,Yes,2025,1490.0,0.0,17200000.0,1.9177218e+07,1977218.0,-1977218.0,10M–30M
+Toyota,Yaris Cross,Gr Sport,Automatic,Hybrid,Coupé/Sports,Yes,2024,1500.0,10000.0,17200000.0,1.7151602e+07,48398.0,48398.0,10M–30M
+Honda,Vezel,Z Package,Automatic,Hybrid,Suv / 4X4,No,2024,1500.0,19000.0,17290000.0,1.6810978e+07,479022.0,479022.0,10M–30M
+Toyota,Corolla,Wxb,Automatic,Petrol,Saloon,Yes,2024,1500.0,5500.0,17300000.0,1.7793902e+07,493902.0,-493902.0,10M–30M
+Toyota,Chr,Gt Safety Plus,Automatic,Petrol,Hatchback,No,2023,1200.0,7000.0,17390000.0,1.5289033e+07,2100967.0,2100967.0,10M–30M
+Honda,Vezel,G,Automatic,Petrol,Suv / 4X4,Yes,2025,1500.0,0.0,17400000.0,1.9032228e+07,1632228.0,-1632228.0,10M–30M
+Toyota,Urban Cruiser,Hyryder V Highest,Automatic,Hybrid,Hatchback,No,2025,1500.0,0.0,17450000.0,1.7359144e+07,90856.0,90856.0,10M–30M
+Toyota,Yaris Cross,Advance Tan Packag,Automatic,Petrol,Suv / 4X4,Yes,2023,1500.0,7000.0,17450000.0,1.8125036e+07,675036.0,-675036.0,10M–30M
+Toyota,Urban Cruiser,Hyryder V Brandnew,Automatic,Hybrid,Suv / 4X4,No,2025,1500.0,0.0,17450000.0,1.8541346e+07,1091346.0,-1091346.0,10M–30M
+Honda,Vezel,X-Hunt Two Tone,Automatic,Petrol,Suv / 4X4,Yes,2025,1500.0,0.0,17500000.0,1.9449888e+07,1949888.0,-1949888.0,10M–30M
+Honda,Vezel,Z Grade,Automatic,Hybrid,Unknown,Yes,2025,1500.0,5000.0,17600000.0,1.6637925e+07,962075.0,962075.0,10M–30M
+Honda,Vezel,Vezel Z Grade,Automatic,Hybrid,Suv / 4X4,No,2024,1500.0,0.0,17650000.0,1.8953762e+07,1303762.0,-1303762.0,10M–30M
+Honda,Vezel,Z Play,Automatic,Hybrid,Suv / 4X4,Yes,2023,1500.0,12000.0,17650000.0,1.846839e+07,818390.0,-818390.0,10M–30M
+Toyota,Corolla,Wxb,Automatic,Petrol,Saloon,Yes,2024,1500.0,9900.0,17650000.0,1.7242296e+07,407704.0,407704.0,10M–30M
+Honda,Vezel,Z Premium,Automatic,Hybrid,Unknown,No,2023,1500.0,5000.0,17700000.0,1.6315932e+07,1384068.0,1384068.0,10M–30M
+Peugeot,5008,Unknown,Automatic,Petrol,Suv / 4X4,No,2019,1200.0,135000.0,17700000.0,1.7336974e+07,363026.0,363026.0,10M–30M
+Toyota,Yaris Cross,Adventure 1500,Automatic,Hybrid,Suv / 4X4,Yes,2025,1500.0,4000.0,17700000.0,1.8448568e+07,748568.0,-748568.0,10M–30M
+Honda,Vezel,Z Grade 2025,Automatic,Hybrid,Station Wagon,Yes,2025,1500.0,15.0,17750000.0,1.9130238e+07,1380238.0,-1380238.0,10M–30M
+Toyota,Yaris Cross,Z Hev Blacktop,Automatic,Hybrid,Hatchback,Yes,2025,1500.0,0.0,17750000.0,1.8333652e+07,583652.0,-583652.0,10M–30M
+Mercedes Benz,C180,Sport,Automatic,Petrol,Saloon,No,2014,1600.0,185000.0,17799999.0,1.4906632e+07,2893367.0,2893367.0,10M–30M
+Honda,Crv,2017,Automatic,Petrol,Station Wagon,Yes,2017,1500.0,135000.0,17800000.0,1.377521e+07,4024790.0,4024790.0,10M–30M
+Honda,Vezel,Z Awd E:Hev,Automatic,Hybrid,Saloon,No,2023,1500.0,30000.0,17800000.0,1.6212661e+07,1587339.0,1587339.0,10M–30M
+Toyota,Voxy,Voxy,Automatic,Hybrid,Mpv,Yes,2014,1800.0,148000.0,17800000.0,1.5528734e+07,2271266.0,2271266.0,10M–30M
+Toyota,Yaris Cross,Z Hybrid,Automatic,Petrol,Hatchback,Yes,2024,1500.0,4000.0,17850000.0,1.7016472e+07,833528.0,833528.0,10M–30M
+Toyota,Land Cruiser Prado,120 Tx,Automatic,Petrol,Suv / 4X4,No,2008,2700.0,177000.0,17850000.0,2.0629678e+07,2779678.0,-2779678.0,10M–30M
+Byd,Atto 3,Agent Import,Automatic,Electric,Hatchback,Yes,2025,,0.0,17900000.0,1.4338822e+07,3561178.0,3561178.0,10M–30M
+Honda,Vezel,Z Brand New,Tiptronic,Hybrid,Suv / 4X4,Yes,2025,1500.0,10.0,17900000.0,1.9313588e+07,1413588.0,-1413588.0,10M–30M
+Honda,Vezel,Z Brand New,Automatic,Hybrid,Saloon,Yes,2025,1500.0,6.0,17900000.0,1.9138156e+07,1238156.0,-1238156.0,10M–30M
+Honda,Vezel,Z,Automatic,Hybrid,Suv / 4X4,Yes,2024,1500.0,0.0,17900000.0,1.90188e+07,1118800.0,-1118800.0,10M–30M
+Honda,Vezel,X Hunt 1500Cc,Automatic,Hybrid,Unknown,Yes,2024,1500.0,2000.0,17950000.0,1.7919238e+07,30762.0,30762.0,10M–30M
+Honda,Vezel,Z New Facelift,Automatic,Hybrid,Suv / 4X4,Yes,2023,1500.0,6000.0,17950000.0,1.8345162e+07,395162.0,-395162.0,10M–30M
+Bmw,X1,M Sport,Automatic,Petrol,Saloon,No,2017,1500.0,70000.0,18000000.0,1.7885534e+07,114466.0,114466.0,10M–30M
+Honda,Vezel,Z Premium,Automatic,Hybrid,Suv / 4X4,Yes,2025,1500.0,10.0,18000000.0,1.9026492e+07,1026492.0,-1026492.0,10M–30M
+Honda,Vezel,Z Premium Package,Automatic,Hybrid,Suv / 4X4,No,2025,1500.0,50.0,18000000.0,1.8724228e+07,724228.0,-724228.0,10M–30M
+Honda,Vezel,Z Premium,Automatic,Hybrid,Unknown,No,2024,1500.0,23000.0,18000000.0,1.5629109e+07,2370891.0,2370891.0,10M–30M
+Honda,Vezel,Z Grade Brand New,Tiptronic,Hybrid,Suv / 4X4,Yes,2025,1500.0,0.0,18050000.0,1.9437132e+07,1387132.0,-1387132.0,10M–30M
+Honda,Vezel,Z,Automatic,Hybrid,Suv / 4X4,Yes,2025,1500.0,0.0,18200000.0,1.901949e+07,819490.0,-819490.0,10M–30M
+Honda,Vezel,Z Grade,Automatic,Petrol,Station Wagon,Yes,2025,1500.0,0.0,18200000.0,1.846839e+07,268390.0,-268390.0,10M–30M
+Toyota,Corolla,Wxb Leather Package,Automatic,Petrol,Saloon,Yes,2023,1500.0,7000.0,18250000.0,1.7515292e+07,734708.0,734708.0,10M–30M
+Toyota,Yaris Ativ,Gr Sport Hybrid 1.5L,Automatic,Hybrid,Saloon,Yes,2025,1500.0,0.0,18250000.0,1.9221932e+07,971932.0,-971932.0,10M–30M
+Honda,Vezel,Z,Automatic,Hybrid,Suv / 4X4,Yes,2025,1500.0,0.0,18300000.0,1.901949e+07,719490.0,-719490.0,10M–30M
+Honda,Vezel,Z Premium,Automatic,Hybrid,Suv / 4X4,Yes,2024,1500.0,4500.0,18300000.0,1.870531e+07,405310.0,-405310.0,10M–30M
+Honda,Vezel,Z Grade,Automatic,Hybrid,Unknown,Yes,2025,1500.0,2.0,18300000.0,1.8029596e+07,270404.0,270404.0,10M–30M
+Honda,Vezel,Z,Automatic,Petrol,Suv / 4X4,Yes,2025,1500.0,0.0,18400000.0,1.915353e+07,753530.0,-753530.0,10M–30M
+Honda,Vezel,Z Premium 2025,Automatic,Hybrid,Unknown,Yes,2025,1500.0,0.0,18400000.0,1.8558576e+07,158576.0,-158576.0,10M–30M
+Honda,Vezel,Z Play Premium,Automatic,Hybrid,Unknown,No,2023,1500.0,25000.0,18400000.0,1.5852085e+07,2547915.0,2547915.0,10M–30M
+Bmw,535I,F10,Automatic,Petrol,Coupé/Sports,Yes,2011,3000.0,180000.0,18500000.0,1.9329104e+07,829104.0,-829104.0,10M–30M
+Honda,Vezel,Z Premium,Automatic,Hybrid,Hatchback,No,2025,1490.0,8600.0,18500000.0,1.7758268e+07,741732.0,741732.0,10M–30M
+Honda,Vezel,Z,Automatic,Petrol,Suv / 4X4,Yes,2025,1500.0,0.0,18500000.0,1.915353e+07,653530.0,-653530.0,10M–30M
+Honda,Vezel,Z Play,Automatic,Hybrid,Suv / 4X4,Yes,2023,1500.0,1800.0,18500000.0,1.9573966e+07,1073966.0,-1073966.0,10M–30M
+Honda,Freed,E:Hev Air,Automatic,Hybrid,Mpv,Yes,2025,1500.0,0.0,18600000.0,2.20452e+07,3445200.0,-3445200.0,10M–30M
+Honda,Vezel,Z Premium,Automatic,Hybrid,Suv / 4X4,Yes,2025,1500.0,10.0,18675000.0,1.9026492e+07,351492.0,-351492.0,10M–30M
+Toyota,Yaris Ativ,Hev Gr Sport,Tiptronic,Hybrid,Saloon,Yes,2025,1500.0,0.0,18700000.0,2.0129474e+07,1429474.0,-1429474.0,10M–30M
+Audi,A3,Sedan Advance,Automatic,Petrol,Saloon,Yes,2023,1000.0,8000.0,18750000.0,1.916994e+07,419940.0,-419940.0,10M–30M
+Honda,Vezel,Z Premium 2025,Automatic,Hybrid,Hatchback,Yes,2025,1500.0,18.0,18750000.0,1.9423456e+07,673456.0,-673456.0,10M–30M
+Toyota,Yaris Ativ,Gr Sport Hybrid,Tiptronic,Hybrid,Saloon,No,2025,1500.0,0.0,18750000.0,1.9831914e+07,1081914.0,-1081914.0,10M–30M
+Honda,Vezel,Z Premium.,Automatic,Hybrid,Suv / 4X4,Yes,2025,1500.0,45.0,18800000.0,1.9202254e+07,402254.0,-402254.0,10M–30M
+Audi,A3,Advance Package,Automatic,Petrol,Unknown,Yes,2023,1000.0,8000.0,18850000.0,1.731721e+07,1532790.0,1532790.0,10M–30M
+Honda,Vezel,Z Play,Automatic,Hybrid,Hatchback,Yes,2024,1500.0,10000.0,19000000.0,1.8978504e+07,21496.0,21496.0,10M–30M
+Honda,Vezel,Z Play,Automatic,Hybrid,Unknown,No,2024,1500.0,11000.0,19000000.0,1.781431e+07,1185690.0,1185690.0,10M–30M
+Toyota,Yaris Ativ,Ativ Hybrid Gr,Automatic,Hybrid,Saloon,Yes,2025,1500.0,0.0,19000000.0,1.9221932e+07,221932.0,-221932.0,10M–30M
+Toyota,Land Cruiser Prado,120,Automatic,Petrol,Suv / 4X4,Yes,2007,2700.0,230000.0,19000000.0,1.9003318e+07,3318.0,-3318.0,10M–30M
+Honda,Vezel,Z Play Brand New,Automatic,Hybrid,Station Wagon,No,2025,1500.0,0.0,19100000.0,1.8891144e+07,208856.0,208856.0,10M–30M
+Honda,Vezel,Z Play Moonroof,Automatic,Hybrid,Suv / 4X4,No,2024,1500.0,250.0,19250000.0,1.8748638e+07,501362.0,501362.0,10M–30M
+Honda,Vezel,Z Premium,Automatic,Hybrid,Suv / 4X4,Yes,2022,1500.0,1.0,19250000.0,1.8618672e+07,631328.0,631328.0,10M–30M
+Bmw,520D,M Sport M5 Kitted,Automatic,Diesel,Saloon,Yes,2012,2000.0,123000.0,19275000.0,1.8760692e+07,514308.0,514308.0,10M–30M
+Honda,Vezel,Z Play Premium,Automatic,Hybrid,Suv / 4X4,Yes,2024,1500.0,0.0,19300000.0,1.9263626e+07,36374.0,36374.0,10M–30M
+Honda,Vezel,Z Play,Automatic,Hybrid,Suv / 4X4,No,2024,1500.0,7000.0,19300000.0,1.9043484e+07,256516.0,256516.0,10M–30M
+Honda,Vezel,Z,Automatic,Hybrid,Unknown,Yes,2025,1500.0,0.0,19400000.0,1.8285286e+07,1114714.0,1114714.0,10M–30M
+Honda,Vezel,Z Premium Bodykit,Automatic,Hybrid,Unknown,No,2025,1500.0,0.0,19490000.0,1.7869202e+07,1620798.0,1620798.0,10M–30M
+Bmw,X1,Sdrive 18I,Automatic,Petrol,Hatchback,Yes,2019,1500.0,170000.0,19500000.0,1.9181682e+07,318318.0,318318.0,10M–30M
+Honda,Vezel,Z,Automatic,Hybrid,Suv / 4X4,Yes,2025,1500.0,0.0,19500000.0,1.901949e+07,480510.0,480510.0,10M–30M
+Honda,Vezel,Z Premium 2025,Automatic,Hybrid,Station Wagon,Yes,2025,1500.0,0.0,19600000.0,1.918201e+07,417990.0,417990.0,10M–30M
+Honda,Vezel,Z,Automatic,Hybrid,Suv / 4X4,Yes,2025,1500.0,0.0,19600000.0,1.901949e+07,580510.0,580510.0,10M–30M
+Honda,Vezel,Z Play Premium Moon,Tiptronic,Hybrid,Suv / 4X4,Yes,2024,1500.0,12000.0,19600000.0,1.7783384e+07,1816616.0,1816616.0,10M–30M
+Honda,Vezel,Z Play,Automatic,Hybrid,Suv / 4X4,No,2024,1500.0,3000.0,19675000.0,1.929757e+07,377430.0,377430.0,10M–30M
+Mercedes Benz,Cla 180,Unknown,Automatic,Petrol,Unknown,No,2017,1500.0,66000.0,19750000.0,1.7424394e+07,2325606.0,2325606.0,10M–30M
+Honda,Vezel,Z Premium 2025,Automatic,Hybrid,Suv / 4X4,Yes,2025,1496.0,0.0,19850000.0,1.9351754e+07,498246.0,498246.0,10M–30M
+Honda,Vezel,Z Premium High Spec,Automatic,Hybrid,Station Wagon,Yes,2024,1500.0,0.0,19850000.0,1.9181316e+07,668684.0,668684.0,10M–30M
+Honda,Crv,Turbo 7 Seater,Automatic,Petrol,Unknown,Yes,2019,1500.0,88600.0,19900000.0,1.7325602e+07,2574398.0,2574398.0,10M–30M
+Toyota,Hilux,Rocco,Automatic,Diesel,Unknown,Yes,2018,2800.0,170000.0,19900000.0,1.7966466e+07,1933534.0,1933534.0,10M–30M
+Hyundai,Other Model,Alcazar,Automatic,Petrol,Suv / 4X4,Yes,2025,1500.0,0.0,19975000.0,1.9948458e+07,26542.0,26542.0,10M–30M
+Bmw,X2,M Sport,Automatic,Petrol,Suv / 4X4,Yes,2019,1500.0,77000.0,19990000.0,2.003299e+07,42990.0,-42990.0,10M–30M
+Tata,Nano,Tata,Manual,Petrol,Hatchback,Yes,2015,650.0,175000.0,2000000.0,2.1487118e+06,148711.75,-148711.75,Below 10M
+Volkswagen,Beetle,1969,Manual,Petrol,Saloon,Yes,1969,1490.0,11.0,2000000.0,2.0355936e+06,35593.625,-35593.625,Below 10M
+Daewoo,Nubira,Car,Manual,Petrol,Saloon,Yes,1998,1600.0,98000.0,2050000.0,2.2888608e+06,238860.75,-238860.75,Below 10M
+Nissan,Sunny,Unknown,Manual,Petrol,Saloon,No,1989,1300.0,225000.0,2050000.0,1.70003e+06,349970.0,349970.0,Below 10M
+Suzuki,Maruti,800,Manual,Petrol,Hatchback,No,2005,800.0,87126.0,2075000.0,2.0433015e+06,31698.5,31698.5,Below 10M
+Nissan,Sunny,Unknown,Manual,Diesel,Unknown,Yes,1993,1700.0,150000.0,2100000.0,2.217763e+06,117763.0,-117763.0,Below 10M
+Suzuki,Zen,Unknown,Manual,Petrol,Hatchback,Yes,2006,1000.0,187000.0,2150000.0,2.7501085e+06,600108.5,-600108.5,Below 10M
+Morris,Minor,Two Door,Manual,Petrol,Coupé/Sports,Yes,1950,800.0,200000.0,2200000.0,1.1556392e+06,1044360.75,1044360.75,Below 10M
+Other Brand,Other Model,Lifan 520,Manual,Petrol,Saloon,Yes,2008,1587.0,109500.0,2200000.0,4.2045075e+06,2004507.5,-2004507.5,Below 10M
+Hyundai,Sonata,Unknown,Automatic,Petrol,Saloon,Yes,2000,2000.0,187800.0,2235000.0,2.3983395e+06,163339.5,-163339.5,Below 10M
+Maruti Suzuki,Esteem,Maruti Suzuki,Manual,Petrol,Saloon,Yes,2000,1300.0,56230.0,2250000.0,2.6971275e+06,447127.5,-447127.5,Below 10M
+Suzuki,Maruti,Unknown,Manual,Petrol,Unknown,No,2011,800.0,83000.0,2250000.0,2.471266e+06,221266.0,-221266.0,Below 10M
+Nissan,Sunny,Fb13 1994,Manual,Petrol,Saloon,No,1994,1300.0,300000.0,2265000.0,1.8965695e+06,368430.5,368430.5,Below 10M
+Nissan,Sunny,B13,Manual,Petrol,Saloon,No,1990,1400.0,20000.0,2275000.0,1.6067831e+06,668216.875,668216.875,Below 10M
+Micro,Panda,Micro Panda,Manual,Petrol,Hatchback,No,2011,1300.0,62500.0,2285000.0,3.1685028e+06,883502.75,-883502.75,Below 10M
+Toyota,Tercel,El 51,Manual,Petrol,Saloon,Yes,1996,1300.0,242000.0,2300000.0,2.7156618e+06,415661.75,-415661.75,Below 10M
+Maruti Suzuki,800,Maruti 800,Manual,Petrol,Hatchback,Yes,2008,800.0,47500.0,2350000.0,2.2664358e+06,83564.25,83564.25,Below 10M
+Nissan,Sunny,Unknown,Manual,Petrol,Saloon,Yes,1990,1400.0,283000.0,2350000.0,1.7777974e+06,572202.625,572202.625,Below 10M
+Maruti Suzuki,800,Unknown,Manual,Petrol,Unknown,Yes,2007,800.0,104000.0,2375000.0,2.0876676e+06,287332.375,287332.375,Below 10M
+Nissan,Pulsar,Pulsar,Manual,Petrol,Hatchback,Yes,1996,1500.0,165000.0,2400000.0,2.476062e+06,76062.0,-76062.0,Below 10M
+Hyundai,Accent,Unknown,Manual,Petrol,Saloon,Yes,2002,1500.0,180000.0,2500000.0,2.4835565e+06,16443.5,16443.5,Below 10M
+Micro,Junior,Unknown,Manual,Petrol,Mpv,Yes,2014,1050.0,100100.0,2500000.0,3.171426e+06,671426.0,-671426.0,Below 10M
+Toyota,Corolla,Ae100,Manual,Petrol,Saloon,Yes,1994,1300.0,197800.0,2550000.0,2.3762532e+06,173746.75,173746.75,Below 10M
+Tata,Indigo,Xeta Glx,Manual,Petrol,Saloon,Yes,2015,1200.0,103000.0,2575000.0,3.113296e+06,538296.0,-538296.0,Below 10M
+Hyundai,Sonata,Auto,Automatic,Petrol,Unknown,Yes,2000,2000.0,245000.0,2590000.0,3.2150005e+06,625000.5,-625000.5,Below 10M
+Toyota,Other Model,Vista,Manual,Petrol,Saloon,Yes,1998,1800.0,142000.0,2600000.0,3.0338015e+06,433801.5,-433801.5,Below 10M
+Micro,Panda,Unknown,Manual,Petrol,Hatchback,Yes,2011,1300.0,117000.0,2650000.0,2.9030708e+06,253070.75,-253070.75,Below 10M
+Kia,Rio,Kia Rio,Manual,Petrol,Saloon,Yes,2001,1500.0,148568.0,2675000.0,2.3246012e+06,350398.75,350398.75,Below 10M
+Tata,Xenon,2013,Manual,Diesel,Suv / 4X4,Yes,2013,2800.0,137000.0,2675000.0,5.942638e+06,3267638.0,-3267638.0,Below 10M
+Nissan,Sunny,1997,Manual,Diesel,Saloon,Yes,1997,2000.0,250000.0,2750000.0,3.7811728e+06,1031172.75,-1031172.75,Below 10M
+Peugeot,406,1999,Manual,Petrol,Saloon,Yes,1999,1800.0,100000.0,2750000.0,2.8575478e+06,107547.75,-107547.75,Below 10M
+Toyota,Corolla,Unknown,Manual,Petrol,Station Wagon,Yes,1994,1330.0,180000.0,2750000.0,2.0554581e+06,694541.875,694541.875,Below 10M
+Suzuki,Wagon R,2004,Manual,Petrol,Hatchback,No,2004,1000.0,,2775000.0,2.5704602e+06,204539.75,204539.75,Below 10M
+Micro,Panda,Panda,Manual,Petrol,Unknown,Yes,2014,1000.0,97000.0,2780000.0,3.1811345e+06,401134.5,-401134.5,Below 10M
+Hyundai,Getz,Unknown,Automatic,Petrol,Hatchback,Yes,2003,1400.0,150000.0,2800000.0,3.4257135e+06,625713.5,-625713.5,Below 10M
+Kia,Rio,Unknown,Manual,Petrol,Saloon,Yes,2002,1300.0,135000.0,2850000.0,2.3526512e+06,497348.75,497348.75,Below 10M
+Suzuki,Alto,Alto Sport,Automatic,Petrol,Hatchback,Yes,2006,800.0,132000.0,2850000.0,3.5838228e+06,733822.75,-733822.75,Below 10M
+Hyundai,Accent,2000,Manual,Petrol,Unknown,No,2000,1500.0,174800.0,2871068.0,2.5842395e+06,286828.5,286828.5,Below 10M
+Volkswagen,Beetle,1972,Manual,Petrol,Saloon,No,1972,1285.0,800000.0,2900000.0,1.083836e+06,1816164.0,1816164.0,Below 10M
+Suzuki,Alto,Unknown,Manual,Petrol,Hatchback,No,2006,800.0,110580.0,2925000.0,2.7226115e+06,202388.5,202388.5,Below 10M
+Peugeot,406,D9,Manual,Petrol,Saloon,No,2002,1600.0,130000.0,2950000.0,3.0252148e+06,75214.75,-75214.75,Below 10M
+Tata,Nano,Nano Twist 2017,Automatic,Petrol,Hatchback,No,2017,624.0,115000.0,2995000.0,2.724957e+06,270043.0,270043.0,Below 10M
+Honda,Vezel,Z - Play Moon Roof,Automatic,Hybrid,Suv / 4X4,Yes,2025,1500.0,450.0,20000000.0,1.9179376e+07,820624.0,820624.0,10M–30M
+Honda,Vezel,Z Play - Moon Roof,Automatic,Hybrid,Coupé/Sports,Yes,2025,1500.0,0.0,20000000.0,1.9517338e+07,482662.0,482662.0,10M–30M
+Toyota,Yaris,Cross Z Package,Automatic,Petrol,Hatchback,Yes,2025,1500.0,0.0,20000000.0,1.8224422e+07,1775578.0,1775578.0,10M–30M
+Honda,Vezel,Z Play With Moonroof,Automatic,Hybrid,Hatchback,Yes,2025,1500.0,0.0,20290000.0,1.9476022e+07,813978.0,813978.0,10M–30M
+Honda,Vezel,Z Play Moon Roof,Automatic,Hybrid,Station Wagon,Yes,2025,1500.0,0.0,20300000.0,1.918201e+07,1117990.0,1117990.0,10M–30M
+Honda,Vezel,Z Play Moonroof,Automatic,Hybrid,Suv / 4X4,Yes,2025,1500.0,200.0,20450000.0,1.9182266e+07,1267734.0,1267734.0,10M–30M
+Toyota,Yaris,Cross Z Adventure,Automatic,Hybrid,Station Wagon,Yes,2025,1500.0,0.0,20450000.0,1.9265794e+07,1184206.0,1184206.0,10M–30M
+Bmw,X3,Diesel,Automatic,Diesel,Suv / 4X4,Yes,2015,2000.0,50000.0,20500000.0,2.4914442e+07,4414442.0,-4414442.0,10M–30M
+Byd,Seal,Unknown,Automatic,Electric,Saloon,Yes,2025,,6000.0,20500000.0,2.1291516e+07,791516.0,-791516.0,10M–30M
+Honda,Vezel,Z Play D/Moonroof Bn,Automatic,Petrol,Suv / 4X4,Yes,2025,1500.0,0.0,20500000.0,1.9449888e+07,1050112.0,1050112.0,10M–30M
+Honda,Vezel,Z-Play-B/N Moonroof,Automatic,Hybrid,Suv / 4X4,Yes,2025,1500.0,264.0,20500000.0,1.9202254e+07,1297746.0,1297746.0,10M–30M
+Honda,Vezel,Z Play Grade,Automatic,Hybrid,Suv / 4X4,Yes,2025,1500.0,0.0,20500000.0,1.9264324e+07,1235676.0,1235676.0,10M–30M
+Honda,Vezel,Honda Vezel Moon R,Automatic,Petrol,Station Wagon,Yes,2025,1500.0,0.0,20550000.0,1.9109342e+07,1440658.0,1440658.0,10M–30M
+Toyota,Yaris Cross,Z Grade,Automatic,Hybrid,Suv / 4X4,No,2025,1500.0,0.0,20600000.0,1.848721e+07,2112790.0,2112790.0,10M–30M
+Honda,Vezel,Rs Premium Brand New,Automatic,Hybrid,Suv / 4X4,Yes,2025,1500.0,0.0,20650000.0,1.9264324e+07,1385676.0,1385676.0,10M–30M
+Toyota,Yaris Cross,Premium Luxury Hev,Automatic,Hybrid,Suv / 4X4,Yes,2025,1500.0,0.0,20650000.0,1.9477212e+07,1172788.0,1172788.0,10M–30M
+Honda,Vezel,Z Play-Pkg Moonroof,Automatic,Hybrid,Hatchback,Yes,2025,1500.0,50.0,20800000.0,1.9423456e+07,1376544.0,1376544.0,10M–30M
+Nissan,Serena,E Pow Highway Starv,Automatic,Hybrid,Mpv,No,2025,1400.0,0.0,20800000.0,2.1629326e+07,829326.0,-829326.0,10M–30M
+Nissan,Serena,E Pow Highway Star V,Automatic,Hybrid,Suv / 4X4,No,2025,1400.0,0.0,20800000.0,2.1889628e+07,1089628.0,-1089628.0,10M–30M
+Honda,Vezel,Z Play 10 Speakers,Tiptronic,Hybrid,Suv / 4X4,Yes,2025,1500.0,13.0,20890000.0,1.9313588e+07,1576412.0,1576412.0,10M–30M
+Bmw,320D,Luxury Line Diesel,Automatic,Diesel,Saloon,No,2014,2000.0,106000.0,21000000.0,1.8586844e+07,2413156.0,2413156.0,10M–30M
+Toyota,Yaris Cross,Body Kit Version,Automatic,Petrol,Suv / 4X4,No,2025,1500.0,0.0,21500000.0,1.9273732e+07,2226268.0,2226268.0,10M–30M
+Byd,Sealion 6,Superior Plug In Hyb,Automatic,Hybrid,Suv / 4X4,Yes,2025,1500.0,1500.0,21550000.0,2.2001598e+07,451598.0,-451598.0,10M–30M
+Kia,Carens,Clavis Fully Loaded,Automatic,Petrol,Suv / 4X4,Yes,2025,1500.0,0.0,22000000.0,2.2141152e+07,141152.0,-141152.0,10M–30M
+Mini,Cooper,1.5 F55,Automatic,Petrol,Hatchback,Yes,2023,1500.0,7000.0,22000000.0,2.3436714e+07,1436714.0,-1436714.0,10M–30M
+Mitsubishi,L200,Sportero,Manual,Diesel,Suv / 4X4,Yes,2020,2400.0,38000.0,22000000.0,1.0128647e+07,11871353.0,11871353.0,10M–30M
+Honda,Vezel,Honda Vezel Z Play,Automatic,Hybrid,Unknown,Yes,2024,1496.0,15000.0,22200000.0,1.673704e+07,5462960.0,5462960.0,10M–30M
+Audi,A5,S Line,Automatic,Petrol,Saloon,Yes,2018,1500.0,48000.0,22500000.0,2.2697536e+07,197536.0,-197536.0,10M–30M
+Audi,A5,S Line,Tiptronic,Petrol,Saloon,Yes,2018,1500.0,70000.0,22500000.0,2.111817e+07,1381830.0,1381830.0,10M–30M
+Audi,Q3,Vosprung Sportsback,Tiptronic,Petrol,Suv / 4X4,Yes,2019,1500.0,102000.0,22500000.0,1.930692e+07,3193080.0,3193080.0,10M–30M
+Bmw,318I,318I. M Sports,Automatic,Petrol,Saloon,Yes,2018,1500.0,105000.0,22500000.0,2.050454e+07,1995460.0,1995460.0,10M–30M
+Bmw,520D,Unknown,Automatic,Diesel,Saloon,Yes,2012,2000.0,105000.0,22500000.0,1.931263e+07,3187370.0,3187370.0,10M–30M
+Bmw,520D,2013,Automatic,Diesel,Saloon,Yes,2013,2000.0,140000.0,22500000.0,1.9591484e+07,2908516.0,2908516.0,10M–30M
+Mercedes Benz,Cla 200,Amg Line,Automatic,Petrol,Saloon,Yes,2019,1330.0,38000.0,22600000.0,2.3579206e+07,979206.0,-979206.0,10M–30M
+Nissan,Serena,Highway Star V,Automatic,Hybrid,Mpv,Yes,2025,1400.0,0.0,22800000.0,2.1935562e+07,864438.0,864438.0,10M–30M
+Toyota,Hilux,Gr Sport Off-Road,Automatic,Diesel,Suv / 4X4,Yes,2022,2400.0,26000.0,22850000.0,2.319059e+07,340590.0,-340590.0,10M–30M
+Mitsubishi,Montero,Unknown,Automatic,Diesel,Suv / 4X4,No,2015,3200.0,309000.0,23000000.0,2.039268e+07,2607320.0,2607320.0,10M–30M
+Mitsubishi,Montero,Did Limited Edition,Automatic,Diesel,Suv / 4X4,No,2013,3200.0,212000.0,23000000.0,2.1328464e+07,1671536.0,1671536.0,10M–30M
+Mercedes Benz,C200,Amg Premium Plus,Automatic,Petrol,Saloon,No,2018,1490.0,55000.0,23290000.0,2.534311e+07,2053110.0,-2053110.0,10M–30M
+Audi,Q3,S Line,Automatic,Petrol,Suv / 4X4,Yes,2019,1500.0,47000.0,23500000.0,2.3324958e+07,175042.0,175042.0,10M–30M
+Ford,Ranger,F150 Modified,Automatic,Diesel,Suv / 4X4,Yes,2017,3200.0,130000.0,23500000.0,2.482512e+07,1325120.0,-1325120.0,10M–30M
+Toyota,Prius,U,Automatic,Hybrid,Saloon,No,2024,1800.0,10000.0,23500000.0,2.2037928e+07,1462072.0,1462072.0,10M–30M
+Mercedes Benz,Vito,Cdi 116 Swb 2.2Dies,Automatic,Diesel,Suv / 4X4,Yes,2017,2200.0,89000.0,23650000.0,2.7950096e+07,4300096.0,-4300096.0,10M–30M
+Other Brand,Other Model,Jetour T2,Automatic,Petrol,Suv / 4X4,Yes,2025,1500.0,0.0,23700000.0,1.4622271e+07,9077729.0,9077729.0,10M–30M
+Mitsubishi,Montero,Unknown,Automatic,Diesel,Suv / 4X4,Yes,2013,3200.0,129000.0,23800000.0,2.2140138e+07,1659862.0,1659862.0,10M–30M
+Toyota,Harrier,Advance Premium,Automatic,Petrol,Suv / 4X4,Yes,2017,2000.0,160000.0,24000000.0,2.25741e+07,1425900.0,1425900.0,10M–30M
+Toyota,Hilux,Gr Sport,Automatic,Diesel,Suv / 4X4,Yes,2023,2400.0,7500.0,24000000.0,2.296005e+07,1039950.0,1039950.0,10M–30M
+Toyota,Hilux,Revo,Automatic,Diesel,Suv / 4X4,No,2025,2800.0,0.0,24475000.0,2.7755024e+07,3280024.0,-3280024.0,10M–30M
+Bmw,218I,Gran Coupe M Sport,Automatic,Petrol,Saloon,No,2024,1500.0,7000.0,24500000.0,2.5826156e+07,1326156.0,-1326156.0,10M–30M
+Toyota,Hilux,Z Gr Sport,Automatic,Diesel,Suv / 4X4,Yes,2023,2400.0,5000.0,24500000.0,2.1599106e+07,2900894.0,2900894.0,10M–30M
+Toyota,Prius,U,Automatic,Hybrid,Saloon,No,2024,1800.0,8000.0,24500000.0,2.2908172e+07,1591828.0,1591828.0,10M–30M
+Honda,Crv,Vti -L X +,Automatic,Petrol,Suv / 4X4,No,2026,1500.0,0.0,24600000.0,2.9812936e+07,5212936.0,-5212936.0,10M–30M
+Honda,Crv,Vti X+,Automatic,Petrol,Suv / 4X4,No,2025,1500.0,5.0,24600000.0,2.859611e+07,3996110.0,-3996110.0,10M–30M
+Bmw,X1,M Sport,Automatic,Petrol,Suv / 4X4,Yes,2020,1500.0,47000.0,24900000.0,2.1043786e+07,3856214.0,3856214.0,10M–30M
+Lexus,Lbx,Hybrid Relax,Automatic,Hybrid,Suv / 4X4,Yes,2024,1490.0,7000.0,24950000.0,2.4490638e+07,459362.0,459362.0,10M–30M
+Land Rover,Discovery Sport,Unknown,Automatic,Diesel,Station Wagon,Yes,2015,2200.0,60000.0,25000000.0,2.3978452e+07,1021548.0,1021548.0,10M–30M
+Mercedes Benz,C200,Unknown,Automatic,Petrol,Saloon,Yes,2019,1999.0,130000.0,25000000.0,2.5040404e+07,40404.0,-40404.0,10M–30M
+Toyota,Prius,U,Automatic,Hybrid,Saloon,No,2025,1800.0,0.0,25000000.0,2.4267814e+07,732186.0,732186.0,10M–30M
+Toyota,Hilux,Rocco,Automatic,Diesel,Unknown,Yes,2025,2800.0,0.0,25450000.0,2.7993044e+07,2543044.0,-2543044.0,10M–30M
+Toyota,Other Model,Kdh Dark Prime 2017,Automatic,Diesel,Mpv,Yes,2017,3000.0,150000.0,25800000.0,3.837129e+07,12571288.0,-12571288.0,10M–30M
+Toyota,Hilux,Revo Rocco 2025,Automatic,Diesel,Suv / 4X4,Yes,2025,2800.0,0.0,25800000.0,2.794759e+07,2147590.0,-2147590.0,10M–30M
+Toyota,Hilux,Hilux Rocco,Automatic,Diesel,Hatchback,No,2025,2800.0,0.0,25800000.0,2.6411742e+07,611742.0,-611742.0,10M–30M
+Toyota,Hilux,Travo Overland,Automatic,Diesel,Suv / 4X4,No,2025,2800.0,0.0,25900000.0,2.7755024e+07,1855024.0,-1855024.0,10M–30M
+Nissan,X-Trail,E-Power Limited,Automatic,Hybrid,Suv / 4X4,Yes,2024,1490.0,19000.0,25995000.0,1.810289e+07,7892110.0,7892110.0,10M–30M
+Mercedes Benz,Glb,200 Amg Premium,Automatic,Petrol,Suv / 4X4,Yes,2020,1300.0,59000.0,26000000.0,2.7450144e+07,1450144.0,-1450144.0,10M–30M
+Nissan,X-Trail,E-Power Brand New,Automatic,Hybrid,Suv / 4X4,Yes,2025,1490.0,0.0,26295000.0,2.3322912e+07,2972088.0,2972088.0,10M–30M
+Mercedes Benz,E350,Unknown,Automatic,Petrol,Saloon,Yes,2017,2000.0,125000.0,26500000.0,2.4530144e+07,1969856.0,1969856.0,10M–30M
+Mercedes Benz,Gla 200,Amg Line,Automatic,Petrol,Suv / 4X4,Yes,2019,1595.0,61000.0,26500000.0,2.3724466e+07,2775534.0,2775534.0,10M–30M
+Mercedes Benz,Vito,2017,Automatic,Diesel,Mpv,Yes,2017,2143.0,65000.0,26500000.0,3.3314352e+07,6814352.0,-6814352.0,10M–30M
+Nissan,Serena,Luxion,Automatic,Petrol,Unknown,Yes,2025,1433.0,0.0,26500000.0,1.9765188e+07,6734812.0,6734812.0,10M–30M
+Toyota,Hilux,Rocco,Automatic,Diesel,Suv / 4X4,Yes,2024,2800.0,20.0,26500000.0,2.7592136e+07,1092136.0,-1092136.0,10M–30M
+Toyota,Hilux,Revo,Automatic,Diesel,Suv / 4X4,Yes,2025,2700.0,0.0,26500000.0,2.7432506e+07,932506.0,-932506.0,10M–30M
+Toyota,Corolla,Cross New Face,Automatic,Hybrid,Suv / 4X4,No,2025,1800.0,0.0,26500000.0,2.7982688e+07,1482688.0,-1482688.0,10M–30M
+Toyota,Other Model,Rocco,Automatic,Diesel,Unknown,Yes,2025,2800.0,103.0,26700000.0,3.635832e+07,9658320.0,-9658320.0,10M–30M
+Mercedes Benz,C200,W205 C200 Premium+,Automatic,Petrol,Saloon,Yes,2019,1600.0,72000.0,26900000.0,2.5430558e+07,1469442.0,1469442.0,10M–30M
+Honda,Crv,Vti X7,Automatic,Petrol,Suv / 4X4,No,2025,1500.0,5.0,26950000.0,2.859611e+07,1646110.0,-1646110.0,10M–30M
+Toyota,Corolla,Corolla Cross Z,Automatic,Petrol,Suv / 4X4,Yes,2024,1800.0,6000.0,26950000.0,2.7631478e+07,681478.0,-681478.0,10M–30M
+Mercedes Benz,C200,Amg Premium,Automatic,Petrol,Saloon,Yes,2018,1500.0,38000.0,27000000.0,2.6974256e+07,25744.0,25744.0,10M–30M
+Audi,Q3,Sportback S-Line,Automatic,Petrol,Hatchback,No,2024,1500.0,7000.0,27500000.0,2.6485344e+07,1014656.0,1014656.0,10M–30M
+Bmw,X5,M-Sport Plus,Automatic,Petrol,Suv / 4X4,Yes,2016,2000.0,62000.0,27500000.0,2.8355936e+07,855936.0,-855936.0,10M–30M
+Bmw,218I,Gran Coupe,Automatic,Petrol,Saloon,No,2024,1500.0,7000.0,27500000.0,2.5826156e+07,1673844.0,1673844.0,10M–30M
+Mercedes Benz,C180,Fully Loaded,Tiptronic,Petrol,Saloon,Yes,2019,1500.0,50000.0,27500000.0,2.6891448e+07,608552.0,608552.0,10M–30M
+Toyota,Hilux,Rocco,Automatic,Diesel,Unknown,Yes,2025,2800.0,0.0,27500000.0,2.7993044e+07,493044.0,-493044.0,10M–30M
+Toyota,Corolla,Cross Z Grade,Automatic,Hybrid,Suv / 4X4,Yes,2025,1800.0,6000.0,27800000.0,2.7465018e+07,334982.0,334982.0,10M–30M
+Bentley,Other Model,Bentayga 4.0L,Automatic,Petrol,Suv / 4X4,No,2024,4000.0,0.0,275000000.0,2.377889e+08,37211104.0,37211104.0,100M+
+Toyota,Hilux,Travo Overland Plus,Tiptronic,Diesel,Suv / 4X4,Yes,2025,2800.0,0.0,28000000.0,2.860091e+07,600910.0,-600910.0,10M–30M
+Bmw,X5,40E M Sport,Automatic,Petrol,Suv / 4X4,Yes,2017,2000.0,75000.0,28500000.0,3.336847e+07,4868470.0,-4868470.0,10M–30M
+Toyota,Land Cruiser Prado,Tx 150,Automatic,Petrol,Suv / 4X4,Yes,2011,2700.0,152000.0,28500000.0,2.732118e+07,1178820.0,1178820.0,10M–30M
+Honda,Crv,Vt-I X7 Turbo 7 Seat,Tiptronic,Petrol,Suv / 4X4,Yes,2024,1500.0,95.0,28590000.0,3.0654696e+07,2064696.0,-2064696.0,10M–30M
+Toyota,Corolla,Cross Hybrid,Automatic,Hybrid,Hatchback,Yes,2024,1800.0,5000.0,28750000.0,2.5610956e+07,3139044.0,3139044.0,10M–30M
+Nissan,X-Trail,E-Power,Automatic,Hybrid,Hatchback,No,2023,1500.0,3000.0,28900000.0,1.9422826e+07,9477174.0,9477174.0,10M–30M
+Audi,Q3,Unknown,Automatic,Petrol,Suv / 4X4,Yes,2024,1500.0,0.0,29000000.0,3.511309e+07,6113088.0,-6113088.0,10M–30M
+Audi,Q3,Sportback S-Line,Automatic,Petrol,Hatchback,Yes,2024,1500.0,10000.0,29000000.0,2.769231e+07,1307690.0,1307690.0,10M–30M
+Bmw,420D,M Sport,Automatic,Diesel,Saloon,Yes,2014,2000.0,82000.0,29000000.0,2.2797066e+07,6202934.0,6202934.0,10M–30M
+Audi,Q3,35Tfsi S Line,Automatic,Petrol,Suv / 4X4,Yes,2023,1490.0,15000.0,29500000.0,2.816238e+07,1337620.0,1337620.0,10M–30M
+Audi,Q4,E-Tron Sportback,Automatic,Electric,Unknown,Yes,2024,,1100.0,29500000.0,4.2584196e+07,13084196.0,-13084196.0,10M–30M
+Porsche,Cayenne,Unknown,Automatic,Petrol,Unknown,No,2015,3000.0,77000.0,29500000.0,2.4078088e+07,5421912.0,5421912.0,10M–30M
+Toyota,Hilux,Travo Overland,Automatic,Diesel,Suv / 4X4,No,2025,2800.0,0.0,29500000.0,2.7755024e+07,1744976.0,1744976.0,10M–30M
+Toyota,Hilux,𝐎𝐯𝐞𝐫𝐥𝐚𝐧𝐝 +,Automatic,Diesel,Hatchback,Yes,2025,2800.0,0.0,29600000.0,2.6663506e+07,2936494.0,2936494.0,10M–30M
+Volvo,S90,S90 Inscription T5,Automatic,Petrol,Saloon,Yes,2017,2000.0,35140.0,29800000.0,2.8054458e+07,1745542.0,1745542.0,10M–30M
+Jeep,Wrangler,Sport,Automatic,Diesel,Suv / 4X4,No,2016,2800.0,63800.0,29900000.0,3.2722378e+07,2822378.0,-2822378.0,10M–30M
+Micro,Panda,Unknown,Manual,Petrol,Hatchback,No,2013,1000.0,20000.0,3000000.0,2.4858218e+06,514178.25,514178.25,Below 10M
+Nissan,Serena,Vx Auto,Automatic,Diesel,Mpv,Yes,1996,2000.0,176000.0,3075000.0,3.3320618e+06,257061.75,-257061.75,Below 10M
+Hyundai,Accent,Unknown,Automatic,Petrol,Unknown,Yes,2002,1500.0,200000.0,3150000.0,3.5996788e+06,449678.75,-449678.75,Below 10M
+Nissan,Bluebird,Eu14,Manual,Petrol,Saloon,Yes,1997,1830.0,216465.0,3150000.0,2.828507e+06,321493.0,321493.0,Below 10M
+Ford,Laser,Unknown,Automatic,Petrol,Saloon,Yes,2000,1598.0,175000.0,3200000.0,3.1855092e+06,14490.75,14490.75,Below 10M
+Perodua,Kenari,2007,Automatic,Petrol,Hatchback,Yes,2007,1000.0,90000.0,3200000.0,3.934138e+06,734138.0,-734138.0,Below 10M
+Suzuki,Alto,800,Manual,Petrol,Hatchback,Yes,2012,800.0,101316.0,3375000.0,3.1426252e+06,232374.75,232374.75,Below 10M
+Suzuki,Alto,800,Manual,Petrol,Hatchback,Yes,2011,800.0,167820.0,3375000.0,3.1790268e+06,195973.25,195973.25,Below 10M
+Renault,Kwid,Unknown,Manual,Petrol,Hatchback,No,2016,800.0,137000.0,3390000.0,3.8116792e+06,421679.25,-421679.25,Below 10M
+Toyota,Soluna,Toyota,Automatic,Petrol,Saloon,Yes,2001,1498.0,125000.0,3400000.0,4.877212e+06,1477212.0,-1477212.0,Below 10M
+Nissan,March,Unknown,Manual,Petrol,Hatchback,Yes,2002,1270.0,224000.0,3475000.0,3.0264008e+06,448599.25,448599.25,Below 10M
+Perodua,Kelisa,Perodua,Automatic,Petrol,Hatchback,Yes,2006,1000.0,168000.0,3500000.0,3.6355032e+06,135503.25,-135503.25,Below 10M
+Suzuki,Alto,K10,Manual,Petrol,Hatchback,No,2012,1000.0,82832.0,3500000.0,3.583276e+06,83276.0,-83276.0,Below 10M
+Toyota,Corolla,110,Automatic,Petrol,Saloon,No,1995,1500.0,280000.0,3500000.0,3.4852335e+06,14766.5,14766.5,Below 10M
+Maruti Suzuki,Alto,Lxi 800,Manual,Petrol,Hatchback,Yes,2014,800.0,59800.0,3550000.0,3.4481988e+06,101801.25,101801.25,Below 10M
+Maruti Suzuki,Zen,Unknown,Manual,Petrol,Hatchback,Yes,2010,1000.0,167000.0,3575000.0,3.1537308e+06,421269.25,421269.25,Below 10M
+Jac,Other Model,Jmglc,Manual,Diesel,Convertible,No,2017,2900.0,18000.0,3600000.0,1.4430349e+07,10830349.0,-10830349.0,Below 10M
+Perodua,Kelisa,Unknown,Automatic,Petrol,Unknown,Yes,2007,1000.0,127500.0,3600000.0,4.0130215e+06,413021.5,-413021.5,Below 10M
+Suzuki,Swift,Unknown,Manual,Petrol,Hatchback,No,2002,1320.0,241800.0,3600000.0,3.87056e+06,270560.0,-270560.0,Below 10M
+Renault,Kwid,Rxt Sports Exchange,Manual,Petrol,Hatchback,Yes,2016,800.0,60000.0,3675000.0,3.7695862e+06,94586.25,-94586.25,Below 10M
+Suzuki,Alto,2015,Manual,Petrol,Hatchback,Yes,2015,800.0,241000.0,3675000.0,3.8368588e+06,161858.75,-161858.75,Below 10M
+Micro,Panda Cross,Unknown,Manual,Petrol,Hatchback,No,2015,1300.0,61130.0,3680000.0,3.3318678e+06,348132.25,348132.25,Below 10M
+Suzuki,Zen,Unknown,Manual,Petrol,Hatchback,No,2010,998.0,176000.0,3796000.0,3.474163e+06,321837.0,321837.0,Below 10M
+Renault,Kwid,2018,Manual,Petrol,Hatchback,Yes,2018,800.0,69000.0,3800000.0,3.92884e+06,128840.0,-128840.0,Below 10M
+Suzuki,Alto,Unknown,Manual,Petrol,Hatchback,Yes,2015,800.0,133924.0,3800000.0,3.8072905e+06,7290.5,-7290.5,Below 10M
+Mitsubishi,Other Model,J36 Jeep,Manual,Diesel,Suv / 4X4,No,1969,2960.0,250000.0,3850000.0,5.844422e+06,1994422.0,-1994422.0,Below 10M
+Suzuki,Alto,Unknown,Manual,Petrol,Hatchback,Yes,2015,800.0,,3850000.0,3.7951935e+06,54806.5,54806.5,Below 10M
+Suzuki,Alto,Unknown,Manual,Petrol,Hatchback,Yes,2015,800.0,51000.0,3850000.0,3.837126e+06,12874.0,12874.0,Below 10M
+Suzuki,Alto,Unknown,Automatic,Petrol,Hatchback,No,2004,650.0,140296.0,3850000.0,3.6730398e+06,176960.25,176960.25,Below 10M
+Suzuki,Alto,Alto 800,Manual,Petrol,Unknown,No,2015,800.0,70000.0,3850000.0,3.8086308e+06,41369.25,41369.25,Below 10M
+Suzuki,Alto,Unknown,Manual,Petrol,Hatchback,Yes,2015,800.0,80500.0,3850000.0,3.8108942e+06,39105.75,39105.75,Below 10M
+Suzuki,Estilo,Zen,Manual,Petrol,Hatchback,Yes,2010,998.0,157000.0,3890000.0,3.552984e+06,337016.0,337016.0,Below 10M
+Nissan,Sunny,Fb-15,Automatic,Petrol,Saloon,No,1999,1500.0,265210.0,3970000.0,3.952995e+06,17005.0,17005.0,Below 10M
+Suzuki,Alto,Unknown,Manual,Petrol,Hatchback,Yes,2015,800.0,100000.0,3990000.0,3.7737082e+06,216291.75,216291.75,Below 10M
+Audi,Q3,S-Line Sport Back,Tiptronic,Petrol,Suv / 4X4,No,2024,1500.0,3000.0,30500000.0,3.1021014e+07,521014.0,-521014.0,30M–100M
+Ford,Raptor Ranger,Msrt Limited Edition,Automatic,Diesel,Suv / 4X4,Yes,2024,3000.0,0.0,30500000.0,3.358525e+07,3085248.0,-3085248.0,30M–100M
+Toyota,Hilux,Gr Sport Hammer,Automatic,Diesel,Suv / 4X4,Yes,2025,2800.0,0.0,30500000.0,2.794759e+07,2552410.0,2552410.0,30M–100M
+Honda,Crv,Lx,Automatic,Petrol,Suv / 4X4,No,2025,1500.0,0.0,30700000.0,2.9812936e+07,887064.0,887064.0,30M–100M
+Toyota,Voxy,Sz,Automatic,Hybrid,Station Wagon,Yes,2025,1800.0,0.0,30750000.0,3.0818378e+07,68378.0,-68378.0,30M–100M
+Toyota,Hilux,Travo Overland,Automatic,Diesel,Suv / 4X4,No,2025,2800.0,0.0,30790000.0,2.7755024e+07,3034976.0,3034976.0,30M–100M
+Toyota,Voxy,Sz,Automatic,Hybrid,Unknown,No,2024,1800.0,0.0,30850000.0,2.76893e+07,3160700.0,3160700.0,30M–100M
+Honda,Crv,Vti L7,Automatic,Petrol,Suv / 4X4,No,2025,1500.0,35.0,30950000.0,2.8563622e+07,2386378.0,2386378.0,30M–100M
+Bmw,740Le,Unknown,Automatic,Petrol,Saloon,Yes,2018,2000.0,90000.0,31000000.0,2.9184598e+07,1815402.0,1815402.0,30M–100M
+Toyota,Voxy,Sz Highest Spec,Automatic,Hybrid,Station Wagon,Yes,2025,1800.0,0.0,31425000.0,3.0818378e+07,606622.0,606622.0,30M–100M
+Bmw,420D,M Sport,Automatic,Diesel,Coupé/Sports,No,2014,2000.0,66000.0,31500000.0,2.5522642e+07,5977358.0,5977358.0,30M–100M
+Land Rover,Discovery,Discovery 4 Vogue,Automatic,Diesel,Suv / 4X4,Yes,2013,3000.0,250000.0,31500000.0,2.547187e+07,6028130.0,6028130.0,30M–100M
+Toyota,Voxy,Sz Fully Loaded,Automatic,Hybrid,Station Wagon,Yes,2025,1800.0,0.0,31500000.0,3.0818378e+07,681622.0,681622.0,30M–100M
+Toyota,Hilux,Revo Gr Sport B/New,Automatic,Diesel,Suv / 4X4,Yes,2025,3200.0,0.0,31500000.0,6.258904e+07,31089040.0,-31089040.0,30M–100M
+Toyota,Voxy,Sz Ottoman Seat B/N,Automatic,Petrol,Mpv,Yes,2025,1800.0,0.0,31900000.0,3.1432872e+07,467128.0,467128.0,30M–100M
+Audi,Q3,S-Line|Sportsback,Automatic,Petrol,Suv / 4X4,Yes,2023,1400.0,6000.0,32000000.0,3.1897918e+07,102082.0,102082.0,30M–100M
+Ford,Ranger,Ms Rt 3L Limited B/N,Automatic,Diesel,Suv / 4X4,Yes,2025,3000.0,0.0,32000000.0,3.429832e+07,2298320.0,-2298320.0,30M–100M
+Toyota,Voxy,Sz Highest Grade,Automatic,Hybrid,Station Wagon,No,2025,1800.0,0.0,32000000.0,3.0245536e+07,1754464.0,1754464.0,30M–100M
+Toyota,Voxy,S-Z Executive Seat,Automatic,Hybrid,Station Wagon,Yes,2025,1800.0,20.0,32000000.0,2.9899552e+07,2100448.0,2100448.0,30M–100M
+Honda,Crv,Vtil-7,Automatic,Petrol,Hatchback,Yes,2025,1500.0,0.0,32500000.0,2.6831606e+07,5668394.0,5668394.0,30M–100M
+Honda,Crv,Vti-L 7 Seater B/New,Automatic,Petrol,Suv / 4X4,Yes,2024,1500.0,0.0,32500000.0,3.0318542e+07,2181458.0,2181458.0,30M–100M
+Mercedes Benz,C200,Amg Line,Automatic,Petrol,Saloon,No,2024,1500.0,7000.0,32500000.0,3.1809336e+07,690664.0,690664.0,30M–100M
+Mercedes Benz,Glb,200 Amg Premium Plus,Automatic,Petrol,Suv / 4X4,Yes,2020,1300.0,10000.0,32500000.0,3.3324266e+07,824266.0,-824266.0,30M–100M
+Mercedes Benz,A180,Amg Line Premium,Automatic,Petrol,Saloon,No,2024,1350.0,13000.0,32500000.0,3.1814434e+07,685566.0,685566.0,30M–100M
+Honda,Crv,Vti Lx Auto Awd My25,Automatic,Petrol,Suv / 4X4,Yes,2025,1500.0,20.0,33000000.0,2.9512908e+07,3487092.0,3487092.0,30M–100M
+Mercedes Benz,C200,Amgline,Automatic,Hybrid,Saloon,No,2024,1500.0,11000.0,33000000.0,3.6541164e+07,3541164.0,-3541164.0,30M–100M
+Toyota,Hilux,Travo Overland Plus,Automatic,Diesel,Convertible,Yes,2026,2800.0,0.0,33000000.0,3.1296594e+07,1703406.0,1703406.0,30M–100M
+Ford,Raptor Ranger,Hamer Kitted 2025,Automatic,Diesel,Unknown,Yes,2025,2000.0,0.0,33200000.0,3.2819386e+07,380614.0,380614.0,30M–100M
+Audi,Q7,Unknown,Automatic,Petrol,Unknown,Yes,2017,1984.0,111000.0,33500000.0,2.1621158e+07,11878842.0,11878842.0,30M–100M
+Ford,Raptor Ranger,2.0 Diesel,Automatic,Diesel,Suv / 4X4,Yes,2025,2000.0,0.0,33600000.0,3.425079e+07,650792.0,-650792.0,30M–100M
+Ford,Raptor Ranger,2.0L Bi-Turbo,Tiptronic,Diesel,Saloon,Yes,2025,2000.0,0.0,33750000.0,3.220591e+07,1544090.0,1544090.0,30M–100M
+Bmw,X1,M Sport,Tiptronic,Petrol,Suv / 4X4,No,2025,1500.0,0.0,33800000.0,3.235312e+07,1446880.0,1446880.0,30M–100M
+Ford,Raptor Ranger,Unknown,Automatic,Diesel,Suv / 4X4,No,2025,2000.0,0.0,33800000.0,3.1647636e+07,2152364.0,2152364.0,30M–100M
+Ford,Raptor Ranger,Hammer,Tiptronic,Diesel,Suv / 4X4,Yes,2025,2000.0,0.0,33950000.0,3.4459104e+07,509104.0,-509104.0,30M–100M
+Audi,Q3,S Line Sportsback,Automatic,Petrol,Suv / 4X4,Yes,2023,1500.0,10000.0,34500000.0,3.1450744e+07,3049256.0,3049256.0,30M–100M
+Kia,Carnival,Fully Loaded,Automatic,Petrol,Suv / 4X4,Yes,2025,1600.0,5000.0,34900000.0,2.4060826e+07,10839174.0,10839174.0,30M–100M
+Ford,Ranger,Ford Ranger Raptor,Automatic,Diesel,Suv / 4X4,Yes,2025,2000.0,0.0,35000000.0,3.3369234e+07,1630766.0,1630766.0,30M–100M
+Kia,Sorento,Unknown,Automatic,Petrol,Suv / 4X4,Yes,2024,2151.0,0.0,35000000.0,4.7065256e+07,12065256.0,-12065256.0,30M–100M
+Mercedes Benz,Glb,Premium Plus Amg,Automatic,Petrol,Suv / 4X4,Yes,2024,1330.0,8000.0,35000000.0,3.6177012e+07,1177012.0,-1177012.0,30M–100M
+Mercedes Benz,C200,Amgline,Automatic,Hybrid,Saloon,No,2024,1500.0,3400.0,35500000.0,3.731173e+07,1811728.0,-1811728.0,30M–100M
+Ford,Raptor Ranger,"Double Cab,.",Automatic,Diesel,Unknown,Yes,2025,2000.0,30.0,35800000.0,3.2775284e+07,3024716.0,3024716.0,30M–100M
+Toyota,Land Cruiser Prado,Tx150,Automatic,Petrol,Suv / 4X4,No,2015,2700.0,70000.0,36000000.0,3.6654948e+07,654948.0,-654948.0,30M–100M
+Ford,Raptor Ranger,2.0L (Orange),Automatic,Diesel,Suv / 4X4,Yes,2025,2000.0,0.0,36200000.0,3.425079e+07,1949208.0,1949208.0,30M–100M
+Bmw,740E,Luxury Line,Automatic,Petrol,Saloon,Yes,2017,2000.0,35000.0,36500000.0,3.6247532e+07,252468.0,252468.0,30M–100M
+Bmw,318I,3 Series M Sport,Automatic,Petrol,Saloon,No,2025,2000.0,2000.0,36500000.0,5.1682492e+07,15182492.0,-15182492.0,30M–100M
+Ford,Raptor Ranger,Highest Spec,Automatic,Diesel,Suv / 4X4,Yes,2025,2000.0,0.0,36500000.0,3.425079e+07,2249208.0,2249208.0,30M–100M
+Mercedes Benz,Cla45,Amg Final Edition,Automatic,Petrol,Saloon,No,2019,2000.0,58000.0,36500000.0,4.530488e+07,8804880.0,-8804880.0,30M–100M
+Toyota,Land Cruiser Prado,Tx Diesel,Tiptronic,Diesel,Suv / 4X4,Yes,2014,3000.0,193000.0,36500000.0,3.3281074e+07,3218926.0,3218926.0,30M–100M
+Audi,E-Tron,Q8 S Line 50 Quattro,Automatic,Electric,Suv / 4X4,Yes,2024,,5500.0,37500000.0,3.831337e+07,813368.0,-813368.0,30M–100M
+Toyota,Land Cruiser Prado,Tx,Automatic,Diesel,Suv / 4X4,Yes,2015,3000.0,93000.0,37500000.0,3.8278308e+07,778308.0,-778308.0,30M–100M
+Toyota,Other Model,Land Cruiser 79 Cab,Automatic,Diesel,Suv / 4X4,Yes,2024,2800.0,0.0,37500000.0,3.8001584e+07,501584.0,-501584.0,30M–100M
+Land Rover,Range Rover Evoque,1.5 P300E 12.2Kwh Ed,Automatic,Hybrid,Suv / 4X4,No,2024,1500.0,7000.0,38500000.0,4.0796816e+07,2296816.0,-2296816.0,30M–100M
+Mercedes Benz,C200,Amg Prem+ 4Matic,Automatic,Petrol,Saloon,Yes,2022,1500.0,11970.0,38750000.0,3.544962e+07,3300380.0,3300380.0,30M–100M
+Jeep,Gladiator Rubicon,Petrol,Automatic,Petrol,Suv / 4X4,Yes,2022,3600.0,1400.0,39000000.0,4.3724704e+07,4724704.0,-4724704.0,30M–100M
+Land Rover,Defender,110,Manual,Diesel,Suv / 4X4,Yes,2012,2200.0,180000.0,39000000.0,2.453983e+07,14460170.0,14460170.0,30M–100M
+Mercedes Benz,C200,Amg Premium Plus,Automatic,Hybrid,Saloon,No,2024,1500.0,13000.0,39000000.0,3.618902e+07,2810980.0,2810980.0,30M–100M
+Mitsubishi,Montero,Cbc 2018 Diesel 1St,Automatic,Diesel,Suv / 4X4,Yes,2018,3300.0,110000.0,39000000.0,3.7695784e+07,1304216.0,1304216.0,30M–100M
+Toyota,Harrier,Z Grade Leather,Automatic,Petrol,Suv / 4X4,Yes,2024,1980.0,2000.0,39300000.0,3.259381e+07,6706190.0,6706190.0,30M–100M
+Mercedes Benz,Cla 250,E Amg Premium Plus,Automatic,Hybrid,Saloon,Yes,2024,1300.0,5000.0,39500000.0,3.5168652e+07,4331348.0,4331348.0,30M–100M
+Mercedes Benz,Cla 250,Amg Line Premium +,Automatic,Hybrid,Suv / 4X4,No,2024,1300.0,4950.0,39500000.0,3.79317e+07,1568300.0,1568300.0,30M–100M
+Toyota,Harrier,Z Leather Package,Automatic,Petrol,Hatchback,Yes,2024,2000.0,4400.0,39500000.0,3.815912e+07,1340880.0,1340880.0,30M–100M
+Mercedes Benz,Glb,180 Amg Premium Plus,Automatic,Petrol,Station Wagon,Yes,2024,1400.0,200.0,39800000.0,4.2847516e+07,3047516.0,-3047516.0,30M–100M
+Chevrolet,Cruze,2005,Automatic,Petrol,Hatchback,Yes,2005,1320.0,210000.0,4100000.0,3.919671e+06,180329.0,180329.0,Below 10M
+Hyundai,Tucson,Unknown,Automatic,Petrol,Suv / 4X4,No,2005,1975.0,180000.0,4100000.0,5.1729205e+06,1072920.5,-1072920.5,Below 10M
+Maruti Suzuki,Alto,Unknown,Manual,Petrol,Unknown,Yes,2015,800.0,80000.0,4100000.0,3.4803842e+06,619615.75,619615.75,Below 10M
+Nissan,March,K12,Automatic,Petrol,Unknown,No,2002,1000.0,141996.0,4150000.0,3.874933e+06,275067.0,275067.0,Below 10M
+Toyota,Sprinter,Toyota,Automatic,Petrol,Saloon,Yes,1999,1300.0,121850.0,4150000.0,4.3761135e+06,226113.5,-226113.5,Below 10M
+Chevrolet,Cruze,2003,Automatic,Petrol,Hatchback,Yes,2003,1300.0,170000.0,4200000.0,3.9558762e+06,244123.75,244123.75,Below 10M
+Nissan,Wingroad,Ta-Wfy11,Automatic,Petrol,Station Wagon,Yes,2002,1500.0,206378.0,4200000.0,3.7416675e+06,458332.5,458332.5,Below 10M
+Toyota,Corolla,G-Limited,Manual,Diesel,Saloon,Yes,2000,1500.0,15000.0,4200000.0,3.0684098e+06,1131590.25,1131590.25,Below 10M
+Toyota,Corolla,Ae 110 Xe Saloon,Manual,Petrol,Saloon,Yes,1999,1500.0,136900.0,4200000.0,3.6535072e+06,546492.75,546492.75,Below 10M
+Perodua,Viva Elite,2012,Automatic,Petrol,Hatchback,Yes,2012,1000.0,196000.0,4250000.0,4.883365e+06,633365.0,-633365.0,Below 10M
+Toyota,Corsa,1998,Automatic,Petrol,Saloon,Yes,1998,1300.0,196660.0,4250000.0,3.6208568e+06,629143.25,629143.25,Below 10M
+Perodua,Viva Elite,Unknown,Automatic,Petrol,Hatchback,Yes,2011,1000.0,140000.0,4285000.0,4.493021e+06,208021.0,-208021.0,Below 10M
+Perodua,Viva Elite,Perodua,Automatic,Petrol,Hatchback,Yes,2011,1000.0,225000.0,4290000.0,4.7643725e+06,474372.5,-474372.5,Below 10M
+Micro,Panda,Unknown,Automatic,Petrol,Hatchback,Yes,2018,1000.0,34000.0,4300000.0,4.9524295e+06,652429.5,-652429.5,Below 10M
+Nissan,March,K12,Automatic,Petrol,Hatchback,Yes,2003,1240.0,159990.0,4300000.0,4.0259128e+06,274087.25,274087.25,Below 10M
+Suzuki,Swift,Unknown,Manual,Petrol,Hatchback,Yes,2010,1197.0,100260.0,4350000.0,4.4282e+06,78200.0,-78200.0,Below 10M
+Toyota,Platz,Unknown,Automatic,Petrol,Saloon,Yes,2003,1000.0,260000.0,4490000.0,5.1327375e+06,642737.5,-642737.5,Below 10M
+Kia,Sorento,Unknown,Manual,Petrol,Suv / 4X4,No,2003,2351.0,213000.0,4500000.0,7.4921945e+06,2992194.5,-2992194.5,Below 10M
+Perodua,Viva Elite,Unknown,Automatic,Petrol,Hatchback,Yes,2012,1000.0,134500.0,4525000.0,4.665569e+06,140569.0,-140569.0,Below 10M
+Nissan,March,K12 Auto,Automatic,Petrol,Unknown,Yes,2008,1300.0,111107.0,4600000.0,5.0203405e+06,420340.5,-420340.5,Below 10M
+Suzuki,Escudo,Unknown,Manual,Petrol,Suv / 4X4,No,1997,2000.0,186229.0,4675000.0,3.888378e+06,786622.0,786622.0,Below 10M
+Suzuki,A-Star,Unknown,Automatic,Petrol,Hatchback,Yes,2011,1000.0,85600.0,4685000.0,4.9019495e+06,216949.5,-216949.5,Below 10M
+Nissan,March,Ak12,Automatic,Petrol,Hatchback,No,2007,1240.0,109192.0,4690000.0,4.3801175e+06,309882.5,309882.5,Below 10M
+Nissan,Sunny,N16,Manual,Petrol,Saloon,Yes,2003,1300.0,184000.0,4700000.0,3.6028865e+06,1097113.5,1097113.5,Below 10M
+Perodua,Viva Elite,Auto 2011,Automatic,Petrol,Hatchback,Yes,2011,1000.0,100000.0,4750000.0,4.632445e+06,117555.0,117555.0,Below 10M
+Toyota,Corolla,Corolla 110,Automatic,Petrol,Saloon,Yes,2008,1500.0,200000.0,4750000.0,7.260278e+06,2510278.0,-2510278.0,Below 10M
+Toyota,Corolla,Ae110,Automatic,Petrol,Saloon,No,2008,1300.0,225000.0,4825000.0,6.3078265e+06,1482826.5,-1482826.5,Below 10M
+Suzuki,Celerio,Vxi Amt Limited,Automatic,Petrol,Hatchback,Yes,2015,1000.0,111000.0,4850000.0,5.112488e+06,262488.0,-262488.0,Below 10M
+Suzuki,Celerio,Zxi,Manual,Petrol,Hatchback,Yes,2015,1000.0,137000.0,4850000.0,4.6002015e+06,249798.5,249798.5,Below 10M
+Suzuki,Celerio,Unknown,Automatic,Petrol,Hatchback,Yes,2015,1000.0,235000.0,4850000.0,5.2006355e+06,350635.5,-350635.5,Below 10M
+Suzuki,Celerio,Vxi,Automatic,Petrol,Hatchback,Yes,2015,1000.0,134549.0,4875000.0,5.1320085e+06,257008.5,-257008.5,Below 10M
+Mazda,Demio,2009,Automatic,Petrol,Hatchback,Yes,2009,1300.0,93000.0,4900000.0,5.4807425e+06,580742.5,-580742.5,Below 10M
+Nissan,Bluebird,Sylphy Fg10,Automatic,Petrol,Saloon,Yes,2003,1500.0,198000.0,4975000.0,4.250565e+06,724435.0,724435.0,Below 10M
+Perodua,Viva Elite,Unknown,Automatic,Petrol,Hatchback,No,2013,1000.0,58000.0,4975000.0,5.291327e+06,316327.0,-316327.0,Below 10M
+Bmw,740E,M Sport Swb Highest,Automatic,Petrol,Saloon,Yes,2021,2000.0,40000.0,40000000.0,4.7039676e+07,7039676.0,-7039676.0,30M–100M
+Mercedes Benz,Cla 250,Cl250E Plus,Tiptronic,Hybrid,Saloon,No,2026,1330.0,0.0,40000000.0,3.8399404e+07,1600596.0,1600596.0,30M–100M
+Toyota,Land Cruiser Prado,Unknown,Automatic,Petrol,Station Wagon,Yes,2015,2690.0,134242.0,40000000.0,3.336567e+07,6634330.0,6634330.0,30M–100M
+Toyota,Land Cruiser Prado,2015,Tiptronic,Petrol,Suv / 4X4,No,2015,2700.0,86000.0,40000000.0,3.6668372e+07,3331628.0,3331628.0,30M–100M
+Volkswagen,Tiguan,Executive R-Line Suv,Automatic,Petrol,Suv / 4X4,Yes,2024,1499.0,5199.0,40000000.0,2.2899084e+07,17100916.0,17100916.0,30M–100M
+Land Rover,Discovery Sport,Dynamic Hse P300E,Automatic,Hybrid,Suv / 4X4,No,2024,1500.0,2000.0,41000000.0,4.175624e+07,756240.0,-756240.0,30M–100M
+Toyota,Harrier,Leather Modelista,Automatic,Petrol,Suv / 4X4,No,2024,2000.0,6000.0,41000000.0,3.9300424e+07,1699576.0,1699576.0,30M–100M
+Toyota,Land Cruiser Sahara,V8,Automatic,Diesel,Suv / 4X4,Yes,2011,4461.0,449000.0,41000000.0,4.6067244e+07,5067244.0,-5067244.0,30M–100M
+Jaguar,F-Type,P300,Automatic,Petrol,Coupé/Sports,Yes,2019,2000.0,29000.0,41500000.0,3.3503096e+07,7996904.0,7996904.0,30M–100M
+Jaguar,F-Type,P300,Automatic,Petrol,Coupé/Sports,No,2018,2000.0,25000.0,41500000.0,2.805767e+07,13442330.0,13442330.0,30M–100M
+Jaguar,F-Type,Unknown,Automatic,Petrol,Coupé/Sports,Yes,2017,3000.0,21000.0,42000000.0,8.222484e+07,40224840.0,-40224840.0,30M–100M
+Land Rover,Range Rover Sport,2018,Automatic,Diesel,Suv / 4X4,Yes,2018,2000.0,69000.0,42000000.0,3.833413e+07,3665872.0,3665872.0,30M–100M
+Mercedes Benz,S400,Unknown,Automatic,Hybrid,Saloon,Yes,2014,2000.0,40000.0,42000000.0,2.8783366e+07,13216634.0,13216634.0,30M–100M
+Mercedes Benz,Glb,200 Special Edition,Automatic,Petrol,Suv / 4X4,Yes,2025,1300.0,0.0,42500000.0,4.2806428e+07,306428.0,-306428.0,30M–100M
+Mercedes Benz,Glb,200 Amg Premiium Plu,Automatic,Petrol,Suv / 4X4,No,2024,1300.0,7000.0,42500000.0,3.537451e+07,7125488.0,7125488.0,30M–100M
+Toyota,Harrier,Z Leather,Automatic,Petrol,Station Wagon,Yes,2025,2000.0,500.0,42500000.0,4.116238e+07,1337620.0,1337620.0,30M–100M
+Toyota,Land Cruiser Prado,150 Tx Diesel,Automatic,Diesel,Suv / 4X4,Yes,2015,3000.0,150000.0,43000000.0,3.8171496e+07,4828504.0,4828504.0,30M–100M
+Bmw,740Le,M-Sport Plus,Automatic,Petrol,Saloon,Yes,2017,2000.0,18000.0,43500000.0,3.49238e+07,8576200.0,8576200.0,30M–100M
+Mercedes Benz,E200,Amg Line Premiumplus,Automatic,Petrol,Saloon,No,2023,1500.0,29500.0,43500000.0,3.769406e+07,5805940.0,5805940.0,30M–100M
+Mercedes Benz,Glb,200 Amg Premium Plus,Automatic,Petrol,Station Wagon,No,2025,1330.0,0.0,43990000.0,4.0934544e+07,3055456.0,3055456.0,30M–100M
+Mercedes Benz,Cla 200,Amg Line,Automatic,Petrol,Saloon,No,2025,1330.0,0.0,44000000.0,3.6877596e+07,7122404.0,7122404.0,30M–100M
+Mercedes Benz,Gls350,Unknown,Automatic,Diesel,Suv / 4X4,Yes,2016,2499.0,110000.0,45000000.0,2.0136308e+07,24863692.0,24863692.0,30M–100M
+Land Rover,Range Rover Evoque,Hse Dynamic,Automatic,Petrol,Suv / 4X4,Yes,2024,1500.0,10000.0,45850000.0,3.7791028e+07,8058972.0,8058972.0,30M–100M
+Bmw,420I,M Sport,Automatic,Petrol,Saloon,No,2025,2000.0,4000.0,46000000.0,4.7659388e+07,1659388.0,-1659388.0,30M–100M
+Toyota,Land Cruiser Sahara,Lc 200 Modelista,Automatic,Diesel,Suv / 4X4,Yes,2010,4500.0,115000.0,46500000.0,4.6225676e+07,274324.0,274324.0,30M–100M
+Toyota,Land Cruiser Prado,Toyota,Tiptronic,Petrol,Suv / 4X4,Yes,2018,2700.0,25000.0,46800000.0,4.2852748e+07,3947252.0,3947252.0,30M–100M
+Toyota,Harrier,Hybrid,Automatic,Petrol,Suv / 4X4,No,2025,2500.0,0.0,47500000.0,3.898276e+07,8517240.0,8517240.0,30M–100M
+Toyota,Harrier,Z Leather Package,Automatic,Hybrid,Station Wagon,Yes,2025,2500.0,0.0,47800000.0,4.5948076e+07,1851924.0,1851924.0,30M–100M
+Toyota,Harrier,Z Advance Premiumpkg,Automatic,Hybrid,Suv / 4X4,Yes,2025,2500.0,100.0,48450000.0,4.477809e+07,3671912.0,3671912.0,30M–100M
+Land Rover,Range Rover,Sport,Automatic,Diesel,Saloon,No,2018,2000.0,70000.0,48500000.0,3.827743e+07,10222568.0,10222568.0,30M–100M
+Mercedes Benz,Gle 300D,Premium ➕️,Tiptronic,Diesel,Suv / 4X4,Yes,2019,2000.0,63000.0,49000000.0,4.299537e+07,6004632.0,6004632.0,30M–100M
+Byd,Seal,2025 Premium Edition,Automatic,Electric,Coupé/Sports,Yes,2025,,1500.0,49500000.0,2.050626e+07,28993740.0,28993740.0,30M–100M
+Land Rover,Range Rover Sport,Hse,Automatic,Diesel,Suv / 4X4,No,2018,2000.0,64000.0,49500000.0,4.0026052e+07,9473948.0,9473948.0,30M–100M
+Lexus,Rz450E,Zaa-Xebm15,Automatic,Electric,Suv / 4X4,Yes,2023,,17000.0,49500000.0,2.2580432e+07,26919568.0,26919568.0,30M–100M
+Mitsubishi,Libero,Vagon,Manual,Diesel,Saloon,Yes,1992,1400.0,100000.0,495000.0,1.7807125e+06,1285712.5,-1285712.5,Below 10M
+Nissan,Sunny,B310,Manual,Petrol,Unknown,Yes,1988,1400.0,97900.0,495000.0,1.4135754e+06,918575.375,-918575.375,Below 10M
+Kia,Picanto,Unknown,Automatic,Petrol,Hatchback,Yes,2012,998.0,50137.0,5000000.0,5.0762495e+06,76249.5,-76249.5,Below 10M
+Land Rover,Defender,Defender,Manual,Diesel,Suv / 4X4,Yes,1956,2659.0,78000.0,5000000.0,1.1626825e+07,6626825.0,-6626825.0,Below 10M
+Mercedes Benz,C200,Unknown,Automatic,Petrol,Saloon,Yes,2000,2000.0,170000.0,5000000.0,6.362164e+06,1362164.0,-1362164.0,Below 10M
+Nissan,Leaf,Acenta Uk Model,Automatic,Electric,Hatchback,No,2014,,74000.0,5000000.0,5.8455815e+06,845581.5,-845581.5,Below 10M
+Toyota,Vios,E Grade,Automatic,Petrol,Saloon,Yes,2004,1500.0,242880.0,5150000.0,5.6621615e+06,512161.5,-512161.5,Below 10M
+Suzuki,Celerio,Vxi Auto,Automatic,Petrol,Hatchback,Yes,2016,1000.0,102000.0,5175000.0,5.308375e+06,133375.0,-133375.0,Below 10M
+Suzuki,Celerio,Vxi Auto,Automatic,Petrol,Hatchback,Yes,2016,1000.0,96000.0,5175000.0,5.343085e+06,168085.0,-168085.0,Below 10M
+Suzuki,Alto,2017,Automatic,Petrol,Hatchback,Yes,2017,660.0,135000.0,5200000.0,5.6727495e+06,472749.5,-472749.5,Below 10M
+Toyota,Vitz,Unknown,Automatic,Petrol,Unknown,No,2009,1000.0,162000.0,5200000.0,5.781772e+06,581772.0,-581772.0,Below 10M
+Mazda,Axela,Unknown,Automatic,Petrol,Saloon,Yes,2004,1500.0,185800.0,5250000.0,4.3642145e+06,885785.5,885785.5,Below 10M
+Nissan,Other Model,Cedric Brougham,Automatic,Petrol,Saloon,No,1995,2000.0,112000.0,5250000.0,3.8161895e+06,1433810.5,1433810.5,Below 10M
+Daihatsu,Mira,Unknown,Automatic,Petrol,Hatchback,Yes,2016,650.0,44000.0,5275000.0,5.755596e+06,480596.0,-480596.0,Below 10M
+Suzuki,Escudo,Xl7,Automatic,Petrol,Suv / 4X4,Yes,2001,2730.0,167000.0,5275000.0,7.884543e+06,2609543.0,-2609543.0,Below 10M
+Toyota,Vitz,Ksp90,Automatic,Petrol,Hatchback,Yes,2008,1000.0,125000.0,5275000.0,5.6855475e+06,410547.5,-410547.5,Below 10M
+Nissan,Tiida,Unknown,Automatic,Petrol,Unknown,Yes,2007,1500.0,184000.0,5300000.0,5.065079e+06,234921.0,234921.0,Below 10M
+Nissan,Leaf,Aze0 G Grade,Automatic,Electric,Hatchback,Yes,2013,,96500.0,5300000.0,5.6202735e+06,320273.5,-320273.5,Below 10M
+Other Brand,Other Model,Jd Gator Xuv855D 4X4,Automatic,Diesel,Unknown,Yes,2016,855.0,4000.0,5300000.0,5.3990555e+06,99055.5,-99055.5,Below 10M
+Toyota,Vitz,Unknown,Automatic,Petrol,Hatchback,Yes,2007,1000.0,165000.0,5300000.0,5.2671855e+06,32814.5,32814.5,Below 10M
+Honda,Civic,Es8 Rs,Automatic,Petrol,Saloon,Yes,2002,1700.0,155000.0,5350000.0,5.3121835e+06,37816.5,37816.5,Below 10M
+Suzuki,Celerio,Unknown,Automatic,Petrol,Hatchback,Yes,2015,1000.0,79000.0,5350000.0,5.324422e+06,25578.0,25578.0,Below 10M
+Suzuki,Alto,Japan Alto,Automatic,Petrol,Hatchback,Yes,2015,660.0,132700.0,5350000.0,5.310117e+06,39883.0,39883.0,Below 10M
+Micro,Actyon,Unknown,Manual,Diesel,Hatchback,Yes,2008,1995.0,156290.0,5375000.0,4.1533288e+06,1221671.25,1221671.25,Below 10M
+Perodua,Axia,Unknown,Automatic,Petrol,Hatchback,No,2015,998.0,140540.0,5375000.0,5.5813835e+06,206383.5,-206383.5,Below 10M
+Toyota,Passo,Unknown,Automatic,Petrol,Hatchback,Yes,2010,990.0,153800.0,5390000.0,5.1139265e+06,276073.5,276073.5,Below 10M
+Perodua,Axia,G Grade,Automatic,Petrol,Hatchback,Yes,2016,1000.0,124000.0,5400000.0,5.605719e+06,205719.0,-205719.0,Below 10M
+Toyota,Vitz,Ksp90,Automatic,Petrol,Hatchback,Yes,2007,1000.0,144525.0,5400000.0,5.435374e+06,35374.0,-35374.0,Below 10M
+Suzuki,Celerio,Vxi Auto,Automatic,Petrol,Hatchback,Yes,2015,1000.0,55000.0,5425000.0,5.358746e+06,66254.0,66254.0,Below 10M
+Suzuki,Wagon R Stingray,Stingray,Tiptronic,Petrol,Hatchback,Yes,2016,1000.0,89600.0,5450000.0,6.2637125e+06,813712.5,-813712.5,Below 10M
+Toyota,Vitz,Unknown,Automatic,Petrol,Hatchback,Yes,2008,1000.0,259000.0,5450000.0,5.5420065e+06,92006.5,-92006.5,Below 10M
+Toyota,Vitz,Ksp90,Automatic,Petrol,Hatchback,Yes,2008,1000.0,166000.0,5450000.0,5.545612e+06,95612.0,-95612.0,Below 10M
+Suzuki,Wagon R Fx,Unknown,Automatic,Petrol,Unknown,Yes,2016,650.0,183000.0,5490000.0,5.8251245e+06,335124.5,-335124.5,Below 10M
+Suzuki,Alto,Unknown,Automatic,Hybrid,Hatchback,No,2016,650.0,40469.0,5495000.0,5.698782e+06,203782.0,-203782.0,Below 10M
+Ford,Focus,Fully Loaded,Tiptronic,Petrol,Coupé/Sports,Yes,2011,1599.0,153000.0,5500000.0,7.0772095e+06,1577209.5,-1577209.5,Below 10M
+Perodua,Axia,Unknown,Automatic,Petrol,Hatchback,No,2015,998.0,78059.0,5590000.0,5.659257e+06,69257.0,-69257.0,Below 10M
+Toyota,Vitz,Unknown,Automatic,Petrol,Hatchback,Yes,2007,1000.0,138000.0,5590000.0,5.4015635e+06,188436.5,188436.5,Below 10M
+Toyota,Vitz,Unknown,Automatic,Petrol,Unknown,Yes,2008,990.0,215000.0,5600000.0,5.667661e+06,67661.0,-67661.0,Below 10M
+Toyota,Pixis,G Grade Fully Loaded,Automatic,Petrol,Hatchback,Yes,2017,660.0,46600.0,5650000.0,6.791005e+06,1141005.0,-1141005.0,Below 10M
+Honda,Fit,Unknown,Automatic,Petrol,Hatchback,Yes,2010,1300.0,116000.0,5700000.0,6.08884e+06,388840.0,-388840.0,Below 10M
+Toyota,Corolla,121 Lx Limited,Automatic,Petrol,Unknown,Yes,2004,1500.0,209500.0,5750000.0,6.235587e+06,485587.0,-485587.0,Below 10M
+Suzuki,Wagon R Fz,Safety Hybrid,Automatic,Hybrid,Hatchback,Yes,2014,650.0,52000.0,5775000.0,6.2047345e+06,429734.5,-429734.5,Below 10M
+Perodua,Axia,G 1St Owner,Automatic,Petrol,Hatchback,Yes,2017,1000.0,91000.0,5790000.0,6.311997e+06,521997.0,-521997.0,Below 10M
+Suzuki,Celerio,Celerio X,Automatic,Petrol,Hatchback,Yes,2018,998.0,63000.0,5800000.0,6.680379e+06,880379.0,-880379.0,Below 10M
+Toyota,Belta,Unknown,Automatic,Petrol,Saloon,Yes,2007,1000.0,166000.0,5800000.0,5.8420705e+06,42070.5,-42070.5,Below 10M
+Toyota,Vitz,Scp 90 1300Cc,Automatic,Petrol,Hatchback,Yes,2013,1000.0,140000.0,5825000.0,6.4509925e+06,625992.5,-625992.5,Below 10M
+Nissan,X-Trail,T 30,Automatic,Petrol,Suv / 4X4,Yes,2003,2000.0,191000.0,5850000.0,5.9660845e+06,116084.5,-116084.5,Below 10M
+Suzuki,Wagon R Fz,Safety,Automatic,Petrol,Hatchback,No,2014,650.0,75261.0,5875000.0,5.8383385e+06,36661.5,36661.5,Below 10M
+Suzuki,Wagon R Stingray,Unknown,Automatic,Petrol,Unknown,Yes,2014,650.0,154000.0,5875000.0,5.878941e+06,3941.0,-3941.0,Below 10M
+Suzuki,Wagon R Stingray,Unknown,Automatic,Petrol,Hatchback,No,2015,650.0,93390.0,5900000.0,5.8756565e+06,24343.5,24343.5,Below 10M
+Suzuki,Wagon R Stingray,Unknown,Automatic,Hybrid,Hatchback,No,2015,660.0,84300.0,5900000.0,5.970627e+06,70627.0,-70627.0,Below 10M
+Daihatsu,Mira,Es Sa3 B,Automatic,Petrol,Hatchback,Yes,2023,650.0,0.0,5950000.0,6.976876e+06,1026876.0,-1026876.0,Below 10M
+Nissan,Navara,Unknown,Manual,Diesel,Suv / 4X4,Yes,2007,2500.0,260000.0,5950000.0,6.8448285e+06,894828.5,-894828.5,Below 10M
+Suzuki,Wagon R Stingray,Exclusive J-Style,Automatic,Petrol,Hatchback,Yes,2014,660.0,125000.0,5950000.0,5.76261e+06,187390.0,187390.0,Below 10M
+Honda,N-Box,2016,Automatic,Petrol,Station Wagon,No,2016,660.0,125000.0,5975000.0,6.9163985e+06,941398.5,-941398.5,Below 10M
+Toyota,Vitz,Toyota,Automatic,Petrol,Hatchback,Yes,2010,1300.0,102000.0,5975000.0,6.2243815e+06,249381.5,-249381.5,Below 10M
+Daihatsu,Copen,Unknown,Automatic,Petrol,Convertible,Yes,2016,660.0,65600.0,5990000.0,6.801479e+06,811479.0,-811479.0,Below 10M
+Micro,Actyon,Double Cab,Manual,Diesel,Coupé/Sports,Yes,2008,1998.0,129651.0,5990000.0,4.830206e+06,1159794.0,1159794.0,Below 10M
+Suzuki,Wagon R Fx,Safety,Automatic,Hybrid,Hatchback,No,2018,650.0,54503.0,5990000.0,6.7920995e+06,802099.5,-802099.5,Below 10M
+Toyota,Corolla,121,Automatic,Petrol,Saloon,Yes,2006,1500.0,120000.0,5990000.0,6.704997e+06,714997.0,-714997.0,Below 10M
+Land Rover,Range Rover Sport,P400 Autobiography,Automatic,Hybrid,Suv / 4X4,No,2019,2000.0,41000.0,50000000.0,6.046123e+07,10461232.0,-10461232.0,30M–100M
+Toyota,Land Cruiser Sahara,V8 202 Bruno Cross,Tiptronic,Petrol,Suv / 4X4,No,2015,4500.0,70000.0,51000000.0,6.206088e+07,11060880.0,-11060880.0,30M–100M
+Toyota,Land Cruiser Prado,Unknown,Automatic,Petrol,Suv / 4X4,Yes,2023,2700.0,18000.0,51500000.0,4.2569252e+07,8930748.0,8930748.0,30M–100M
+Mitsubishi,Ek Wagon,Unknown,Manual,Petrol,Station Wagon,Yes,1984,1400.0,87788.0,510000.0,883009.6,373009.625,-373009.625,Below 10M
+Mercedes Benz,Gle 300D,Amg-Tech Pack Plus,Automatic,Diesel,Suv / 4X4,Yes,2019,2000.0,46000.0,52000000.0,4.608737e+07,5912632.0,5912632.0,30M–100M
+Toyota,Land Cruiser Prado,Lc150 Tx,Automatic,Petrol,Suv / 4X4,Yes,2023,2700.0,14000.0,52000000.0,5.41475e+07,2147500.0,-2147500.0,30M–100M
+Toyota,Land Cruiser Prado,Trj150 Tx,Tiptronic,Petrol,Suv / 4X4,Yes,2022,2700.0,18000.0,52000000.0,4.7262444e+07,4737556.0,4737556.0,30M–100M
+Toyota,Crown,Z Estate Exclusive,Automatic,Petrol,Suv / 4X4,Yes,2025,2500.0,0.0,52500000.0,5.579551e+07,3295512.0,-3295512.0,30M–100M
+Toyota,Land Cruiser Prado,Trj 150 Tx-L,Automatic,Petrol,Suv / 4X4,Yes,2023,2700.0,15500.0,52500000.0,5.3577024e+07,1077024.0,-1077024.0,30M–100M
+Toyota,Land Cruiser Prado,Trj 150 Tx,Automatic,Petrol,Suv / 4X4,Yes,2023,2700.0,15000.0,52900000.0,5.3577024e+07,677024.0,-677024.0,30M–100M
+Toyota,Land Cruiser Prado,150,Automatic,Petrol,Suv / 4X4,Yes,2023,3956.0,12169.0,53500000.0,1.0643202e+08,52932016.0,-52932016.0,30M–100M
+Toyota,Land Cruiser Prado,Trj150 Tx L Highest,Automatic,Petrol,Suv / 4X4,Yes,2023,2700.0,14000.0,54000000.0,5.41475e+07,147500.0,-147500.0,30M–100M
+Mitsubishi,Lancer,Lancer Wagon,Manual,Petrol,Station Wagon,Yes,1976,1200.0,791986.0,550000.0,681414.6,131414.625,-131414.625,Below 10M
+Ford,Mustang,5 Liter V8 Gt,Automatic,Petrol,Coupé/Sports,Yes,2016,5000.0,11000.0,56000000.0,3.7259244e+07,18740756.0,18740756.0,30M–100M
+Toyota,Land Cruiser Prado,Vx250 First Edition,Automatic,Petrol,Suv / 4X4,No,2024,2700.0,8000.0,57500000.0,5.518672e+07,2313280.0,2313280.0,30M–100M
+Toyota,Alphard,2025 Comfort Plus,Automatic,Hybrid,Mpv,Yes,2025,2500.0,0.0,57500000.0,6.266322e+07,5163220.0,-5163220.0,30M–100M
+Jeep,Wrangler,Rubicon Hardtop,Automatic,Petrol,Suv / 4X4,No,2024,2000.0,6000.0,57990000.0,5.1928036e+07,6061964.0,6061964.0,30M–100M
+Jeep,Wrangler,Rubicon Unlimited,Automatic,Petrol,Suv / 4X4,Yes,2025,2000.0,4500.0,58000000.0,5.4581344e+07,3418656.0,3418656.0,30M–100M
+Mercedes Benz,Eqs 450,Amg 2024 Premium,Tiptronic,Electric,Suv / 4X4,Yes,2024,,6800.0,58500000.0,5.4668656e+07,3831344.0,3831344.0,30M–100M
+Land Rover,Range Rover Sport,Straight Petrol Hse,Automatic,Petrol,Suv / 4X4,Yes,2018,2000.0,50000.0,58500002.0,4.8430972e+07,10069030.0,10069030.0,30M–100M
+Hyundai,Grand I10,Unknown,Automatic,Petrol,Hatchback,Yes,2017,1000.0,118000.0,6000000.0,5.671619e+06,328381.0,328381.0,Below 10M
+Nissan,Sunny,N17,Automatic,Petrol,Saloon,Yes,2011,1300.0,99000.0,6000000.0,6.3474855e+06,347485.5,-347485.5,Below 10M
+Suzuki,Wagon R Stingray,Mh44S Turbo Silver,Other Transmission,Petrol,Unknown,No,2015,660.0,67000.0,6000000.0,6.200298e+06,200298.0,-200298.0,Below 10M
+Toyota,Corolla,2003,Manual,Petrol,Saloon,Yes,2003,1500.0,221000.0,6000000.0,4.495284e+06,1504716.0,1504716.0,Below 10M
+Honda,Fit,Gp1,Automatic,Hybrid,Hatchback,Yes,2012,1500.0,148000.0,6050000.0,7.0801595e+06,1030159.5,-1030159.5,Below 10M
+Daihatsu,Mira,L Sa3 Safety,Automatic,Petrol,Hatchback,Yes,2022,660.0,27000.0,6100000.0,6.562681e+06,462681.0,-462681.0,Below 10M
+Daihatsu,Mira,L Safety,Automatic,Petrol,Hatchback,Yes,2022,660.0,26000.0,6100000.0,6.562681e+06,462681.0,-462681.0,Below 10M
+Suzuki,Wagon R Fz,Safety Package,Automatic,Hybrid,Hatchback,Yes,2016,600.0,95000.0,6100000.0,5.974956e+06,125044.0,125044.0,Below 10M
+Suzuki,Spacia,Mk42S,Automatic,Hybrid,Hatchback,Yes,2017,650.0,103600.0,6100000.0,6.516592e+06,416592.0,-416592.0,Below 10M
+Suzuki,Celerio,Celerio X,Automatic,Petrol,Unknown,Yes,2018,998.0,68511.0,6100000.0,6.9253945e+06,825394.5,-825394.5,Below 10M
+Toyota,Yaris,Unknown,Automatic,Petrol,Saloon,Yes,2006,1300.0,191000.0,6100000.0,6.178323e+06,78323.0,-78323.0,Below 10M
+Toyota,Belta,Unknown,Automatic,Petrol,Unknown,Yes,2007,1000.0,117000.0,6190000.0,5.461984e+06,728016.0,728016.0,Below 10M
+Daihatsu,Mira,Es L Sa3 - Kwww – A1,Automatic,Petrol,Hatchback,Yes,2024,660.0,5000.0,6200000.0,6.65219e+06,452190.0,-452190.0,Below 10M
+Mahindra,Kuv 100,Kuv 100,Manual,Petrol,Hatchback,Yes,2022,1200.0,35000.0,6200000.0,6.1841235e+06,15876.5,15876.5,Below 10M
+Perodua,Axia,G Grade,Automatic,Petrol,Hatchback,Yes,2016,998.0,61000.0,6200000.0,6.1009415e+06,99058.5,99058.5,Below 10M
+Suzuki,Alto,L,Automatic,Petrol,Unknown,Yes,2023,660.0,18000.0,6200000.0,6.636735e+06,436735.0,-436735.0,Below 10M
+Daihatsu,Mira,La Saiii Safety,Automatic,Petrol,Hatchback,No,2024,658.0,2829.0,6250000.0,6.6143165e+06,364316.5,-364316.5,Below 10M
+Daihatsu,Mira,L Sa3 Safety,Automatic,Petrol,Hatchback,Yes,2023,660.0,9200.0,6290000.0,6.6209495e+06,330949.5,-330949.5,Below 10M
+Suzuki,Wagon R Fx,Safety,Automatic,Petrol,Hatchback,Yes,2017,660.0,108000.0,6290000.0,6.1277175e+06,162282.5,162282.5,Below 10M
+Suzuki,Wagon R Fz,Safety Model,Automatic,Petrol,Hatchback,No,2017,650.0,238000.0,6300000.0,6.1250475e+06,174952.5,174952.5,Below 10M
+Daihatsu,Mira,L Safety,Automatic,Petrol,Hatchback,Yes,2023,660.0,4000.0,6350000.0,6.679812e+06,329812.0,-329812.0,Below 10M
+Honda,N-Wgn,Custom,Automatic,Petrol,Hatchback,Yes,2017,660.0,98500.0,6370000.0,6.835598e+06,465598.0,-465598.0,Below 10M
+Daihatsu,Mira,X,Automatic,Petrol,Unknown,No,2024,660.0,4000.0,6390000.0,6.877742e+06,487742.0,-487742.0,Below 10M
+Daihatsu,Mira,Es L,Automatic,Petrol,Hatchback,No,2024,660.0,1400.0,6390000.0,6.594401e+06,204401.0,-204401.0,Below 10M
+Daihatsu,Mira,L Safety,Automatic,Petrol,Hatchback,Yes,2024,660.0,8739.0,6400000.0,6.6539985e+06,253998.5,-253998.5,Below 10M
+Daihatsu,Mira,L Safety,Automatic,Petrol,Hatchback,No,2024,660.0,3000.0,6400000.0,6.59281e+06,192810.0,-192810.0,Below 10M
+Toyota,Yaris,Unknown,Automatic,Petrol,Saloon,Yes,2008,1300.0,229000.0,6400000.0,6.3526755e+06,47324.5,47324.5,Below 10M
+Toyota,Pixis,Mira,Automatic,Petrol,Hatchback,Yes,2023,660.0,68000.0,6400000.0,8.0870605e+06,1687060.5,-1687060.5,Below 10M
+Toyota,Corolla,121 G Grade,Automatic,Petrol,Saloon,Yes,2004,1500.0,125000.0,6400000.0,6.4368275e+06,36827.5,-36827.5,Below 10M
+Daihatsu,Mira,Es - L (Rear Wiper),Automatic,Petrol,Hatchback,Yes,2024,660.0,0.0,6425000.0,6.933278e+06,508278.0,-508278.0,Below 10M
+Daihatsu,Mira,L Safety,Automatic,Petrol,Hatchback,Yes,2023,660.0,4000.0,6450000.0,6.679812e+06,229812.0,-229812.0,Below 10M
+Daihatsu,Mira,L Sa3 Safety,Automatic,Petrol,Hatchback,Yes,2023,660.0,9000.0,6450000.0,6.6209495e+06,170949.5,-170949.5,Below 10M
+Suzuki,Wagon R Fx,2018,Automatic,Petrol,Hatchback,Yes,2018,660.0,90000.0,6475000.0,6.5604345e+06,85434.5,-85434.5,Below 10M
+Suzuki,Alto,Safety,Automatic,Petrol,Hatchback,Yes,2023,660.0,4000.0,6475000.0,6.626622e+06,151622.0,-151622.0,Below 10M
+Suzuki,Alto,L Grade,Automatic,Petrol,Hatchback,Yes,2024,660.0,2939.0,6495000.0,6.6907715e+06,195771.5,-195771.5,Below 10M
+Bmw,520I,Unknown,Tiptronic,Petrol,Saloon,Yes,1999,2000.0,290000.0,6500000.0,5.271311e+06,1228689.0,1228689.0,Below 10M
+Daihatsu,Mira,Sa3,Automatic,Petrol,Hatchback,No,2024,660.0,5000.0,6500000.0,6.526954e+06,26954.0,-26954.0,Below 10M
+Mercedes Benz,E250,Unknown,Automatic,Diesel,Unknown,Yes,1998,2500.0,190000.0,6500000.0,7.318903e+06,818903.0,-818903.0,Below 10M
+Suzuki,Swift,Unknown,Manual,Petrol,Unknown,Yes,2015,1200.0,60000.0,6500000.0,4.662295e+06,1837705.0,1837705.0,Below 10M
+Suzuki,Alto,Japan,Automatic,Petrol,Hatchback,No,2024,660.0,6800.0,6500000.0,6.54518e+06,45180.0,-45180.0,Below 10M
+Toyota,Avanza,Unknown,Manual,Petrol,Unknown,Yes,2008,1300.0,161037.0,6500000.0,5.2079465e+06,1292053.5,1292053.5,Below 10M
+Toyota,Allion,240 Nzt A15,Automatic,Petrol,Saloon,No,2003,1500.0,158000.0,6525000.0,7.164732e+06,639732.0,-639732.0,Below 10M
+Daihatsu,Mira,L Grade,Automatic,Petrol,Unknown,Yes,2024,660.0,2600.0,6550000.0,6.9218885e+06,371888.5,-371888.5,Below 10M
+Daihatsu,Mira,L Grade,Automatic,Petrol,Unknown,Yes,2024,660.0,1800.0,6550000.0,6.8765155e+06,326515.5,-326515.5,Below 10M
+Daihatsu,Mira,X Limited Sa 111,Automatic,Petrol,Hatchback,Yes,2023,660.0,15000.0,6550000.0,6.5927975e+06,42797.5,-42797.5,Below 10M
+Suzuki,Alto,Japan Alto,Automatic,Petrol,Hatchback,Yes,2023,660.0,17000.0,6600000.0,6.5630815e+06,36918.5,36918.5,Below 10M
+Daihatsu,Mira,Mira L Grade,Automatic,Petrol,Hatchback,Yes,2024,650.0,7000.0,6625000.0,6.688341e+06,63341.0,-63341.0,Below 10M
+Daihatsu,Mira,L Grade,Automatic,Petrol,Hatchback,Yes,2023,650.0,8000.0,6650000.0,6.7621235e+06,112123.5,-112123.5,Below 10M
+Hyundai,Santa Fe,Cm,Automatic,Diesel,Unknown,No,2007,2200.0,15000.0,6650000.0,6.044908e+06,605092.0,605092.0,Below 10M
+Suzuki,Alto,L Up Safety,Automatic,Petrol,Hatchback,Yes,2024,660.0,5600.0,6650000.0,6.5964265e+06,53573.5,53573.5,Below 10M
+Toyota,Ist,2007,Automatic,Petrol,Hatchback,Yes,2007,1500.0,215000.0,6650000.0,6.1426085e+06,507391.5,507391.5,Below 10M
+Daihatsu,Mira,Eis X,Automatic,Petrol,Hatchback,Yes,2025,660.0,0.0,6690000.0,6.9235655e+06,233565.5,-233565.5,Below 10M
+Suzuki,Wagon R Fz,Unknown,Automatic,Hybrid,Hatchback,No,2017,650.0,84287.0,6690000.0,6.3381155e+06,351884.5,351884.5,Below 10M
+Toyota,Passo,G Safety,Automatic,Petrol,Hatchback,Yes,2016,1000.0,106000.0,6690000.0,6.272225e+06,417775.0,417775.0,Below 10M
+Ssang Yong,Tivoli,2016,Automatic,Petrol,Suv / 4X4,Yes,2016,1600.0,98000.0,6700000.0,1.4547717e+07,7847717.0,-7847717.0,Below 10M
+Toyota,Allion,240,Automatic,Petrol,Saloon,Yes,2002,1500.0,230000.0,6700000.0,6.705854e+06,5854.0,-5854.0,Below 10M
+Toyota,Passo,Toyota,Automatic,Petrol,Hatchback,Yes,2016,1000.0,112000.0,6700000.0,6.267035e+06,432965.0,432965.0,Below 10M
+Daihatsu,Mira,Es - Safety,Automatic,Petrol,Hatchback,Yes,2024,660.0,0.0,6750000.0,6.933278e+06,183278.0,-183278.0,Below 10M
+Mercedes Benz,C220,Diesel Auto,Automatic,Diesel,Saloon,Yes,2001,2200.0,200000.0,6750000.0,6.699615e+06,50385.0,50385.0,Below 10M
+Toyota,Corolla,141 Lxi,Automatic,Petrol,Saloon,Yes,2008,1600.0,170000.0,6750000.0,7.24283e+06,492830.0,-492830.0,Below 10M
+Toyota,Prius,2007,Automatic,Petrol,Saloon,Yes,2007,1500.0,226000.0,6750000.0,6.7160365e+06,33963.5,33963.5,Below 10M
+Daihatsu,Mira,X Sa3 Safety,Automatic,Petrol,Hatchback,Yes,2025,650.0,3000.0,6795000.0,6.7630905e+06,31909.5,31909.5,Below 10M
+Daihatsu,Mira,X Limited,Automatic,Petrol,Unknown,Yes,2024,650.0,4000.0,6795000.0,6.851856e+06,56856.0,-56856.0,Below 10M
+Daihatsu,Mira,X Limited Led,Automatic,Petrol,Hatchback,Yes,2024,660.0,17200.0,6800000.0,6.590459e+06,209541.0,209541.0,Below 10M
+Suzuki,Wagon R Stingray,Unknown,Automatic,Petrol,Hatchback,Yes,2018,660.0,90000.0,6800000.0,6.860991e+06,60991.0,-60991.0,Below 10M
+Toyota,Verossa,Unknown,Automatic,Petrol,Saloon,Yes,2005,2000.0,178000.0,6800000.0,5.780085e+06,1019915.0,1019915.0,Below 10M
+Toyota,Corolla,141,Automatic,Petrol,Unknown,Yes,2007,1598.0,75000.0,6800000.0,6.915831e+06,115831.0,-115831.0,Below 10M
+Toyota,Prius,Toyota,Automatic,Hybrid,Hatchback,Yes,2008,1490.0,213000.0,6800000.0,6.946177e+06,146177.0,-146177.0,Below 10M
+Daihatsu,Mira,X Limited Es,Automatic,Petrol,Hatchback,Yes,2024,650.0,250.0,6825000.0,7.1407135e+06,315713.5,-315713.5,Below 10M
+Daihatsu,Mira,Unknown,Automatic,Petrol,Hatchback,Yes,2024,650.0,2000.0,6850000.0,6.913767e+06,63767.0,-63767.0,Below 10M
+Daihatsu,Mira,G Grade,Automatic,Petrol,Hatchback,No,2022,650.0,3000.0,6850000.0,6.7221235e+06,127876.5,127876.5,Below 10M
+Suzuki,Wagon R Stingray,Wagon R Stingray,Automatic,Petrol,Unknown,Yes,2018,650.0,70500.0,6850000.0,7.1855065e+06,335506.5,-335506.5,Below 10M
+Suzuki,Wagon R Fx,Safety Package,Automatic,Petrol,Hatchback,Yes,2018,660.0,56000.0,6850000.0,6.7327675e+06,117232.5,117232.5,Below 10M
+Toyota,Allion,G Grade,Automatic,Petrol,Saloon,Yes,2007,1800.0,135000.0,6850000.0,9.006784e+06,2156784.0,-2156784.0,Below 10M
+Toyota,Allion,A15,Automatic,Petrol,Saloon,No,2003,1500.0,182000.0,6850000.0,7.250259e+06,400259.0,-400259.0,Below 10M
+Toyota,Aqua,S Grade,Automatic,Hybrid,Hatchback,Yes,2012,1490.0,198000.0,6850000.0,7.1603735e+06,310373.5,-310373.5,Below 10M
+Mahindra,Kuv 100,Unknown,Automatic,Diesel,Unknown,No,2022,1198.0,44000.0,6870000.0,5.5134445e+06,1356555.5,1356555.5,Below 10M
+Daihatsu,Mira,Push Start G Sa3,Automatic,Petrol,Saloon,No,2023,660.0,5500.0,6875000.0,6.7556195e+06,119380.5,119380.5,Below 10M
+Toyota,Axio,Unknown,Automatic,Petrol,Hatchback,No,2007,1490.0,184206.0,6875000.0,6.606298e+06,268702.0,268702.0,Below 10M
+Suzuki,Wagon R Fz,Premium,Automatic,Hybrid,Hatchback,No,2018,650.0,76208.0,6895000.0,6.830945e+06,64055.0,64055.0,Below 10M
+Daihatsu,Boon,Unknown,Automatic,Petrol,Hatchback,Yes,2017,1000.0,47400.0,6900000.0,7.003114e+06,103114.0,-103114.0,Below 10M
+Suzuki,Wagon R,Fz Safety Mh55S,Automatic,Hybrid,Hatchback,Yes,2018,660.0,113000.0,6900000.0,6.711823e+06,188177.0,188177.0,Below 10M
+Suzuki,Spacia,Unknown,Automatic,Petrol,Unknown,Yes,2016,660.0,51180.0,6900000.0,6.3769795e+06,523020.5,523020.5,Below 10M
+Toyota,Vitz,Unknown,Automatic,Petrol,Hatchback,Yes,2016,1000.0,98642.0,6900000.0,6.972446e+06,72446.0,-72446.0,Below 10M
+Nissan,Clipper,Unknown,Automatic,Petrol,Mpv,No,2025,660.0,0.0,6950000.0,8.826826e+06,1876826.0,-1876826.0,Below 10M
+Suzuki,Spacia,Custom Z,Automatic,Hybrid,Hatchback,No,2017,650.0,109000.0,6950000.0,6.452974e+06,497026.0,497026.0,Below 10M
+Suzuki,Spacia,Suzuki Spacia Custom,Automatic,Petrol,Hatchback,Yes,2016,660.0,115000.0,6950000.0,5.9546195e+06,995380.5,995380.5,Below 10M
+Toyota,Vitz,2018 Cbc,Automatic,Petrol,Hatchback,Yes,2015,1000.0,110000.0,6950000.0,6.943243e+06,6757.0,6757.0,Below 10M
+Toyota,Aqua,S Grade,Automatic,Hybrid,Hatchback,Yes,2012,1500.0,146000.0,6950000.0,7.1629215e+06,212921.5,-212921.5,Below 10M
+Daihatsu,Mira,X Limited,Automatic,Petrol,Hatchback,Yes,2024,650.0,2800.0,6975000.0,6.9536005e+06,21399.5,21399.5,Below 10M
+Mitsubishi,Ek Wagon,Ek Wagon,Automatic,Petrol,Unknown,No,2023,650.0,4500.0,6975000.0,7.4887655e+06,513765.5,-513765.5,Below 10M
+Suzuki,Wagon R Fz,Safety,Automatic,Hybrid,Hatchback,No,2017,650.0,86120.0,6990000.0,6.3964885e+06,593511.5,593511.5,Below 10M
+Toyota,Land Cruiser Prado,250 1St Edition,Automatic,Petrol,Hatchback,No,2024,2700.0,10387.0,61800000.0,4.7660028e+07,14139972.0,14139972.0,30M–100M
+Toyota,Vellfire,Z Premium Package,Automatic,Hybrid,Station Wagon,Yes,2024,2500.0,0.0,61850000.0,5.747822e+07,4371780.0,4371780.0,30M–100M
+Bmw,520I,Mht M Sport Pro,Automatic,Hybrid,Saloon,No,2025,2000.0,0.0,62000000.0,5.8901576e+07,3098424.0,3098424.0,30M–100M
+Land Rover,Range Rover,Unknown,Tiptronic,Petrol,Suv / 4X4,Yes,2019,2000.0,63000.0,62000000.0,4.4872564e+07,17127436.0,17127436.0,30M–100M
+Toyota,Land Cruiser Prado,250 Vx 1St Edition,Automatic,Petrol,Suv / 4X4,Yes,2024,2700.0,3000.0,62000000.0,5.901898e+07,2981020.0,2981020.0,30M–100M
+Hyundai,Other Model,Palisade 2025,Tiptronic,Hybrid,Suv / 4X4,No,2025,2500.0,0.0,63000000.0,5.644729e+07,6552712.0,6552712.0,30M–100M
+Toyota,Land Cruiser Prado,Lc250 Vx Highest Spc,Automatic,Petrol,Suv / 4X4,Yes,2025,2700.0,0.0,63000000.0,6.0100204e+07,2899796.0,2899796.0,30M–100M
+Toyota,Land Cruiser Prado,Trj250 First Edition,Automatic,Petrol,Suv / 4X4,Yes,2024,2700.0,3000.0,63500000.0,5.901898e+07,4481020.0,4481020.0,30M–100M
+Bmw,525I,525Li M Sport B/New,Automatic,Petrol,Saloon,Yes,2024,2000.0,0.0,64000000.0,6.3937056e+07,62944.0,62944.0,30M–100M
+Toyota,Land Cruiser Prado,250 First Edition,Automatic,Petrol,Suv / 4X4,No,2024,2000.0,5000.0,64500000.0,5.5870164e+07,8629836.0,8629836.0,30M–100M
+Toyota,Vellfire,Executive Lounge,Automatic,Petrol,Suv / 4X4,Yes,2024,2500.0,0.0,65000000.0,5.7928364e+07,7071636.0,7071636.0,30M–100M
+Land Rover,Range Rover,Autobiography,Tiptronic,Petrol,Suv / 4X4,No,2019,2000.0,15000.0,65500000.0,5.9384836e+07,6115164.0,6115164.0,30M–100M
+Toyota,Alphard,Premium Executive,Automatic,Petrol,Mpv,Yes,2024,2500.0,5000.0,65500000.0,6.7840056e+07,2340056.0,-2340056.0,30M–100M
+Toyota,Alphard,Premium Exicutive L,Automatic,Hybrid,Mpv,Yes,2025,2500.0,100.0,65950000.0,6.4605276e+07,1344724.0,1344724.0,30M–100M
+Nissan,Sunny,B11,Manual,Petrol,Hatchback,Yes,1985,1300.0,232796.0,650000.0,1.0554646e+06,405464.625,-405464.625,Below 10M
+Toyota,Vellfire,Z-Premier,Automatic,Petrol,Mpv,Yes,2024,2500.0,0.0,66500000.0,5.784059e+07,8659408.0,8659408.0,30M–100M
+Bmw,525I,525Li Lwb M Sport,Tiptronic,Petrol,Suv / 4X4,No,2025,2000.0,0.0,67000000.0,6.0151584e+07,6848416.0,6848416.0,30M–100M
+Toyota,Vellfire,Executive Lounge,Automatic,Petrol,Mpv,Yes,2024,2500.0,0.0,67500000.0,6.0401176e+07,7098824.0,7098824.0,30M–100M
+Bmw,520I,Mht M Sport Pro,Automatic,Hybrid,Saloon,No,2025,2000.0,0.0,67900000.0,5.8901576e+07,8998424.0,8998424.0,30M–100M
+Mitsubishi,Lancer,Unknown,Manual,Petrol,Saloon,Yes,1978,1400.0,399952.0,675000.0,740476.06,65476.0625,-65476.0625,Below 10M
+Land Rover,Defender,Flulspeck Sunroof,Automatic,Petrol,Suv / 4X4,Yes,2023,2000.0,6500.0,69500000.0,7.3312584e+07,3812584.0,-3812584.0,30M–100M
+Porsche,718 Cayman,Sport Chrono Pack,Tiptronic,Petrol,Hatchback,Yes,2025,2000.0,0.0,69950000.0,3.6752396e+07,33197604.0,33197604.0,30M–100M
+Daihatsu,Mira,X Limited,Automatic,Petrol,Hatchback,Yes,2024,660.0,2000.0,7000000.0,6.940946e+06,59054.0,59054.0,Below 10M
+Toyota,Vitz,Ksp 130,Automatic,Petrol,Hatchback,Yes,2015,1000.0,78500.0,7000000.0,7.017361e+06,17361.0,-17361.0,Below 10M
+Toyota,Aqua,G Limited Edition,Automatic,Hybrid,Hatchback,Yes,2012,1490.0,170000.0,7100000.0,7.2290975e+06,129097.5,-129097.5,Below 10M
+Toyota,Corolla,141,Automatic,Petrol,Saloon,Yes,2008,1600.0,216000.0,7150000.0,7.245393e+06,95393.0,-95393.0,Below 10M
+Mitsubishi,Ek Wagon,Safety B33W,Automatic,Petrol,Station Wagon,No,2023,660.0,9200.0,7175000.0,7.8294025e+06,654402.5,-654402.5,Below 10M
+Suzuki,Other Model,Every Pa Limited,Automatic,Petrol,Unknown,Yes,2024,660.0,1100.0,7190000.0,8.906183e+06,1716183.0,-1716183.0,Below 10M
+Suzuki,Wagon R Stingray,Unknown,Automatic,Hybrid,Hatchback,No,2018,650.0,86285.0,7190000.0,6.9081515e+06,281848.5,281848.5,Below 10M
+Toyota,Passo,Unknown,Automatic,Petrol,Hatchback,No,2016,990.0,83701.0,7190000.0,6.1282905e+06,1061709.5,1061709.5,Below 10M
+Suzuki,Spacia,Suzuki Spacia Custom,Automatic,Petrol,Hatchback,Yes,2018,660.0,63000.0,7200000.0,7.5173445e+06,317344.5,-317344.5,Below 10M
+Toyota,Aqua,S Grade,Automatic,Hybrid,Hatchback,Yes,2012,1500.0,247000.0,7200008.0,7.123451e+06,76557.0,76557.0,Below 10M
+Suzuki,Wagon R Fx,Unknown,Automatic,Petrol,Hatchback,No,2023,650.0,9000.0,7225000.0,7.283698e+06,58698.0,-58698.0,Below 10M
+Mitsubishi,L200,2Wd,Manual,Diesel,Suv / 4X4,No,2011,2500.0,229000.0,7250000.0,7.0397555e+06,210244.5,210244.5,Below 10M
+Suzuki,Wagon R Fx,Non Safety,Automatic,Petrol,Hatchback,No,2023,650.0,16378.0,7275000.0,7.306148e+06,31148.0,-31148.0,Below 10M
+Honda,Fit,Gp5,Automatic,Hybrid,Hatchback,No,2014,1490.0,90858.0,7290000.0,7.985636e+06,695636.0,-695636.0,Below 10M
+Suzuki,Wagon R,Fx Safety,Automatic,Petrol,Hatchback,No,2023,660.0,9000.0,7290000.0,7.5544785e+06,264478.5,-264478.5,Below 10M
+Mitsubishi,Ek Wagon,M Grade,Automatic,Petrol,Hatchback,No,2023,650.0,3888.0,7295000.0,7.5559125e+06,260912.5,-260912.5,Below 10M
+Suzuki,Wagon R Fx,Unknown,Automatic,Petrol,Hatchback,Yes,2024,660.0,10000.0,7300000.0,7.342218e+06,42218.0,-42218.0,Below 10M
+Suzuki,Wagon R Fx,Fx Safety With Push,Automatic,Petrol,Hatchback,Yes,2023,660.0,13000.0,7300000.0,7.3598775e+06,59877.5,-59877.5,Below 10M
+Toyota,Aqua,Unknown,Automatic,Hybrid,Hatchback,Yes,2014,1500.0,103000.0,7300000.0,7.7576495e+06,457649.5,-457649.5,Below 10M
+Toyota,Vitz,2016,Automatic,Petrol,Hatchback,Yes,2016,1000.0,107000.0,7325000.0,7.0335815e+06,291418.5,291418.5,Below 10M
+Daihatsu,Mira,G,Automatic,Petrol,Hatchback,No,2023,650.0,6488.0,7350000.0,6.6502045e+06,699795.5,699795.5,Below 10M
+Mitsubishi,Ek Wagon,M Grade,Automatic,Petrol,Hatchback,No,2024,650.0,1117.0,7350000.0,8.727452e+06,1377452.0,-1377452.0,Below 10M
+Suzuki,Wagon R,Fx Safety,Automatic,Petrol,Unknown,No,2024,660.0,1000.0,7350000.0,8.059582e+06,709582.0,-709582.0,Below 10M
+Suzuki,Alto,L Safety,Automatic,Petrol,Hatchback,Yes,2023,650.0,11000.0,7350000.0,6.6118505e+06,738149.5,738149.5,Below 10M
+Mitsubishi,Ek Wagon,Safety B33W Unregist,Automatic,Petrol,Hatchback,No,2023,660.0,9300.0,7375000.0,7.520234e+06,145234.0,-145234.0,Below 10M
+Toyota,Vitz,Unknown,Automatic,Petrol,Hatchback,Yes,2015,1000.0,74000.0,7375000.0,6.948052e+06,426948.0,426948.0,Below 10M
+Daihatsu,Mira,G Grade,Automatic,Petrol,Hatchback,Yes,2025,660.0,0.0,7390000.0,7.104834e+06,285166.0,285166.0,Below 10M
+Mitsubishi,Lancer,Cs1,Manual,Petrol,Saloon,No,2008,1299.0,222000.0,7390000.0,6.0779385e+06,1312061.5,1312061.5,Below 10M
+Toyota,Allion,240,Automatic,Petrol,Saloon,No,2006,1490.0,128263.0,7390000.0,7.9116515e+06,521651.5,-521651.5,Below 10M
+Nissan,Dayz,M,Automatic,Petrol,Hatchback,Yes,2023,650.0,5000.0,7400000.0,7.726521e+06,326521.0,-326521.0,Below 10M
+Suzuki,Spacia,Spacia Xf,Automatic,Petrol,Unknown,No,2023,650.0,2500.0,7400000.0,8.3372335e+06,937233.5,-937233.5,Below 10M
+Toyota,Aqua,S Grade,Automatic,Hybrid,Hatchback,No,2013,1500.0,193000.0,7400000.0,7.3236995e+06,76300.5,76300.5,Below 10M
+Toyota,Vitz,Safety Edition 2017,Automatic,Petrol,Hatchback,Yes,2017,1000.0,113000.0,7400000.0,7.178349e+06,221651.0,221651.0,Below 10M
+Toyota,Vitz,Unknown,Automatic,Petrol,Hatchback,No,2015,990.0,59505.0,7425000.0,7.1722175e+06,252782.5,252782.5,Below 10M
+Daihatsu,Terios,Terios Premium,Automatic,Petrol,Suv / 4X4,No,2013,1500.0,129000.0,7450000.0,9.078031e+06,1628031.0,-1628031.0,Below 10M
+Nissan,Dayz,Highway Star,Automatic,Hybrid,Hatchback,No,2024,660.0,5000.0,7450000.0,8.0557015e+06,605701.5,-605701.5,Below 10M
+Toyota,Vitz,Unknown,Automatic,Petrol,Hatchback,No,2017,990.0,162352.0,7450000.0,6.9114925e+06,538507.5,538507.5,Below 10M
+Toyota,Aqua,Aqua - G Limited,Automatic,Petrol,Hatchback,No,2013,1490.0,135000.0,7450000.0,7.6120155e+06,162015.5,-162015.5,Below 10M
+Toyota,Aqua,S,Automatic,Hybrid,Hatchback,Yes,2013,1490.0,151000.0,7450000.0,7.4602665e+06,10266.5,-10266.5,Below 10M
+Suzuki,Wagon R,Fx,Automatic,Petrol,Hatchback,Yes,2025,650.0,2000.0,7460000.0,7.9641355e+06,504135.5,-504135.5,Below 10M
+Micro,Kyron,Unknown,Automatic,Diesel,Suv / 4X4,Yes,2009,2000.0,153087.0,7475000.0,5.7028055e+06,1772194.5,1772194.5,Below 10M
+Toyota,Vitz,Led Highest Grade,Automatic,Petrol,Hatchback,No,2016,1000.0,98000.0,7475000.0,7.050929e+06,424071.0,424071.0,Below 10M
+Toyota,Rush,Rush Premium,Automatic,Petrol,Suv / 4X4,Yes,2009,1500.0,168000.0,7480000.0,7.650099e+06,170099.0,-170099.0,Below 10M
+Nissan,Juke,Suv,Automatic,Petrol,Suv / 4X4,Yes,2010,1500.0,116000.0,7490000.0,7.605086e+06,115086.0,-115086.0,Below 10M
+Suzuki,Wagon R Fx,Safety,Automatic,Petrol,Hatchback,Yes,2024,650.0,8000.0,7490000.0,7.387788e+06,102212.0,102212.0,Below 10M
+Toyota,Aqua,S Grade,Automatic,Hybrid,Hatchback,Yes,2015,1500.0,146000.0,7490000.0,8.200293e+06,710293.0,-710293.0,Below 10M
+Honda,Civic,Fd3,Automatic,Hybrid,Saloon,Yes,2010,1330.0,202100.0,7500000.0,8.342435e+06,842435.0,-842435.0,Below 10M
+Honda,Insight,2012,Automatic,Hybrid,Hatchback,Yes,2012,1339.0,175606.0,7500000.0,6.740805e+06,759195.0,759195.0,Below 10M
+Nissan,Cefiro,Face Lift,Automatic,Petrol,Saloon,No,2007,2400.0,175000.0,7500000.0,7.5169e+06,16900.0,-16900.0,Below 10M
+Nissan,Dayz,X – Pearl - Sddd-A1,Automatic,Petrol,Hatchback,Yes,2024,660.0,10000.0,7500000.0,7.728828e+06,228828.0,-228828.0,Below 10M
+Suzuki,Wagon R Fx,Unknown,Automatic,Petrol,Hatchback,Yes,2024,660.0,1500.0,7500000.0,7.4601815e+06,39818.5,39818.5,Below 10M
+Suzuki,Wagon R Stingray,Suzuki,Automatic,Petrol,Hatchback,Yes,2019,650.0,62247.0,7500000.0,7.2623695e+06,237630.5,237630.5,Below 10M
+Suzuki,Wagon R Stingray,Unknown,Automatic,Petrol,Hatchback,No,2018,650.0,80473.0,7500000.0,6.868952e+06,631048.0,631048.0,Below 10M
+Toyota,Corolla,Gli,Manual,Petrol,Saloon,Yes,2013,1800.0,63000.0,7500000.0,7.7228085e+06,222808.5,-222808.5,Below 10M
+Toyota,Aqua,Unknown,Automatic,Petrol,Hatchback,Yes,2013,1500.0,118500.0,7500000.0,7.5827585e+06,82758.5,-82758.5,Below 10M
+Toyota,Land Cruiser Sahara,Bj60 1987,Automatic,Diesel,Suv / 4X4,Yes,1987,3980.0,388490.0,7500000.0,1.0178846e+07,2678846.0,-2678846.0,Below 10M
+Honda,Fit,Gp5,Automatic,Petrol,Hatchback,Yes,2014,1490.0,146000.0,7550000.0,7.972335e+06,422335.0,-422335.0,Below 10M
+Toyota,Vitz,Ksp 130,Automatic,Petrol,Hatchback,Yes,2015,990.0,74025.0,7550000.0,7.0567615e+06,493238.5,493238.5,Below 10M
+Daihatsu,Mira,G Limited,Automatic,Petrol,Hatchback,Yes,2023,650.0,9700.0,7590000.0,6.6665365e+06,923463.5,923463.5,Below 10M
+Toyota,Aqua,S Grade,Automatic,Hybrid,Hatchback,No,2014,1490.0,167446.0,7590000.0,7.686562e+06,96562.0,-96562.0,Below 10M
+Toyota,Aqua,S Grade,Automatic,Hybrid,Hatchback,No,2013,1490.0,148741.0,7590000.0,7.4071395e+06,182860.5,182860.5,Below 10M
+Toyota,Vitz,Unknown,Automatic,Petrol,Hatchback,No,2017,990.0,80229.0,7595000.0,7.1715885e+06,423411.5,423411.5,Below 10M
+Daihatsu,Mira,G Grade,Automatic,Petrol,Hatchback,Yes,2025,660.0,0.0,7600000.0,7.104834e+06,495166.0,495166.0,Below 10M
+Honda,Insight,Ze2,Automatic,Hybrid,Station Wagon,Yes,2010,1300.0,138000.0,7600000.0,6.938517e+06,661483.0,661483.0,Below 10M
+Suzuki,Wagon R Fx,Fx,Automatic,Petrol,Hatchback,Yes,2024,660.0,8500.0,7600000.0,7.3858015e+06,214198.5,214198.5,Below 10M
+Suzuki,Wagon R Fx,Brand New,Automatic,Hybrid,Unknown,No,2025,660.0,0.0,7600000.0,8.3216085e+06,721608.5,-721608.5,Below 10M
+Suzuki,Wagon R,Fx,Automatic,Petrol,Hatchback,Yes,2023,650.0,4000.0,7600000.0,7.756111e+06,156111.0,-156111.0,Below 10M
+Toyota,Prius,2Nd Generation,Automatic,Hybrid,Hatchback,Yes,2011,1500.0,138000.0,7600000.0,7.4160525e+06,183947.5,183947.5,Below 10M
+Daihatsu,Mira,Es G,Automatic,Petrol,Hatchback,Yes,2025,650.0,0.0,7650000.0,6.97647e+06,673530.0,673530.0,Below 10M
+Nissan,Dayz,X Limited + 4Way-Cam,Automatic,Petrol,Station Wagon,No,2023,660.0,17000.0,7650000.0,7.9690435e+06,319043.5,-319043.5,Below 10M
+Suzuki,Wagon R Fx,Brand New,Automatic,Hybrid,Unknown,No,2025,660.0,0.0,7650000.0,8.3216085e+06,671608.5,-671608.5,Below 10M
+Suzuki,Wagon R Fx,Fx Grade Mh95S,Automatic,Hybrid,Saloon,Yes,2023,660.0,2622.0,7650000.0,8.186502e+06,536502.0,-536502.0,Below 10M
+Toyota,Vitz,Edition 2,Automatic,Petrol,Hatchback,Yes,2017,1000.0,125000.0,7650000.0,7.186082e+06,463918.0,463918.0,Below 10M
+Toyota,Aqua,G Limited Edition,Automatic,Hybrid,Hatchback,Yes,2013,1490.0,160000.0,7650000.0,7.4419265e+06,208073.5,208073.5,Below 10M
+Toyota,Axio,Kn,Automatic,Petrol,Unknown,Yes,2008,1500.0,140000.0,7650000.0,7.324901e+06,325099.0,325099.0,Below 10M
+Nissan,Dayz,8000Km,Automatic,Petrol,Hatchback,Yes,2020,1000.0,8000.0,7690000.0,9.979342e+06,2289342.0,-2289342.0,Below 10M
+Toyota,Aqua,Aqua G Soft,Automatic,Hybrid,Hatchback,Yes,2014,1500.0,143000.0,7690000.0,7.801698e+06,111698.0,-111698.0,Below 10M
+Daihatsu,Mira,Es G,Automatic,Petrol,Hatchback,Yes,2025,650.0,0.0,7700000.0,6.97647e+06,723530.0,723530.0,Below 10M
+Mazda,3,Unknown,Tiptronic,Petrol,Unknown,Yes,2013,1598.0,127000.0,7700000.0,8.737596e+06,1037596.0,-1037596.0,Below 10M
+Suzuki,Wagon R Fx,Safety Package,Automatic,Petrol,Hatchback,Yes,2024,660.0,0.0,7700000.0,7.936673e+06,236673.0,-236673.0,Below 10M
+Suzuki,Alto,X Grade,Automatic,Petrol,Hatchback,No,2024,660.0,1400.0,7700000.0,6.5343715e+06,1165628.5,1165628.5,Below 10M
+Suzuki,Wagon R Fx,Brand New,Automatic,Petrol,Hatchback,No,2025,650.0,0.0,7700000.0,7.8780565e+06,178056.5,-178056.5,Below 10M
+Toyota,Prius,Unknown,Automatic,Petrol,Hatchback,Yes,2012,1490.0,232000.0,7700000.0,7.569522e+06,130478.0,130478.0,Below 10M
+Toyota,Pixis,Pixis 2023,Automatic,Petrol,Hatchback,Yes,2023,660.0,500.0,7700000.0,8.718409e+06,1018409.0,-1018409.0,Below 10M
+Toyota,Vitz,Edition 2 Premium,Automatic,Petrol,Hatchback,Yes,2018,1000.0,93000.0,7740000.0,8.1219575e+06,381957.5,-381957.5,Below 10M
+Daihatsu,Boon,X,Automatic,Petrol,Hatchback,Yes,2023,1000.0,8200.0,7750000.0,9.55884e+06,1808840.0,-1808840.0,Below 10M
+Mitsubishi,Ek Wagon,X G Premium,Automatic,Hybrid,Hatchback,No,2024,660.0,4000.0,7750000.0,8.0596205e+06,309620.5,-309620.5,Below 10M
+Ssang Yong,Rexton,2008,Automatic,Diesel,Suv / 4X4,Yes,2008,2700.0,180000.0,7750000.0,1.3136978e+07,5386978.0,-5386978.0,Below 10M
+Toyota,Axio,Axio 141X Limited,Automatic,Petrol,Saloon,Yes,2008,1500.0,194000.0,7750000.0,7.3538855e+06,396114.5,396114.5,Below 10M
+Daihatsu,Mira,G Grade,Automatic,Petrol,Hatchback,Yes,2025,650.0,6.0,7775000.0,7.6828095e+06,92190.5,92190.5,Below 10M
+Toyota,Vitz,Ksp130,Automatic,Petrol,Hatchback,Yes,2015,1000.0,76400.0,7780000.0,7.053848e+06,726152.0,726152.0,Below 10M
+Toyota,Vitz,Unknown,Automatic,Petrol,Hatchback,No,2015,1000.0,82600.0,7790000.0,6.8947315e+06,895268.5,895268.5,Below 10M
+Daihatsu,Mira,G Anniversary Push,Automatic,Petrol,Hatchback,Yes,2024,650.0,4000.0,7795000.0,6.6912885e+06,1103711.5,1103711.5,Below 10M
+Suzuki,Wagon R Fx,Suzuki,Automatic,Hybrid,Hatchback,Yes,2023,660.0,2200.0,7800000.0,7.9165725e+06,116572.5,-116572.5,Below 10M
+Daihatsu,Mira,G Grade 2025/9,Automatic,Petrol,Hatchback,Yes,2025,660.0,0.0,7850000.0,6.9235655e+06,926434.5,926434.5,Below 10M
+Toyota,Axio,G Grade,Automatic,Petrol,Saloon,No,2007,1500.0,154000.0,7850000.0,6.9250905e+06,924909.5,924909.5,Below 10M
+Toyota,Vitz,Safety Edition 3,Automatic,Petrol,Hatchback,No,2018,1000.0,100000.0,7875000.0,8.070419e+06,195419.0,-195419.0,Below 10M
+Daihatsu,Tanto,Tanto Fun Cross,Automatic,Petrol,Station Wagon,Yes,2023,650.0,14695.0,7900000.0,7.777925e+06,122075.0,122075.0,Below 10M
+Daihatsu,Taft,X Grade,Automatic,Petrol,Hatchback,No,2024,660.0,0.0,7950000.0,8.22906e+06,279060.0,-279060.0,Below 10M
+Honda,Fit,Unknown,Automatic,Petrol,Hatchback,Yes,2014,1500.0,170000.0,7950000.0,7.850502e+06,99498.0,99498.0,Below 10M
+Hyundai,Tucson,Diesel Gdi,Automatic,Diesel,Suv / 4X4,Yes,2012,2000.0,145000.0,7950000.0,8.269442e+06,319442.0,-319442.0,Below 10M
+Mitsubishi,Ek Wagon,X G Grade,Automatic,Hybrid,Hatchback,No,2025,660.0,7.0,7950000.0,8.684966e+06,734966.0,-734966.0,Below 10M
+Skoda,Fabia,Karoq Octavia,Automatic,Petrol,Hatchback,Yes,2020,1000.0,30000.0,7950000.0,8.306488e+06,356488.0,-356488.0,Below 10M
+Suzuki,Swift,Rs Turbo 4 Waycamera,Automatic,Petrol,Hatchback,Yes,2017,1000.0,106000.0,7950000.0,7.190586e+06,759414.0,759414.0,Below 10M
+Suzuki,Wagon R,Smile,Automatic,Hybrid,Hatchback,Yes,2023,660.0,15000.0,7950000.0,8.146999e+06,196999.0,-196999.0,Below 10M
+Suzuki,Wagon R,Fx Hybrid,Automatic,Hybrid,Hatchback,No,2023,660.0,13500.0,7950000.0,8.077611e+06,127611.0,-127611.0,Below 10M
+Toyota,Aqua,S Grade,Automatic,Hybrid,Hatchback,Yes,2013,1500.0,93000.0,7950000.0,7.5172155e+06,432784.5,432784.5,Below 10M
+Toyota,Allion,240,Automatic,Petrol,Saloon,No,2006,1490.0,212105.0,7950000.0,7.890719e+06,59281.0,59281.0,Below 10M
+Toyota,Yaris,X Grade Safety,Automatic,Petrol,Hatchback,Yes,2023,960.0,35000.0,7990000.0,9.011888e+06,1021888.0,-1021888.0,Below 10M
+Daihatsu,Taft,Darh Chrome Venture,Automatic,Petrol,Hatchback,No,2023,650.0,12000.0,7995000.0,7.718015e+06,276985.0,276985.0,Below 10M
+Mercedes Benz,E200,Unknown,Automatic,Hybrid,Hatchback,No,2025,2000.0,1000.0,70000000.0,4.4488896e+07,25511104.0,25511104.0,30M–100M
+Toyota,Land Cruiser Sahara,V8,Automatic,Diesel,Suv / 4X4,Yes,2016,4500.0,141000.0,70000000.0,6.6205876e+07,3794124.0,3794124.0,30M–100M
+Toyota,Land Cruiser Sahara,Diesel Parliament,Automatic,Diesel,Suv / 4X4,Yes,2016,4500.0,108000.0,72000000.0,6.6795044e+07,5204956.0,5204956.0,30M–100M
+Land Rover,Defender,Pure Petrol Sunroof,Tiptronic,Petrol,Suv / 4X4,Yes,2023,2000.0,8056.0,72500000.0,7.165994e+07,840064.0,840064.0,30M–100M
+Audi,Q7,Platinum Edition,Tiptronic,Petrol,Suv / 4X4,Yes,2025,2000.0,0.0,73000000.0,6.970709e+07,3292912.0,3292912.0,30M–100M
+Toyota,Land Cruiser Sahara,Vx V8 2016,Tiptronic,Diesel,Suv / 4X4,Yes,2016,4500.0,122000.0,74500000.0,6.6618824e+07,7881176.0,7881176.0,30M–100M
+Land Rover,Defender,110 Hse,Tiptronic,Hybrid,Suv / 4X4,No,2026,2000.0,10.0,76000000.0,7.559795e+07,402048.0,402048.0,30M–100M
+Toyota,Land Cruiser Prado,Prado 250 Diesel,Automatic,Diesel,Suv / 4X4,Yes,2025,2800.0,3000.0,78500000.0,5.2939604e+07,25560396.0,25560396.0,30M–100M
+Mitsubishi,Lancer,Lancer,Manual,Petrol,Unknown,Yes,1985,1280.0,150000.0,795000.0,932435.06,137435.0625,-137435.0625,Below 10M
+Toyota,Vitz,Safety Edition,Automatic,Petrol,Hatchback,Yes,2015,1000.0,60000.0,8000000.0,7.2030775e+06,796922.5,796922.5,Below 10M
+Toyota,Axio,G Grade,Automatic,Petrol,Saloon,Yes,2011,1500.0,127000.0,8000000.0,8.310624e+06,310624.0,-310624.0,Below 10M
+Toyota,Axio,X Limit,Automatic,Petrol,Saloon,Yes,2006,1490.0,159600.0,8000000.0,6.6915185e+06,1308481.5,1308481.5,Below 10M
+Suzuki,Swift,Hybrid 2017,Automatic,Hybrid,Hatchback,Yes,2017,1200.0,58000.0,8025000.0,8.783253e+06,758253.0,-758253.0,Below 10M
+Suzuki,Wagon R Fx,Safety Hybrid,Automatic,Hybrid,Mpv,No,2024,660.0,1600.0,8050000.0,8.610914e+06,560914.0,-560914.0,Below 10M
+Honda,Fit,L Grade,Automatic,Hybrid,Hatchback,Yes,2014,1500.0,82575.0,8075000.0,7.784218e+06,290782.0,290782.0,Below 10M
+Toyota,Axio,Unknown,Automatic,Petrol,Saloon,Yes,2007,1500.0,89000.0,8100000.0,7.312303e+06,787697.0,787697.0,Below 10M
+Daihatsu,Taft,G Chrome Venture,Automatic,Petrol,Hatchback,Yes,2023,650.0,9181.0,8150000.0,7.7595215e+06,390478.5,390478.5,Below 10M
+Nissan,Dayz,Highway Star,Automatic,Petrol,Hatchback,Yes,2023,660.0,25000.0,8150000.0,7.70857e+06,441430.0,441430.0,Below 10M
+Suzuki,Swift,Rs,Automatic,Petrol,Hatchback,Yes,2017,1240.0,51000.0,8150000.0,8.960845e+06,810845.0,-810845.0,Below 10M
+Toyota,Vitz,Edition 2,Automatic,Petrol,Hatchback,Yes,2018,990.0,98000.0,8150000.0,8.0408185e+06,109181.5,109181.5,Below 10M
+Toyota,Allion,240,Automatic,Petrol,Saloon,Yes,2007,1500.0,148000.0,8175000.0,8.424054e+06,249054.0,-249054.0,Below 10M
+Toyota,Vitz,2Nd Edition,Automatic,Petrol,Hatchback,Yes,2018,1000.0,72000.0,8175000.0,8.2480975e+06,73097.5,-73097.5,Below 10M
+Audi,A1,Sportback,Tiptronic,Petrol,Hatchback,Yes,2016,1000.0,137000.0,8200000.0,8.3927e+06,192700.0,-192700.0,Below 10M
+Suzuki,Wagon R Zx,Zx Custom Upgrade,Automatic,Hybrid,Hatchback,No,2025,660.0,10000.0,8200000.0,8.1068055e+06,93194.5,93194.5,Below 10M
+Toyota,Axio,X,Automatic,Hybrid,Saloon,Yes,2014,1500.0,100000.0,8250000.0,9.255702e+06,1005702.0,-1005702.0,Below 10M
+Mitsubishi,Ek Wagon,Ek X,Automatic,Hybrid,Hatchback,Yes,2023,660.0,14000.0,8275000.0,8.159712e+06,115288.0,115288.0,Below 10M
+Nissan,Magnite,N Connecta Amt,Automatic,Petrol,Hatchback,Yes,2025,1000.0,0.0,8275000.0,9.545485e+06,1270485.0,-1270485.0,Below 10M
+Suzuki,Wagon R,Smile Hybrid,Automatic,Petrol,Hatchback,No,2024,650.0,270.0,8290000.0,8.2459425e+06,44057.5,44057.5,Below 10M
+Honda,N-Box,Custom Turbo,Automatic,Petrol,Hatchback,No,2023,660.0,13000.0,8300000.0,7.943435e+06,356565.0,356565.0,Below 10M
+Honda,Civic,Fb1,Tiptronic,Petrol,Saloon,Yes,2012,1600.0,102000.0,8300000.0,8.67538e+06,375380.0,-375380.0,Below 10M
+Nissan,Dayz,Highway Star Hybrid,Automatic,Hybrid,Hatchback,Yes,2024,660.0,600.0,8300000.0,8.665202e+06,365202.0,-365202.0,Below 10M
+Toyota,Aqua,S,Automatic,Hybrid,Hatchback,Yes,2015,1500.0,217000.0,8300000.0,8.2145545e+06,85445.5,85445.5,Below 10M
+Suzuki,Swift,Unknown,Tiptronic,Petrol,Unknown,Yes,2017,990.0,55000.0,8325000.0,7.7843885e+06,540611.5,540611.5,Below 10M
+Toyota,Vitz,Vitz Edition 2,Automatic,Petrol,Hatchback,No,2018,1000.0,70512.0,8325000.0,8.2946695e+06,30330.5,30330.5,Below 10M
+Dfsk,Glory,580 7-Seater Luxury,Automatic,Petrol,Suv / 4X4,Yes,2020,1500.0,81000.0,8350000.0,9.556543e+06,1206543.0,-1206543.0,Below 10M
+Honda,Crossroad,Unknown,Automatic,Petrol,Unknown,Yes,2007,1750.0,165000.0,8350000.0,5.9323495e+06,2417650.5,2417650.5,Below 10M
+Honda,Fit,Honda Fit Gp5,Automatic,Hybrid,Hatchback,Yes,2014,1500.0,194000.0,8350000.0,7.730096e+06,619904.0,619904.0,Below 10M
+Nissan,Dayz,Highway Star X,Automatic,Hybrid,Hatchback,Yes,2023,660.0,10400.0,8350000.0,8.160257e+06,189743.0,189743.0,Below 10M
+Suzuki,Spacia,X,Automatic,Hybrid,Hatchback,Yes,2024,650.0,12188.0,8350000.0,9.047418e+06,697418.0,-697418.0,Below 10M
+Suzuki,Wagon R Zx,Zx,Automatic,Petrol,Hatchback,Yes,2023,660.0,12000.0,8350000.0,7.7262045e+06,623795.5,623795.5,Below 10M
+Suzuki,Wagon R Fz,Custom Z,Automatic,Hybrid,Hatchback,Yes,2023,660.0,4000.0,8400000.0,8.1785345e+06,221465.5,221465.5,Below 10M
+Daihatsu,Taft,G Dark Chrome,Automatic,Petrol,Hatchback,Yes,2024,660.0,0.0,8450000.0,8.455025e+06,5025.0,-5025.0,Below 10M
+Daihatsu,Tanto,Tanto Custom X,Automatic,Hybrid,Unknown,Yes,2023,660.0,7000.0,8450000.0,8.2389545e+06,211045.5,211045.5,Below 10M
+Mg,Zs,Turbo Sunroof,Automatic,Petrol,Suv / 4X4,Yes,2018,1000.0,67000.0,8450000.0,8.969395e+06,519395.0,-519395.0,Below 10M
+Nissan,Dayz,Highwaystar Propilot,Automatic,Hybrid,Hatchback,No,2023,660.0,5200.0,8450000.0,8.0581065e+06,391893.5,391893.5,Below 10M
+Toyota,Passo,X Package,Automatic,Petrol,Hatchback,Yes,2023,1000.0,7000.0,8450000.0,9.073652e+06,623652.0,-623652.0,Below 10M
+Daihatsu,Taft,G Dark Chrom Venture,Automatic,Petrol,Hatchback,Yes,2024,650.0,0.0,8500000.0,8.445483e+06,54517.0,54517.0,Below 10M
+Daihatsu,Taft,G Dark Chrome Turbo,Automatic,Petrol,Hatchback,No,2023,660.0,13000.0,8500000.0,7.718015e+06,781985.0,781985.0,Below 10M
+Honda,Fit,Gp 5,Automatic,Petrol,Hatchback,Yes,2015,1500.0,170000.0,8500000.0,8.341846e+06,158154.0,158154.0,Below 10M
+Mitsubishi,Ek Wagon,X,Automatic,Hybrid,Hatchback,Yes,2024,660.0,0.0,8500000.0,8.503203e+06,3203.0,-3203.0,Below 10M
+Toyota,Vitz,1St Edition,Automatic,Petrol,Hatchback,Yes,2019,1000.0,68000.0,8500000.0,8.512696e+06,12696.0,-12696.0,Below 10M
+Toyota,Vitz,Safety Edition 3,Automatic,Petrol,Hatchback,Yes,2019,1000.0,88000.0,8500000.0,8.3437555e+06,156244.5,156244.5,Below 10M
+Toyota,Camry,Unknown,Automatic,Petrol,Saloon,Yes,2007,2400.0,178000.0,8500000.0,8.414315e+06,85685.0,85685.0,Below 10M
+Daihatsu,Taft,G Turbo,Automatic,Petrol,Hatchback,Yes,2025,660.0,790.0,8525000.0,8.411178e+06,113822.0,113822.0,Below 10M
+Daihatsu,Taft,G Chrom,Automatic,Petrol,Hatchback,Yes,2025,660.0,0.0,8550000.0,8.567672e+06,17672.0,-17672.0,Below 10M
+Daihatsu,Taft,Moonroof/Sports Pack,Automatic,Petrol,Hatchback,Yes,2023,650.0,3000.0,8550000.0,7.916882e+06,633118.0,633118.0,Below 10M
+Honda,Insight,Ze 3,Automatic,Hybrid,Saloon,Yes,2012,1500.0,218000.0,8550000.0,7.587207e+06,962793.0,962793.0,Below 10M
+Suzuki,Wagon R,Custom Z Upgraded,Automatic,Hybrid,Unknown,Yes,2025,660.0,0.0,8550000.0,8.987633e+06,437633.0,-437633.0,Below 10M
+Toyota,Aqua,X Urban,Automatic,Petrol,Hatchback,No,2014,1500.0,122000.0,8550000.0,7.925063e+06,624937.0,624937.0,Below 10M
+Nissan,Magnite,N Connecta Amt,Automatic,Petrol,Hatchback,Yes,2025,1000.0,0.0,8575000.0,9.545485e+06,970485.0,-970485.0,Below 10M
+Toyota,Yaris,X Ltd,Automatic,Petrol,Hatchback,Yes,2023,1000.0,52000.0,8600000.0,9.170389e+06,570389.0,-570389.0,Below 10M
+Toyota,Vitz,Unknown,Automatic,Petrol,Hatchback,No,2017,1000.0,59400.0,8600000.0,7.3146745e+06,1285325.5,1285325.5,Below 10M
+Toyota,Roomy,X Grade Sddd - A1,Automatic,Petrol,Mpv,Yes,2025,1000.0,5.0,8600000.0,1.1764237e+07,3164237.0,-3164237.0,Below 10M
+Toyota,Roomy,X Grade Sddd - A1,Automatic,Petrol,Suv / 4X4,Yes,2025,1000.0,5.0,8600000.0,1.2243819e+07,3643819.0,-3643819.0,Below 10M
+Daihatsu,Taft,Moon Roof,Automatic,Petrol,Hatchback,Yes,2024,650.0,15.0,8650000.0,8.431899e+06,218101.0,218101.0,Below 10M
+Nissan,Magnite,N Connecta Amt,Automatic,Petrol,Hatchback,Yes,2025,1000.0,0.0,8650000.0,9.545485e+06,895485.0,-895485.0,Below 10M
+Suzuki,Spacia,Hybrid X,Automatic,Hybrid,Unknown,No,2024,660.0,2000.0,8650000.0,8.9278e+06,277800.0,-277800.0,Below 10M
+Suzuki,Wagon R Zx,Custom Zx,Automatic,Hybrid,Hatchback,Yes,2024,660.0,7000.0,8650000.0,8.1311645e+06,518835.5,518835.5,Below 10M
+Toyota,Vitz,Edition 1,Automatic,Petrol,Hatchback,Yes,2017,1000.0,45000.0,8650000.0,7.452146e+06,1197854.0,1197854.0,Below 10M
+Toyota,Passo,Xl Package,Automatic,Petrol,Hatchback,Yes,2023,1000.0,17000.0,8650000.0,9.022861e+06,372861.0,-372861.0,Below 10M
+Suzuki,Wagon R Zx,Custom Z 2025,Automatic,Petrol,Saloon,Yes,2025,650.0,0.0,8675000.0,8.751489e+06,76489.0,-76489.0,Below 10M
+Toyota,Prius,Prius,Automatic,Hybrid,Saloon,Yes,2011,1500.0,123456.0,8675000.0,8.05919e+06,615810.0,615810.0,Below 10M
+Nissan,Magnite,N-Connecta Amt,Automatic,Petrol,Hatchback,No,2025,999.0,0.0,8690000.0,9.624059e+06,934059.0,-934059.0,Below 10M
+Nissan,Magnite,N-Connecta Amt,Automatic,Petrol,Hatchback,No,2025,1000.0,0.0,8690000.0,9.517398e+06,827398.0,-827398.0,Below 10M
+Suzuki,Wagon R,Custom Z 4 Way Cam,Automatic,Hybrid,Hatchback,Yes,2024,658.0,0.0,8690000.0,8.803522e+06,113522.0,-113522.0,Below 10M
+Honda,Fit,Gp5 S Grade,Automatic,Petrol,Station Wagon,Yes,2015,1500.0,131000.0,8700000.0,9.528387e+06,828387.0,-828387.0,Below 10M
+Suzuki,Wagon R Zx,Custom Z,Automatic,Hybrid,Hatchback,Yes,2025,660.0,3.0,8700000.0,8.857825e+06,157825.0,-157825.0,Below 10M
+Suzuki,Wagon R Zx,Custom Zx,Automatic,Hybrid,Unknown,Yes,2025,659.0,0.0,8700000.0,8.918167e+06,218167.0,-218167.0,Below 10M
+Suzuki,Wagon R,Custom Z,Automatic,Hybrid,Hatchback,Yes,2025,658.0,0.0,8725000.0,8.881958e+06,156958.0,-156958.0,Below 10M
+Suzuki,Wagon R,Custom Zx Hybrid,Automatic,Hybrid,Hatchback,No,2025,660.0,17.0,8740000.0,8.662508e+06,77492.0,77492.0,Below 10M
+Daihatsu,Taft,G Chrome,Automatic,Petrol,Mpv,Yes,2023,650.0,0.0,8750000.0,8.653442e+06,96558.0,96558.0,Below 10M
+Daihatsu,Taft,Unknown,Automatic,Petrol,Hatchback,Yes,2024,660.0,0.0,8750000.0,8.3776585e+06,372341.5,372341.5,Below 10M
+Suzuki,Wagon R Zx,Custom Z Upgrade,Automatic,Hybrid,Hatchback,No,2025,660.0,0.0,8750000.0,8.734846e+06,15154.0,15154.0,Below 10M
+Suzuki,Spacia,Custom Z,Automatic,Hybrid,Station Wagon,Yes,2023,650.0,25000.0,8775000.0,8.903992e+06,128992.0,-128992.0,Below 10M
+Daihatsu,Taft,G Dark Chrome,Automatic,Petrol,Hatchback,No,2024,660.0,9000.0,8800000.0,7.703433e+06,1096567.0,1096567.0,Below 10M
+Dfsk,Glory,580,Automatic,Petrol,Unknown,Yes,2019,1500.0,52000.0,8800000.0,8.790862e+06,9138.0,9138.0,Below 10M
+Honda,Vezel,X Black Package,Automatic,Hybrid,Suv / 4X4,Yes,2014,1500.0,163000.0,8800000.0,9.13178e+06,331780.0,-331780.0,Below 10M
+Nissan,Dayz,S-Hybrid,Automatic,Hybrid,Hatchback,Yes,2024,660.0,0.0,8800000.0,8.837818e+06,37818.0,-37818.0,Below 10M
+Toyota,Vitz,Unknown,Automatic,Petrol,Unknown,Yes,2018,1000.0,79000.0,8800000.0,8.2745065e+06,525493.5,525493.5,Below 10M
+Toyota,Roomy,G Turbo,Automatic,Petrol,Hatchback,No,2022,1000.0,28000.0,8850000.0,9.561721e+06,711721.0,-711721.0,Below 10M
+Toyota,Passo,Moda 4 Way,Automatic,Petrol,Hatchback,Yes,2022,998.0,33800.0,8850000.0,8.518373e+06,331627.0,331627.0,Below 10M
+Suzuki,Wagon R Zx,Unknown,Automatic,Hybrid,Unknown,Yes,2025,650.0,0.0,8875000.0,8.832771e+06,42229.0,42229.0,Below 10M
+Toyota,Roomy,G Dual Power Door,Automatic,Petrol,Unknown,No,2023,1000.0,30000.0,8875000.0,9.641348e+06,766348.0,-766348.0,Below 10M
+Toyota,Axio,X Grade,Automatic,Hybrid,Saloon,No,2015,1500.0,128000.0,8890000.0,9.50392e+06,613920.0,-613920.0,Below 10M
+Honda,Grace,Ex,Automatic,Hybrid,Saloon,Yes,2015,1500.0,120000.0,8900000.0,9.319386e+06,419386.0,-419386.0,Below 10M
+Honda,N-Box,Custom,Automatic,Petrol,Hatchback,Yes,2025,650.0,8.0,8900000.0,8.728359e+06,171641.0,171641.0,Below 10M
+Toyota,Prius,2Nd Gen,Automatic,Petrol,Hatchback,Yes,2011,1790.0,225000.0,8900000.0,9.515564e+06,615564.0,-615564.0,Below 10M
+Toyota,Axio,Hybrid,Automatic,Hybrid,Saloon,Yes,2015,1500.0,223000.0,8900000.0,9.307449e+06,407449.0,-407449.0,Below 10M
+Toyota,Yaris,X Grade Un/Re,Automatic,Petrol,Hatchback,Yes,2023,1000.0,21000.0,8900000.0,9.768384e+06,868384.0,-868384.0,Below 10M
+Toyota,Aqua,X Urban,Automatic,Hybrid,Hatchback,Yes,2015,1500.0,260000.0,8900000.0,8.2332835e+06,666716.5,666716.5,Below 10M
+Suzuki,Wagon R,Custom Zx 4Way Hud,Automatic,Hybrid,Hatchback,Yes,2025,660.0,0.0,8925000.0,8.902463e+06,22537.0,22537.0,Below 10M
+Suzuki,Wagon R,Custom Zx Upgrade,Automatic,Hybrid,Hatchback,No,2024,650.0,0.0,8925000.0,8.650018e+06,274982.0,274982.0,Below 10M
+Hyundai,Santa Fe,Fully Loaded,Automatic,Diesel,Hatchback,Yes,2011,2200.0,226250.0,8950000.0,7.184677e+06,1765323.0,1765323.0,Below 10M
+Suzuki,Wagon R Stingray,Unknown,Automatic,Hybrid,Hatchback,No,2024,660.0,3000.0,8950000.0,8.2323255e+06,717674.5,717674.5,Below 10M
+Suzuki,Xbee,Hybrid 4Way,Automatic,Hybrid,Hatchback,No,2023,1000.0,12000.0,8950000.0,9.882777e+06,932777.0,-932777.0,Below 10M
+Suzuki,Swift,Rs Turbo Arm Rest,Automatic,Petrol,Hatchback,Yes,2019,1000.0,39000.0,8965000.0,8.88322e+06,81780.0,81780.0,Below 10M
+Daihatsu,Taft,G,Automatic,Petrol,Hatchback,Yes,2025,658.0,200.0,8975000.0,8.526126e+06,448874.0,448874.0,Below 10M
+Volkswagen,Passat,Unknown,Automatic,Petrol,Saloon,No,2011,1950.0,109000.0,8975000.0,9.229911e+06,254911.0,-254911.0,Below 10M
+Suzuki,Hustler,"Tough Wild ,X",Automatic,Hybrid,Hatchback,Yes,2024,660.0,2230.0,8990000.0,8.3028765e+06,687123.5,687123.5,Below 10M
+Honda,Civic,1985,Manual,Petrol,Saloon,Yes,1985,1500.0,150000.0,800000.0,1.0597704e+06,259770.375,-259770.375,Below 10M
+Toyota,Corona,Unknown,Manual,Diesel,Saloon,Yes,1983,1830.0,200000.0,800000.0,1.03109044e+06,231090.4375,-231090.4375,Below 10M
+Land Rover,Defender,Urban P400E,Automatic,Hybrid,Suv / 4X4,Yes,2023,2000.0,8800.0,85000000.0,7.6784344e+07,8215656.0,8215656.0,30M–100M
+Morris,Oxford,1978,Manual,Diesel,Unknown,No,1978,1800.0,100000.0,850000.0,1.220106e+06,370106.0,-370106.0,Below 10M
+Daihatsu,Charade,1987,Manual,Diesel,Saloon,Yes,1987,2100.0,75482.0,875000.0,2.3945e+06,1519500.0,-1519500.0,Below 10M
+Mitsubishi,Other Model,Segma 1983,Manual,Petrol,Saloon,Yes,1983,1600.0,,875000.0,1.1335758e+06,258575.75,-258575.75,Below 10M
+Nissan,Sunny,B310,Manual,Petrol,Saloon,Yes,1978,1400.0,250000.0,875000.0,855668.4,19331.625,19331.625,Below 10M
+Toyota,Corona,Toyota,Manual,Petrol,Saloon,Yes,1984,1500.0,110800.0,875000.0,1.04063725e+06,165637.25,-165637.25,Below 10M
+Toyota,Land Cruiser Sahara,Lc300 Zx 2025,Automatic,Petrol,Suv / 4X4,No,2025,3500.0,0.0,89000000.0,9.3503544e+07,4503544.0,-4503544.0,30M–100M
+Mitsubishi,Lancer,Lancer Box,Manual,Petrol,Saloon,No,1981,1400.0,80880.0,890000.0,1.0496716e+06,159671.625,-159671.625,Below 10M
+Chery,Tiggo 4 Pro,Unknown,Automatic,Petrol,Suv / 4X4,Yes,2024,1500.0,15000.0,9000000.0,1.7000966e+07,8000966.0,-8000966.0,Below 10M
+Kia,Sportage,2010,Automatic,Petrol,Hatchback,Yes,2010,2000.0,106000.0,9000000.0,8.2487345e+06,751265.5,751265.5,Below 10M
+Toyota,Axio,Toyota Axio 2014,Automatic,Hybrid,Saloon,Yes,2014,1500.0,144600.0,9000000.0,9.334436e+06,334436.0,-334436.0,Below 10M
+Toyota,Harrier,Hybrid,Automatic,Hybrid,Suv / 4X4,Yes,2008,3000.0,149000.0,9025000.0,1.3375682e+07,4350682.0,-4350682.0,Below 10M
+Suzuki,Wagon R Stingray,2024,Automatic,Hybrid,Hatchback,Yes,2024,660.0,3000.0,9075000.0,8.436757e+06,638243.0,638243.0,Below 10M
+Suzuki,Spacia,Mk94S - Xs -Kwww-A1,Automatic,Hybrid,Mpv,Yes,2025,660.0,0.0,9100000.0,1.0376241e+07,1276241.0,-1276241.0,Below 10M
+Daihatsu,Canbus,Turbo Intercooler,Automatic,Petrol,Unknown,Yes,2023,660.0,5000.0,9150000.0,7.7041165e+06,1445883.5,1445883.5,Below 10M
+Suzuki,Vitara,Contrast Roof,Automatic,Petrol,Suv / 4X4,Yes,2019,1000.0,136000.0,9150000.0,8.966435e+06,183565.0,183565.0,Below 10M
+Toyota,Yaris,X,Automatic,Petrol,Hatchback,Yes,2023,1000.0,16680.0,9150000.0,9.557856e+06,407856.0,-407856.0,Below 10M
+Toyota,Yaris,X Limited,Automatic,Petrol,Hatchback,Yes,2023,1000.0,46000.0,9150000.0,9.165597e+06,15597.0,-15597.0,Below 10M
+Toyota,Roomy,2022,Automatic,Petrol,Saloon,Yes,2022,1000.0,15000.0,9150000.0,1.0222389e+07,1072389.0,-1072389.0,Below 10M
+Nissan,Magnite,Nissan,Automatic,Petrol,Suv / 4X4,Yes,2025,1000.0,0.0,9175000.0,1.0386874e+07,1211874.0,-1211874.0,Below 10M
+Suzuki,Wagon R Zx,Custom,Automatic,Hybrid,Hatchback,Yes,2025,650.0,10.0,9175000.0,8.845989e+06,329011.0,329011.0,Below 10M
+Toyota,Prius,S Grade,Automatic,Hybrid,Station Wagon,Yes,2012,1790.0,112000.0,9175000.0,9.917862e+06,742862.0,-742862.0,Below 10M
+Daihatsu,Taft,G Chrome Adventure,Automatic,Petrol,Hatchback,Yes,2025,660.0,0.0,9200000.0,8.567672e+06,632328.0,632328.0,Below 10M
+Skoda,Karoq,Unknown,Automatic,Petrol,Suv / 4X4,Yes,2018,1000.0,106310.0,9200000.0,8.0470705e+06,1152929.5,1152929.5,Below 10M
+Suzuki,Spacia,Custom Xs,Automatic,Hybrid,Hatchback,No,2024,660.0,425.0,9200000.0,9.114274e+06,85726.0,85726.0,Below 10M
+Toyota,Axio,G Grade,Automatic,Hybrid,Saloon,Yes,2015,1500.0,133000.0,9200000.0,9.67565e+06,475650.0,-475650.0,Below 10M
+Toyota,Axio,G Grade,Automatic,Hybrid,Saloon,Yes,2014,1500.0,175000.0,9200000.0,9.175725e+06,24275.0,24275.0,Below 10M
+Toyota,Prius,3Rd Generation,Automatic,Petrol,Hatchback,Yes,2010,1800.0,200000.0,9200000.0,9.328687e+06,128687.0,-128687.0,Below 10M
+Toyota,Yaris,X,Automatic,Petrol,Hatchback,Yes,2023,1000.0,39000.0,9200000.0,9.104545e+06,95455.0,95455.0,Below 10M
+Honda,Vezel,Z Grade,Automatic,Hybrid,Hatchback,No,2014,1500.0,99058.0,9250000.0,7.811525e+06,1438475.0,1438475.0,Below 10M
+Suzuki,Spacia,Custom Xs Turbo,Automatic,Hybrid,Hatchback,No,2024,660.0,0.0,9250000.0,9.11923e+06,130770.0,130770.0,Below 10M
+Suzuki,Spacia,Custom Xs 360 Cam,Automatic,Hybrid,Hatchback,Yes,2024,660.0,12000.0,9250000.0,8.974939e+06,275061.0,275061.0,Below 10M
+Toyota,Yaris,Push Start/ Safety,Automatic,Petrol,Hatchback,Yes,2022,990.0,34133.0,9250000.0,9.193822e+06,56178.0,56178.0,Below 10M
+Nissan,Magnite,N Connecta Cvt,Automatic,Petrol,Hatchback,Yes,2025,1000.0,0.0,9275000.0,9.545485e+06,270485.0,-270485.0,Below 10M
+Suzuki,Wagon R Zx,Brand New,Automatic,Hybrid,Hatchback,Yes,2025,650.0,10.0,9275000.0,8.86653e+06,408470.0,408470.0,Below 10M
+Toyota,Yaris,X With Push Start,Automatic,Petrol,Hatchback,No,2024,1000.0,15000.0,9275000.0,9.756076e+06,481076.0,-481076.0,Below 10M
+Mercedes Benz,E300,Mercedes Benz,Automatic,Petrol,Saloon,No,2006,3000.0,145000.0,9300000.0,1.4896201e+07,5596201.0,-5596201.0,Below 10M
+Honda,Vezel,Z Grade,Automatic,Hybrid,Suv / 4X4,Yes,2014,1500.0,161000.0,9350000.0,9.021192e+06,328808.0,328808.0,Below 10M
+Suzuki,Wagon R,Custom Zx (Upgrade),Automatic,Hybrid,Hatchback,Yes,2024,650.0,8000.0,9350000.0,8.1500455e+06,1199954.5,1199954.5,Below 10M
+Toyota,Yaris,G Grade,Automatic,Petrol,Hatchback,No,2022,1000.0,22000.0,9350000.0,9.506929e+06,156929.0,-156929.0,Below 10M
+Toyota,Roomy,Custom Gt,Automatic,Petrol,Mpv,Yes,2023,990.0,12000.0,9350000.0,9.887792e+06,537792.0,-537792.0,Below 10M
+Toyota,Prius,3Rd Generation,Automatic,Hybrid,Hatchback,Yes,2012,1790.0,146000.0,9350000.0,9.657673e+06,307673.0,-307673.0,Below 10M
+Honda,Vezel,Z Orange Package,Automatic,Hybrid,Suv / 4X4,No,2014,1500.0,137039.0,9375000.0,9.349635e+06,25365.0,25365.0,Below 10M
+Mazda,Other Model,Double Cab Bt 150,Manual,Diesel,Suv / 4X4,Yes,2013,3000.0,164000.0,9375000.0,1.0212489e+07,837489.0,-837489.0,Below 10M
+Toyota,Roomy,G,Automatic,Petrol,Hatchback,Yes,2023,1000.0,23000.0,9450000.0,9.739102e+06,289102.0,-289102.0,Below 10M
+Honda,Vezel,Z Grade,Automatic,Petrol,Hatchback,Yes,2014,1496.0,94000.0,9500000.0,8.403016e+06,1096984.0,1096984.0,Below 10M
+Honda,Fit Shuttle,Gp2,Automatic,Petrol,Station Wagon,Yes,2012,1500.0,130000.0,9500000.0,8.529436e+06,970564.0,970564.0,Below 10M
+Honda,Grace,Ex,Automatic,Hybrid,Saloon,Yes,2015,1500.0,150000.0,9500000.0,9.050542e+06,449458.0,449458.0,Below 10M
+Honda,Vezel,Unknown,Automatic,Hybrid,Suv / 4X4,Yes,2014,1400.0,87000.0,9500000.0,9.497668e+06,2332.0,2332.0,Below 10M
+Kia,Sportage,Ex,Tiptronic,Petrol,Suv / 4X4,Yes,2011,1988.0,141000.0,9500000.0,9.528514e+06,28514.0,-28514.0,Below 10M
+Subaru,Xv,2014,Automatic,Petrol,Unknown,Yes,2014,2000.0,149000.0,9500000.0,1.2951279e+07,3451279.0,-3451279.0,Below 10M
+Toyota,Axio,Hybrid,Automatic,Hybrid,Saloon,No,2015,1500.0,50000.0,9500000.0,1.0051359e+07,551359.0,-551359.0,Below 10M
+Toyota,Allion,260 A18,Automatic,Petrol,Saloon,No,2008,1790.0,185000.0,9500000.0,8.895097e+06,604903.0,604903.0,Below 10M
+Daihatsu,Thor,G Premium,Automatic,Petrol,Hatchback,No,2023,1000.0,10000.0,9550000.0,1.0022643e+07,472643.0,-472643.0,Below 10M
+Daihatsu,Taft,G Chrome Adventure,Automatic,Petrol,Hatchback,Yes,2025,660.0,0.0,9550000.0,8.567672e+06,982328.0,982328.0,Below 10M
+Suzuki,Spacia,Xs Custom,Automatic,Petrol,Hatchback,Yes,2025,660.0,260.0,9600000.0,9.408867e+06,191133.0,191133.0,Below 10M
+Toyota,Yaris,X Grade 1000,Automatic,Petrol,Hatchback,Yes,2023,1000.0,3300.0,9600000.0,1.0044326e+07,444326.0,-444326.0,Below 10M
+Toyota,Yaris,G Grade,Automatic,Petrol,Unknown,Yes,2024,1000.0,22000.0,9600000.0,9.89817e+06,298170.0,-298170.0,Below 10M
+Toyota,Roomy,Custom G - Sddd-A1,Automatic,Petrol,Mpv,Yes,2024,1000.0,10000.0,9600000.0,1.045507e+07,855070.0,-855070.0,Below 10M
+Toyota,Yaris,Yaris X Push Start,Automatic,Petrol,Hatchback,Yes,2024,1000.0,26000.0,9650000.0,9.61771e+06,32290.0,32290.0,Below 10M
+Toyota,Estima,E-Four Hybrid,Automatic,Hybrid,Mpv,Yes,2008,2400.0,250000.0,9660000.0,9.099232e+06,560768.0,560768.0,Below 10M
+Toyota,Premio,G Superior,Automatic,Petrol,Saloon,Yes,2011,1500.0,166500.0,9675000.0,9.804297e+06,129297.0,-129297.0,Below 10M
+Honda,Vezel,Z Grade,Automatic,Hybrid,Hatchback,No,2014,1500.0,99058.0,9750000.0,7.811525e+06,1938475.0,1938475.0,Below 10M
+Mercedes Benz,Other Model,Citan,Manual,Petrol,Mpv,Yes,2015,1500.0,130000.0,9750000.0,6.877132e+06,2872868.0,2872868.0,Below 10M
+Suzuki,Spacia,Custom Xs,Automatic,Hybrid,Station Wagon,Yes,2023,660.0,0.0,9750000.0,9.50247e+06,247530.0,247530.0,Below 10M
+Toyota,Yaris,G Led,Automatic,Petrol,Hatchback,Yes,2022,1000.0,13172.0,9750000.0,9.825714e+06,75714.0,-75714.0,Below 10M
+Nissan,Magnite,Tekna Plus,Automatic,Petrol,Suv / 4X4,Yes,2025,1000.0,0.0,9790000.0,1.0386874e+07,596874.0,-596874.0,Below 10M
+Chery,Tiggo 4 Pro,Unknown,Automatic,Petrol,Suv / 4X4,Yes,2024,1500.0,15000.0,9800000.0,1.7000966e+07,7200966.0,-7200966.0,Below 10M
+Suzuki,Other Model,Highest Grade,Automatic,Petrol,Mpv,No,2025,658.0,0.0,9800000.0,8.805109e+06,994891.0,994891.0,Below 10M
+Toyota,Yaris,X 2025,Automatic,Petrol,Hatchback,No,2025,1000.0,300.0,9800000.0,1.0575244e+07,775244.0,-775244.0,Below 10M
+Toyota,Roomy,Unknown,Automatic,Petrol,Hatchback,Yes,2024,1000.0,4200.0,9800000.0,1.0333935e+07,533935.0,-533935.0,Below 10M
+Toyota,Roomy,G Safety Package,Automatic,Petrol,Mpv,Yes,2024,1000.0,3900.0,9800000.0,1.1005306e+07,1205306.0,-1205306.0,Below 10M
+Honda,Vezel,Orange Pkg,Automatic,Hybrid,Saloon,Yes,2015,1500.0,95000.0,9850000.0,9.604749e+06,245251.0,245251.0,Below 10M
+Mitsubishi,Delica,T Premium,Automatic,Hybrid,Mpv,Yes,2023,660.0,1.0,9875000.0,9.740031e+06,134969.0,134969.0,Below 10M
+Suzuki,Spacia,Custom Xs Turbo,Automatic,Petrol,Hatchback,Yes,2024,660.0,18000.0,9875000.0,8.585969e+06,1289031.0,1289031.0,Below 10M
+Toyota,Yaris,G Led,Automatic,Petrol,Hatchback,Yes,2023,1000.0,19200.0,9875000.0,9.772987e+06,102013.0,102013.0,Below 10M
+Toyota,Roomy,Custom G,Automatic,Petrol,Mpv,Yes,2024,1000.0,23500.0,9890000.0,1.0193884e+07,303884.0,-303884.0,Below 10M
+Dfsk,Glory,Auto,Automatic,Petrol,Suv / 4X4,Yes,2022,1500.0,55000.0,9900000.0,1.0367259e+07,467259.0,-467259.0,Below 10M
+Kia,Sorento,Fully Loaded,Tiptronic,Diesel,Suv / 4X4,Yes,2010,2200.0,111000.0,9900000.0,9.897642e+06,2358.0,2358.0,Below 10M
+Toyota,Roomy,Custom G,Automatic,Petrol,Saloon,Yes,2023,1000.0,14000.0,9900000.0,1.0190851e+07,290851.0,-290851.0,Below 10M
+Kia,Sorento,Unknown,Automatic,Petrol,Suv / 4X4,Yes,2012,2350.0,83500.0,9950000.0,1.2288809e+07,2338809.0,-2338809.0,Below 10M
+Suzuki,Spacia,Xs Turbo,Tiptronic,Hybrid,Saloon,Yes,2023,660.0,0.0,9950000.0,1.2166229e+07,2216229.0,-2216229.0,Below 10M
+Toyota,Yaris,X Grade 4Way B/New,Automatic,Petrol,Hatchback,Yes,2025,1000.0,0.0,9950000.0,1.0737008e+07,787008.0,-787008.0,Below 10M
+Toyota,Premio,X,Automatic,Petrol,Saloon,Yes,2012,1490.0,111650.0,9950000.0,9.848642e+06,101358.0,101358.0,Below 10M
+Toyota,Allion,G Grade,Automatic,Petrol,Saloon,Yes,2011,1490.0,108000.0,9950000.0,9.502361e+06,447639.0,447639.0,Below 10M
+Toyota,Yaris,X Grade,Automatic,Petrol,Hatchback,No,2023,990.0,26610.0,9950000.0,9.330556e+06,619444.0,619444.0,Below 10M
+Nissan,Magnite,Tekna Plus Turbo,Automatic,Petrol,Suv / 4X4,Yes,2025,1000.0,10.0,9975000.0,1.0361368e+07,386368.0,-386368.0,Below 10M
+Toyota,Roomy,Custom G,Automatic,Petrol,Unknown,No,2023,1000.0,20000.0,9990000.0,9.893697e+06,96303.0,96303.0,Below 10M
+Toyota,Roomy,Custom G Dual Tone,Automatic,Petrol,Mpv,Yes,2023,1000.0,2900.0,9990000.0,1.0886015e+07,896015.0,-896015.0,Below 10M
+Toyota,Land Cruiser Sahara,Zx Grade,Automatic,Petrol,Suv / 4X4,No,2025,3500.0,1000.0,90000000.0,9.239516e+07,2395160.0,-2395160.0,30M–100M
+Toyota,Land Cruiser Sahara,Zx Lc 300,Automatic,Petrol,Suv / 4X4,Yes,2024,3500.0,125.0,90000000.0,9.437073e+07,4370728.0,-4370728.0,30M–100M
+Toyota,Corolla,Ae81,Manual,Petrol,Hatchback,Yes,1986,1500.0,86000.0,900000.0,1.2808912e+06,380891.25,-380891.25,Below 10M
+Toyota,Land Cruiser Sahara,Lc300,Automatic,Petrol,Suv / 4X4,No,2025,3500.0,0.0,91000000.0,9.3503544e+07,2503544.0,-2503544.0,30M–100M
+Toyota,Land Cruiser Sahara,Zx Highest Spec,Automatic,Petrol,Suv / 4X4,No,2024,3500.0,3000.0,91500000.0,9.181262e+07,312624.0,-312624.0,30M–100M
+Toyota,Land Cruiser Sahara,Lc300 Zx,Automatic,Petrol,Suv / 4X4,No,2025,3500.0,77.0,91500000.0,9.239516e+07,895160.0,-895160.0,30M–100M
+Daihatsu,Charade,G-11,Manual,Petrol,Hatchback,Yes,1987,990.0,80000.0,910000.0,1.105336e+06,195336.0,-195336.0,Below 10M
+Toyota,Land Cruiser Prado,Lc300,Automatic,Petrol,Suv / 4X4,Yes,2025,3450.0,21.0,92500000.0,9.248755e+07,12448.0,12448.0,30M–100M
+Mazda,Other Model,Double Cab Bt 150,Manual,Diesel,Suv / 4X4,Yes,2013,3000.0,164000.0,93750000.0,1.0212489e+07,83537511.0,83537511.0,30M–100M
+Mazda,Other Model,Double Cab,Manual,Diesel,Suv / 4X4,Yes,2013,3000.0,164000.0,93750000.0,1.0212489e+07,83537511.0,83537511.0,30M–100M
+Audi,E-Tron,Gt,Tiptronic,Electric,Coupé/Sports,No,2025,,10.0,94000000.0,6.0351428e+07,33648572.0,33648572.0,30M–100M
+Mazda,Familia,Sport,Manual,Petrol,Coupé/Sports,No,1989,1500.0,59000.0,950000.0,1.3507868e+06,400786.75,-400786.75,Below 10M
+Toyota,Other Model,Lc 300,Automatic,Petrol,Suv / 4X4,Yes,2024,3500.0,7400.0,96500000.0,8.7958824e+07,8541176.0,8541176.0,30M–100M
+Toyota,Land Cruiser Sahara,Lc300,Automatic,Petrol,Suv / 4X4,No,2025,3500.0,0.0,96500000.0,9.3503544e+07,2996456.0,2996456.0,30M–100M
+Toyota,Land Cruiser Sahara,Lc300 Zx - V6,Automatic,Petrol,Suv / 4X4,Yes,2025,3500.0,0.0,97000000.0,9.529356e+07,1706440.0,1706440.0,30M–100M
+Nissan,Dutsun,Unknown,Manual,Diesel,Hatchback,Yes,1981,2164.0,150000.0,975000.0,1.8605589e+06,885558.875,-885558.875,Below 10M

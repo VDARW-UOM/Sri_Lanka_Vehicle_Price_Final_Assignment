@@ -1,0 +1,3 @@
+Model,CV_MAE_LKR,CV_MAE_SD_LKR,Best_settings
+Random Forest,2041461.3770735878,87999.5178254681,"{'n_estimators': 120, 'min_samples_leaf': 1, 'max_depth': 24}"
+XGBoost,2082394.332756849,104781.24722363154,"{'n_estimators': 450, 'min_child_weight': 4, 'max_depth': 8, 'learning_rate': 0.035}"
